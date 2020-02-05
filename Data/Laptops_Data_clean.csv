@@ -1,4 +1,4 @@
-Company,Memory_Structure_Categories,Gpu_Type,Gpu_Company,OpSys,Cpu_Company,Inches,CPU_Frequency_Numeric,Ram_Numeric,Size_Numeric,Weight_Numberic,Price_dollars
+Company,Memory_Structure_Categories,Gpu_Type,Gpu_Company,OpSys,Cpu_Company,Inches,CPU_Frequency_Numeric,Ram_Numeric,Size_Numeric,Weight_Numeric,Price_dollars
 Asus,Hybrid,GeForce GTX 1080,Nvidia,Windows 10,Intel,17.3,2.9,32,512,4.7,4279
 Lenovo,Hybrid,GeForce GTX 980M,Nvidia,Windows 10,Intel,17.3,2.7,32,512,4.6,3564
 Lenovo,Hybrid,GeForce GTX 980M,Nvidia,Windows 10,Intel,17.3,2.7,16,256,4.6,3025
