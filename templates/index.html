@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Price is Fine</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+
+<div class="container-fluid">
+  <div class="jumbotron text-center" >
+    <h1><strong>The Price is <s>Right</s> Fine</strong></h1>
+    <p>Guess a laptop price against four data models and see who is closest... good luck.</p>
+</div>
+
+
+
+<div class="row-fluid justify-content-center">
+  <div class="col-lg-3">
+  <!-- State select options -->
+    <aside class="filters">
+      <div class="panel panel-default">
+        <div class="panel-heading"><strong>User Input</strong></div>
+        <div class="panel-body">
+          <form>
+            <div class="form-group">
+              <ul class="list-group" id="filters">
+                <li class="filter list-group-item">
+                  <label for="userPrice">Guess a Price</label>
+                  <input class="form-control" id="userPriceSelector" type="number" placeholder="0000">
+                </li>
+              </ul>
+            </div>
+          </form>
+        </div>
+      </div>
+    </aside>
+  </div>
+
+</div>
+
+</body>
+
+
+</html>
+
