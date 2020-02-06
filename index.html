@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Price is Fine</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+
+
+  <!-- Adam Note: I could not get the created CSS file to link up so did CSS styling here, will want to move over.  also maybe it sucks. -->
+  <style>
+    .jumbotron {
+      background-color: #131313;
+      color: white;
+      font-family: 'Pricedown';
+    }
+  </style>
+
+</head>
+
+<body>
+
+<div class="container-fluid">
+  <div class="jumbotron text-center" >
+    <h1><strong>The Price is <s>Right</s> Fine</strong></h1>
+    <p>Guess a laptop price against four machine learning trained data models and see who is closest... good luck.</p>
+</div>
+
+
+
+<div class="row-fluid justify-content-center">
+  <div class="col-lg-3">
+    <div>
+      <button type="button" class="btn btn-secondary">Load a New Computer</button>
+    </div>
+    <h3 id="computerSpecs"> The computer specs would go here, maybe as a table??? </h3>
+  </div>
+  
+  <div class="col-lg-2">
+  <!-- User Selection -->
+    <aside class="filters">
+        <li class="filter list-group-item">
+          <label for="userPrice">Guess a Price</label>
+          <input class="form-control" id="userPriceSelector" type="number" placeholder="0000">
+        </li>
+    </aside>
+    <div>
+      <br>
+      <button type="button" class="btn btn-secondary">Run Results</button>
+    </div>
+    <div>
+      <h2 id=actualRetailPrice>Actual retail price displays here maybe bob barker tells us what it is</h2>
+      <h2 id=actualRetailPrice>Display the winner</h2>
+    </div>
+  </div>
+  
+  <div class="col-lg-3">
+    <h3 id="userDisplay"> User Price </h3>
+    <img src="../images/user_entered.png" alt="User Guess">
+    <h3 id="rfDisplay"> RF Price </h3>
+    <img src="../images/random_forest.png" alt="User Guess">
+  </div>
+  <div class="col-lg-3">
+    <h3 id="userDisplay"> LR Price </h3>
+    <img src="../images/linear_regression.png" alt="User Guess">
+    <h3 id="rfDisplay"> NN Price </h3>
+    <img src="../images/neural_network.png" alt="User Guess">
+  </div>
+
+
+</div>
+
+</body>
+
+
+</html>
+
