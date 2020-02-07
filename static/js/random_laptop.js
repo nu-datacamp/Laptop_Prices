@@ -54,11 +54,21 @@ nl_button.on('click', function() {
 
 var user_guess = d3.select('#userPriceSelector');
 var rslt_button = d3.select('#results_button');
+var uGuess;
 rslt_button.on('click', function() {
     console.log(user_guess.property("value"));
-    var uGuess = user_guess.property("value");
+    uGuess = user_guess.property("value");
     d3.select('#userDisplay').html(`User Guess: <br> $${uGuess}`);
     d3.select('#rfDisplay').html(`Random Forest Guess: <br> $${laptops[rand_num]['Predicted_RF']}`);
     d3.select('#lrDisplay').html(`Linear Regression Guess: <br> $${laptops[rand_num]['Predicted_LR']}`);
     d3.select('#nnDisplay').html(`Neural Network Guess: <br> $${laptops[rand_num]['Predicted_NN']}`);
+});
+
+var wnr_button = d3.select('#winner_button');
+wnr_button.on('click', function() {
+    d3.select('#actualRetailPrice').html(`Actual Price: <br> $${laptops[rand_num]['Price_dollars']}`);
+    var 
+
+
+    })
 });
