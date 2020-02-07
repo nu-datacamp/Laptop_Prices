@@ -64,11 +64,24 @@ rslt_button.on('click', function() {
     d3.select('#nnDisplay').html(`Neural Network Guess: <br> $${laptops[rand_num]['Predicted_NN']}`);
 });
 
+var winners_ordered;
 var wnr_button = d3.select('#winner_button');
 wnr_button.on('click', function() {
     d3.select('#actualRetailPrice').html(`Actual Price: <br> $${laptops[rand_num]['Price_dollars']}`);
-    var 
+    var ugabs = Math.abs(laptops[rand_num]['Price_dollars'] - uGuess);
+    var results_dict = {"User": ugabs, "Random Forest": Math.abs(laptops[rand_num]['Diff_RF']), "Neural Network": Math.abs(laptops[rand_num]['Diff_NN']), "Linear Regression": Math.abs(laptops[rand_num]['Diff_LR'])}
+    var winners_ordered = Object.keys(results_dict).map(function(key) {
+        return [key, results_dict[key]];
+      });
+      
+      // Sort the array based on the second element
+      winners_ordered.sort(function(first, second) {
+        return first[1] - second[1];
+      });
+      
+      // Create a new array with only the first 5 items
+      console.log(winners_ordered.slice(0, 4));
+      d3.select('#actualRetailWinner').html(`First Place: ${winners_ordered[0][0]}`)
+      console.log(winners_ordered)
 
-
-    })
-});
+    });
