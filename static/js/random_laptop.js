@@ -62,6 +62,8 @@ rslt_button.on('click', function() {
     d3.select('#rfDisplay').html(`Random Forest Guess: <br> $${laptops[rand_num]['Predicted_RF']}`);
     d3.select('#lrDisplay').html(`Linear Regression Guess: <br> $${laptops[rand_num]['Predicted_LR']}`);
     d3.select('#nnDisplay').html(`Neural Network Guess: <br> $${laptops[rand_num]['Predicted_NN']}`);
+    d3.select('#actualRetailPrice').html('');
+    d3.select('#actualRetailWinner').html('');
 });
 
 var winners_ordered;
