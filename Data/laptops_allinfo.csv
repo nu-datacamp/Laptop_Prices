@@ -1,0 +1,1303 @@
+concat,Product,Cpu_Full,Memory_Full,Gpu_Full
+6709Windows 10Intel3217.3,Blade Pro,Intel Core i7 7820HK 2.9GHz,1TB SSD,Nvidia GeForce GTX 1080
+6049Windows 10Intel3217.3,Blade Pro,Intel Core i7 7820HK 2.9GHz,512GB SSD,Nvidia GeForce GTX 1080
+5389Windows 10Intel3215.6,Thinkpad P51,Intel Xeon E3-1535M v6 3.1GHz,1TB SSD,Nvidia Quadro M2200M
+4828Windows 7Intel1617.3,Zbook 17,Intel Xeon E3-1535M v5 2.9GHz,256GB SSD,Nvidia Quadro M2000M
+4373Windows 10Intel6417.3,ROG G701VO,Intel Core i7 6820HK 2.7GHz,1TB SSD,Nvidia GeForce GTX 980 
+4344Windows 7Intel817.3,ZBook 17,Intel Core i7 6700HQ 2.6GHz,256GB SSD,Nvidia Quadro M3000M
+4279Windows 10Intel3217.3,ROG G703VI-E5062T,Intel Core i7 7820HK 2.9GHz,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1080
+4025Windows 10Intel3217.3,Alienware 17,Intel Core i7 7700HQ 2.8GHz,1TB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+3948Windows 10Intel3217.3,Alienware 17,Intel Core i7 7700HQ 2.8GHz,1TB SSD +  1TB HDD,Nvidia GeForce GTX 1070M
+3849Windows 10Intel1614,Blade Pro,Intel Core i7 7700HQ 2.8GHz,1TB SSD,Nvidia GeForce GTX 1060
+3629Windows 10Intel1615.6,Thinkpad P51s,Intel Core i7 7600U 2.8GHz,1TB SSD,Nvidia Quadro M520M
+3564Windows 10Intel3217.3,IdeaPad Y900-17ISK,Intel Core i7 6820HK 2.7GHz,512GB SSD +  1.0TB Hybrid,Nvidia GeForce GTX 980M
+3469Windows 10Intel1617.3,Alienware 17,Intel Core i7 7700HQ 2.8GHz,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+3464Windows 10Intel3217.3,Alienware 17,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+3462Windows 10Intel3217.3,Alienware 17,Intel Core i7 7700HQ 2.8GHz,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+3410Windows 10Intel812.5,Elitebook Folio,Intel Core M 6Y75 1.2GHz,240GB SSD,Intel HD Graphics 515
+3380Windows 10Intel3217.3,Alienware 17,Intel Core i7 7700HQ 2.8GHz,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+3361Windows 10Intel1615.6,Precision 7520,Intel Xeon E3-1505M V6 3GHz,256GB SSD +  1TB HDD,Nvidia Quadro M1200
+3314Windows 10Intel1617.3,Alienware 17,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+3299Windows 10Intel1617.3,Rog G701VIK-BA060T,Intel Core i7 7820HK 2.9GHz,256GB SSD,Nvidia GeForce GTX 1080
+3299Windows 10Intel817.3,Thinkpad P71,Intel Core i7 7700HQ 2.8GHz,256GB SSD,Nvidia Quadro M620M
+3265Windows 10Intel2415.6,ROG Zephyrus,Intel Core i7 7700HQ 2.8GHz,512GB SSD,Nvidia GeForce GTX1080
+3265Windows 7Intel1617.3,ThinkPad P70,Intel Core i7 6820HQ 2.7GHz,512GB SSD,Nvidia Quadro 3000M
+3189Windows 10Intel1614,Blade Pro,Intel Core i7 7700HQ 2.8GHz,512GB SSD,Nvidia GeForce GTX 1060
+3189Windows 7Intel817.3,ZBook 17,Intel Core i7 6700HQ 2.6GHz,1TB HDD,AMD FirePro W6150M
+3173Windows 10Intel1617.3,Precision 7720,Intel Core i7 7820HQ 2.9GHz,256GB SSD,Nvidia Quadro M1200
+3156Windows 10Intel1615.6,Alienware 17,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+3144macOSIntel1615.4,MacBook Pro,Intel Core i7 2.9GHz,512GB SSD,AMD Radeon Pro 560
+3106Windows 10Intel1614,Thinkpad Yoga,Intel Core i7 7500U 2.7GHz,1TB SSD,Intel HD Graphics 620
+3095Windows 10Intel1615.6,Alienware 15,Intel Core i7 7820HK 2.9GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+3080Windows 10Intel3217.3,Alienware 17,Intel Core i7 6700HQ 2.6GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+3079Windows 10Intel3218.4,GT80S 6QF-074US,Intel Core i7 6920HQ 2.9GHz,512GB SSD +  1TB HDD,Nvidia GTX 980 SLI
+3079Windows 10Intel1617.3,Alienware 17,Intel Core i7 7820HK 2.9GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+3079Windows 10Intel3213.3,Portege X30-D-10L,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+3079Windows 10Intel3217.3,ROG G701VI,Intel Core i7 6820HK 2.7GHz,512GB SSD,Nvidia GeForce GTX 1080
+3052Windows 10Intel1615.6,Alienware 15,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+3034Windows 10Intel1617.3,Alienware 17,Intel Core i7 6820HK 2.7GHz,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1080
+3025Windows 10Intel1617.3,IdeaPad Y900-17ISK,Intel Core i7 6820HK 2.7GHz,256GB SSD +  1.0TB Hybrid,Nvidia GeForce GTX 980M
+3002Windows 10Intel1617.3,GT73VR Titan,Intel Core i7 7820HK 2.9GHz,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+2983Windows 10Intel815.6,Precision M5520,Intel Core i7 7700HQ 2.8GHz,256GB SSD,Nvidia Quadro M1200
+2969Windows 10Intel1617.3,Alienware 17,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+2948Windows 10Intel1613.3,XPS 13,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+2929Windows 10Intel3217.3,IdeaPad Y910-17ISK,Intel Core i7 6820HK 2.7GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+2914Windows 10Intel1617.3,GS73VR Stealth,Intel Core i7 6700HQ 2.6GHz,512GB SSD +  2TB HDD,Nvidia GeForce GTX 1060
+2903Windows 10Intel3215.6,XPS 15,Intel Core i7 7700HQ 2.8GHz,1TB SSD,Nvidia GeForce GTX 1050
+2888Windows 10Intel1614,Thinkpad X1,Intel Core i7 7500U 2.7GHz,1TB SSD,Intel HD Graphics 620
+2882Windows 7Intel1614,ThinkPad X1,Intel Core i7 6600U 2.6GHz,256GB SSD,Intel HD Graphics 520
+2859Windows 10Intel1614,Blade Pro,Intel Core i7 7700HQ 2.8GHz,256GB SSD,Nvidia GeForce GTX 1060
+2859Windows 10Intel1617.3,Predator G9-793,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+2849Windows 10Intel814,ThinkPad X1,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+2848Windows 10 SIntel1613.5,Surface Laptop,Intel Core i7 7660U 2.5GHz,512GB SSD,Intel Iris Plus Graphics 640
+2815Windows 10Intel813.3,EliteBook x360,Intel Core i7 7600U 2.8GHz,256GB SSD,Intel HD Graphics 620
+2791macOSIntel1615.4,MacBook Pro,Intel Core i7 2.7GHz,512GB SSD,AMD Radeon Pro 455
+2760Windows 10Intel1614,ThinkPad X1,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+2756Windows 10Intel1617.3,Alienware 17,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+2749Windows 10Intel1617.3,GT73EVR 7RE,Intel Core i7 7700HQ 2.8GHz,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+2749Windows 10Intel1614,ThinkPad X1,Intel Core i7 6600U 2.6GHz,512GB SSD,Intel HD Graphics 520
+2749Windows 10Intel1613.3,XPS 13,Intel Core i7 8550U 1.8GHz,1TB SSD,Intel UHD Graphics 620
+2749Windows 10Intel814,Thinkpad X1,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+2749Windows 10Intel1617.3,GT72VR Dominator,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+2702Windows 10Intel1617.3,Alienware 17,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+2695Windows 10Intel1614,ThinkPad X1,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+2694Windows 10Intel1617.3,GS73VR 7RG,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  2TB HDD,Nvidia GeForce GTX 1070
+2694Windows 10Intel1613.3,Spectre x360,Intel Core i7 8550U 1.8GHz,1TB SSD,Intel UHD Graphics 620
+2694Windows 10Intel1615.6,Thinkpad P51,Intel Core i7 7820HQ 2.9GHz,512GB SSD,Nvidia Quadro M2200M
+2694Windows 10Intel1615.6,Rog Strix,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+2690Windows 10Intel1615.6,Thinkpad T570,Intel Core i7 7600U 2.8GHz,512GB SSD,Nvidia GeForce 940MX
+2684Windows 10Intel1614,ThinkPad X1,Intel Core i7 6600U 2.6GHz,512GB SSD,Intel HD Graphics 520
+2684macOSIntel1615.4,MacBook Pro,Intel Core i7 2.8GHz,256GB SSD,AMD Radeon Pro 555
+2661Windows 10Intel1615.6,ZBook 15,Intel Core i7 7700HQ 2.8GHz,256GB SSD,Nvidia Quadro M2200
+2661Windows 10Intel1617.3,Rog GL702VS-BA023T,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+2657Windows 10Intel1617.3,GE72MVR 7RG,Intel Core i7 7700HQ 2.8GHz,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+2649Windows 10Intel815.6,Precision M5520,Intel Core i7 7700HQ 2.8GHz,256GB SSD,Nvidia Quadro M1200
+2639Windows 10Intel1615.6,XPS 15,Intel Core i7 7700HQ 2.8GHz,1TB SSD,Nvidia GeForce GTX 1050
+2639Windows 10Intel1617.3,GT72S Dominator,Intel Core i7 6820HQ 2.7GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 980M
+2637Windows 10Intel1615.6,XPS 15,Intel Core i7 7700HQ 2.8GHz,512GB SSD,Nvidia GeForce GTX 1050
+2620Windows 10Intel2414,ThinkPad T470s,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+2607Windows 7Intel1615.6,Thinkpad P50,Intel Core i7 6820HQ 2.7GHz,512GB SSD,Nvidia Quadro M2000M
+2585Windows 10Intel1617.3,Rog G752VS-BA171T,Intel Core i7 6700HQ 2.6GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+2584Windows 10Intel1617.3,GT80S 6QE,Intel Core i7 6820HK 2.7GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 980M
+2573Windows 10Intel814,ThinkPad X1,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+2572Windows 10Intel1615.6,Precision 3520,Intel Core i7 6820HQ 2.7GHz,512GB SSD,Nvidia Quadro M620
+2563Windows 10Intel814,ThinkPad X1,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+2558Windows 10Intel1615.6,Rog GL502VS,Intel Core i7 6700HQ 2.6GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+2529Windows 10Intel1615.6,GS63VR 7RF,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  2TB HDD,Nvidia GeForce GTX 1060
+2529Windows 10Intel815.6,Gram 15Z975,Intel Core i7 8550U 1.8GHz,512GB SSD,Intel HD Graphics 620
+2529Windows 10Intel1614,ThinkPad T470s,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+2529Windows 10Intel1617.3,Predator G9-793,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+2529Windows 10Intel1617.3,G752VY-GC162T (i7-6700HQ/16GB/1TB,Intel Core i7 6700HQ 2.6GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 980M
+2529Windows 7Intel1214,ThinkPad T460s,Intel Core i7 6600U 2.6GHz,512GB SSD,Intel HD Graphics 520
+2527Windows 7Intel812.5,EliteBook 820,Intel Core i7 6500U 2.50GHz,256GB SSD,Intel HD Graphics 520
+2519Windows 10Intel1617.3,IdeaPad Y900-17ISK,Intel Core i7 6700HQ 2.6GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 980M
+2510Windows 10Intel814,Thinkpad X1,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+2505Windows 10Intel813.3,EliteBook x360,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+2495Windows 10Intel1615.6,GT62VR 7RE,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+2479Windows 10Intel1613.3,XPS 13,Intel Core i7 7500U 2.7GHz,1TB SSD,Intel HD Graphics 620
+2476Windows 10Intel815.6,XPS 15,Intel Core i5 6300HQ 2.3GHz,256GB SSD,Nvidia GeForce 960M
+2474Windows 10Intel1617.3,GE73VR 7RF,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+2474Windows 10Intel815.6,ZBook Studio,Intel Core i7 6820HQ 2.7GHz,8GB SSD,Nvidia Quadro M1000M
+2466Windows 10Intel1615.6,GS63VR 7RG,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  2TB HDD,Nvidia GeForce GTX 1070
+2464Windows 10Intel1613.3,XPS 13,Intel Core i7 7660U 2.5GHz,512GB SSD,Intel Iris Plus Graphics 640
+2452Windows 10Intel814,EliteBook 1040,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+2452Windows 7Intel815.6,ZBook 15,Intel Core i7 6700HQ 2.6GHz,256GB SSD,Nvidia Quadro M1000M
+2449Windows 10Intel1613.3,Portege X30-D-10K,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+2419Windows 10AMD1617.3,Rog Strix,AMD Ryzen 1700 3GHz,256GB SSD +  1TB HDD,AMD Radeon RX 580
+2419Chrome OSIntel1612.3,Pixelbook (Core,Intel Core i7 7Y75 1.3GHz,512GB SSD,Intel HD Graphics 615
+2419Windows 10Intel1617.3,Laptop MSI,Intel Core i7 6820HK 2.7GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 970M
+2418Windows 7Intel814,EliteBook 840,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+2389Windows 7Intel815.6,EliteBook 850,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+2369Windows 10Intel1615.6,GS60 Ghost,Intel Core i7 6700HQ 2.6GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 970M
+2365Windows 10Intel1617.3,Rog G752VY-GC229T,Intel Core i7 6700HQ 2.6GHz,512GB SSD +  1TB HDD,Nvidia GeForce GTX 980M
+2354Mac OS XIntel1615.4,MacBook Pro,Intel Core i7 2.2GHz,256GB Flash Storage,Intel Iris Pro Graphics
+2349Windows 10Intel815.6,Precision 5520,Intel Core i7 6820HQ 2.7GHz,256GB SSD,Nvidia Quadro M1200
+2334Windows 10Intel1617.3,Rog GL702VS-GC095T,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+2314Windows 10Intel815.6,EliteBook 850,Intel Core i5 6300U 2.4GHz,256GB SSD +  500GB HDD,Intel HD Graphics 520
+2309Windows 10Intel1615.6,GE63VR 7RF,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+2309Windows 10Intel1613.9,Yoga 920-13IKB,Intel Core i7 8550U 1.8GHz,512GB SSD,Intel UHD Graphics 620
+2309Windows 10Intel1614,Thinkpad X1,Intel Core i7 6600U 2.6GHz,512GB SSD,Intel HD Graphics 520
+2309Windows 10Intel1615.6,Gram 15Z970,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+2304Windows 10Intel1615.6,GS63VR 7RF,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+2299Windows 10Intel815.6,Thinkpad P51,Intel Core i7 7820HQ 2.9GHz,256GB SSD,Nvidia Quadro M2200M
+2298Windows 10Intel814,EliteBook 840,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+2271Windows 10Intel815.6,ZBook 17,Intel Core i7 7700HQ 2.8GHz,256GB SSD,Nvidia Quadro M2200
+2256Windows 10Intel1615.6,Alienware 15,Intel Core i5 7300HQ 2.5GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+2255Windows 7Intel814,ThinkPad P40,Intel Core i7 6600U 2.6GHz,512GB SSD,Nvidia Quadro M500M
+2255Windows 10Intel1617.3,Rog Strix,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+2254Windows 10Intel814,ThinkPad X1,Intel Core i7 7500U 2.7GHz,256GB Flash Storage,Intel HD Graphics 620
+2254Windows 10Intel1613.3,Spectre x360,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+2254Windows 10Intel1617.3,GS73VR 7RF,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+2251Windows 10Intel817.3,Alienware 17,Intel Core i7 7700HQ 2.7GHz,1TB HDD,Nvidia GeForce GTX 1060
+2245Windows 10Intel813.3,Spectre Pro,Intel Core i7 6600U 2.6GHz,512GB SSD,Intel HD Graphics 520
+2244macOSIntel813.3,MacBook Pro,Intel Core i5 3.1GHz,512GB SSD,Intel Iris Plus Graphics 650
+2232Windows 10Intel1617.3,GE72MVR 7RG,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+2230Windows 10Intel1615.6,XPS 15,Intel Core i7 7700HQ 2.8GHz,512GB SSD,Nvidia GeForce GTX 1050
+2228Windows 10Intel813.3,ThinkPad Yoga,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+2215Windows 10Intel812.5,EliteBook Folio,Intel Core M 6Y75 1.2GHz,512GB SSD,Intel HD Graphics 515
+2214Windows 10Intel813.3,XPS 13,Intel Core i7 7Y75 1.3GHz,512GB SSD,Intel HD Graphics 615
+2199Windows 10Intel1217.3,Omen 17-w207nv,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070
+2199Windows 10Intel813.3,Spectre x360,Intel Core i7 8550U 1.8GHz,512GB SSD,Intel UHD Graphics 620
+2192Windows 10Intel815.6,Precision 3520,Intel Xeon E3-1505M V6 3GHz,64GB Flash Storage +  1TB HDD,Nvidia Quadro M620
+2181Windows 10Intel1615.6,ZenBook Pro,Intel Core i7 7700HQ 2.8GHz,512GB SSD,Nvidia GeForce GTX 1050 Ti
+2173Windows 10Intel1613.3,EliteBook x360,Intel Core i7 7600U 2.8GHz,256GB SSD,Intel HD Graphics 620
+2173Windows 10Intel1615.6,Precision 3520,Intel Core i7 6820HQ 2.7GHz,256GB SSD,Nvidia Quadro M620
+2173Windows 10Intel1615.6,Tecra Z50-C-140,Intel Core i7 6600U 2.6GHz,256GB SSD,Nvidia GeForce 930M
+2167Windows 10Intel813.3,ThinkPad Yoga,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+2166Windows 10Intel813.3,Spectre Pro,Intel Core i7 6500U 2.5GHz,512GB SSD,Intel HD Graphics 520
+2162Windows 10Intel1613.3,EliteBook 1030,Intel Core M 6Y75 1.2GHz,512GB SSD,Intel HD Graphics 515
+2159Windows 10Intel815.6,ThinkPad T570,Intel Core i5 7200U 2.5GHz,512GB SSD,Intel HD Graphics 620
+2159Windows 10Intel814,Latitude E7470,Intel Core i7 6600U 2.6GHz,256GB SSD,Intel HD Graphics 520
+2155macOSIntel813.3,MacBook Pro,Intel Core i5 2.9GHz,512GB SSD,Intel Iris Graphics 550
+2145Windows 10Intel1612.5,Zenbook UX390UA,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+2145Windows 10Intel813.3,ThinkPad Yoga,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+2144Windows 10Intel813.3,XPS 13,Intel Core i7 8550U 1.8GHz,256GB SSD,Intel UHD Graphics 620
+2144Windows 10Intel1617.3,ROG Strix,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+2144Windows 10Intel1617.3,GS73VR Stealth,Intel Core i7 6700HQ 2.6GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+2137Windows 10Intel814,Thinkpad T470p,Intel Core i7 7700HQ 2.8GHz,512GB SSD,Nvidia GeForce GT 940MX
+2129Windows 10Intel1617.3,Predator 17,Intel Core i7 6700HQ 2.6GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+2122Windows 10Intel1615.6,GS63VR 6RF,Intel Core i7 6700HQ 2.6GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+2118Windows 10Intel815.6,ThinkPad P51,Intel Core i7 7700HQ 2.8GHz,512GB SSD,Nvidia Quadro M1200
+2099Windows 10Intel812.5,EliteBook Folio,Intel Core M 6Y75 1.2GHz,512GB SSD,Intel HD Graphics 515
+2099Windows 10Intel817.3,ZBook 17,Intel Core i7 7700HQ 2.8GHz,500GB HDD,Nvidia Quadro M1200
+2093Windows 10Intel814,ThinkPad T470p,Intel Core i7 7700HQ 2.8GHz,256GB SSD,Nvidia GeForce GT 940MX
+2090Windows 10Intel1614,ZenBook 3,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+2090Windows 10Intel815.6,EliteBook 850,Intel Core i5 6300U 2.4GHz,256GB SSD,Intel HD Graphics 520
+2090Windows 10Intel1617.3,Rog G752VT-GC073T,Intel Core i7 6700HQ 2.6GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 970M
+2089Windows 10Intel1615.6,Yoga 720-15IKB,Intel Core i7 7700HQ 2.8GHz,512GB SSD,Nvidia GeForce GTX 1050
+2089Windows 10Intel1615.6,XPS 15,Intel Core i7 7700HQ 2.8GHz,512GB SSD,Nvidia GeForce GTX 1050
+2089Windows 10Intel1615.6,Rog GL502VM-DS74,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+2089Windows 10Intel814,Gram 14Z970,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+2089Windows 10Intel813.3,XPS 13,Intel Core i5 7Y54 1.2GHz,256GB SSD,Intel HD Graphics 615
+2089Windows 10Intel1613.3,XPS 13,Intel Core i7 7Y75 1.3GHz,512GB SSD,Intel HD Graphics 615
+2089Windows 7Intel815.6,ZBook Studio,Intel Core i7 6700HQ 2.6GHz,256GB SSD,Nvidia Quadro M1000M
+2085Windows 7Intel812.5,EliteBook 820,Intel Core i5 6300U 2.4GHz,256GB SSD,Intel HD Graphics 520
+2080Windows 10Intel1614,GS43VR 7RE,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+2079Windows 10Intel1617.3,GE73VR 7RE,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+2076Windows 10Intel814,EliteBook 840,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+2065Windows 10Intel1613.3,Portege Z30T-C-133,Intel Core i7 6500U 2.5GHz,512GB SSD,Intel HD Graphics 520
+2063Windows 10Intel814,ThinkPad X1,Intel Core i5 7200U 2.5GHz,256GB Flash Storage,Intel HD Graphics 620
+2060Windows 10Intel814,Zenbook 3,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+2057Windows 7Intel814,EliteBook 840,Intel Core i7 6500U 2.5GHz,512GB SSD,Intel HD Graphics 520
+2056Windows 10Intel1613.3,XPS 13,Intel Core i7 8550U 1.8GHz,512GB SSD,Intel UHD Graphics 620
+2056Windows 10Intel813.3,XPS 13,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+2055Windows 10 SIntel813.5,Surface Laptop,Intel Core i7 7600U 2.8GHz,256GB SSD,Intel Iris Plus Graphics 640
+2052Windows 10Intel1614,Tecra X40-D-10H,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+2047Windows 10Intel817.3,ZBook 17,Intel Core i5 7440HQ 2.8GHz,500GB HDD,Nvidia Quadro M1200
+2045Windows 10Intel1612.5,Latitude 7280,Intel Core i7 7600U 2.8GHz,256GB SSD,Intel HD Graphics 620
+2045Windows 10Intel814,Thinkpad T470s,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+2044Windows 10Intel1214,Thinkpad T460s,Intel Core i7 6600U 2.6GHz,256GB SSD,Intel HD Graphics 520
+2041Windows 7Intel1615.6,ThinkPad P51s,Intel Core i7 6500U 2.5GHz,512GB SSD,Nvidia Quadro M520M
+2034Windows 10Intel1613.9,Yoga 920-13IKB,Intel Core i7 8550U 1.8GHz,512GB SSD,Intel UHD Graphics 620
+2034Windows 10Intel813.9,Yoga 920-13IKB,Intel Core i7 8550U 1.8GHz,512GB SSD,Intel UHD Graphics 620
+2034Windows 10Intel1615,Notebook 9,Intel Core i7 7500U 2.7GHz,256GB SSD,Nvidia GeForce 940MX
+2030Windows 10Intel1615.6,Inspiron 7577,Intel Core i7 7700HQ 2.8GHz,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+2026Windows 10Intel813.3,Latitude 7390,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+2012Windows 10Intel815.6,XPS 15,Intel Core i7 7700HQ 2.8GHz,256GB SSD,Nvidia GeForce GTX 1050
+2008Windows 10Intel813.3,ThinkPad Yoga,Intel Core i5 7200U 2.5GHz,512GB SSD,Intel HD Graphics 620
+2002Windows 10Intel815.6,XPS 15,Intel Core i7 7700HQ 2.8GHz,256GB SSD,Nvidia GeForce GTX 1050
+2001Windows 10Intel1615.6,GT62VR 6RD,Intel Core i7 6700HQ 2.6GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1994Windows 10Intel813.3,XPS 13,Intel Core i5 7Y54 1.2GHz,256GB SSD,Intel HD Graphics 615
+1984macOSIntel813.3,MacBook Pro,Intel Core i5 3.1GHz,256GB SSD,Intel Iris Plus Graphics 650
+1979Windows 10Intel1615.6,GE63VR 7RE,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1979Windows 10Intel1617.3,ROG G752VSK-GC493T,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 980M
+1979Windows 10 SIntel813.5,Surface Laptop,Intel Core i7 7660U 2.5GHz,256GB SSD,Intel Iris Plus Graphics 640
+1979Windows 10Intel1217.3,Omen 15-ce006nv,Intel Core i7 7700HQ 2.8GHz,1TB HDD,Nvidia GeForce GTX 1060
+1979Windows 10Intel1615,Notebook 9,Intel Core i7 7500U 2.7GHz,256GB SSD,AMD Radeon 540
+1979Windows 10Intel1612.5,Blade Stealth,Intel Core i7 7500U 2.5GHz,512GB SSD,Intel HD Graphics 620
+1979Windows 10Intel1617.3,Rog GL702VM-GC017T,Intel Core i7 6700HQ 2.6GHz,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1979Windows 10Intel413.3,EliteBook x360,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1979Windows 10Intel814,ThinkPad T470s,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1979Windows 10Intel1613.3,Yoga 900-13ISK,Intel Core i7 6560U 2.2GHz,1TB SSD,Intel Iris Graphics 540
+1979Windows 10Intel1615.6,Q534UX-BHI7T19 (i7-7500U/16GB/2TB,Intel Core i7 7500U 2.7GHz,512GB SSD +  2TB HDD,Nvidia GeForce GTX 950M
+1979Windows 10Intel1615.6,Rog GL553VE-DS74,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti
+1979Windows 10Intel813.3,Spectre Pro,Intel Core i7 6600U 2.6GHz,256GB SSD,Intel HD Graphics 520
+1979Windows 10Intel1617.3,Inspiron 7779,Intel Core i7 7500U 2.7GHz,512GB SSD,Nvidia GeForce 940MX
+1978Windows 10Intel1612.5,Thinkpad X270,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+1969Windows 10Intel812.5,Portege X20W-D-10V,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+1956Windows 10Intel815.6,Precision 3520,Intel Core i7 7700HQ 2.8GHz,1TB HDD,Nvidia Quadro M620
+1953Windows 10Intel814,Latitude 7480,Intel Core i7 7600U 2.8GHz,256GB SSD,Intel HD Graphics 620
+1947Windows 10Intel817.3,ROG Strix,Intel Core i5 7300HQ 2.5GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1946Windows 10Intel1614,GS40 Phantom,Intel Core i7 6700HQ 2.6GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 970M
+1940Windows 10Intel1614,Tecra Z40-C-161,Intel Core i7 6600U 2.6GHz,512GB SSD,Nvidia GeForce 930M
+1939Windows 10Intel815.6,Precision 3520,Intel Core i7 7700HQ 2.8GHz,256GB SSD,Nvidia Quadro M620
+1936Windows 10Intel812.5,ThinkPad X270,Intel Core i5 7300U 2.6GHz,256GB SSD,Intel HD Graphics 620
+1933Windows 10Intel813.3,Thinkpad Yoga,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1925Windows 10Intel814,Elitebook 1040,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1924Windows 10Intel1615.6,Legion Y720-15IKB,Intel Core i7 7700HQ 2.8GHz,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1924Windows 10Intel814,EliteBook 840,Intel Core i7 7600U 2.8GHz,1TB SSD,Intel HD Graphics 620
+1924Windows 10Intel1614,Yoga 910-13IKB,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+1924Windows 10Intel815.6,XPS 15,Intel Core i5 7300HQ 2.5GHz,256GB SSD,Nvidia GeForce GTX 1050
+1924Windows 10Intel1217.3,Omen 17-an012dx,Intel Core i7 7700HQ 2.8GHz,1TB HDD,AMD Radeon RX 580
+1924Windows 10Intel1617.3,Rog GL753VE-DS74,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti
+1924Windows 10Intel1615.6,FX502VM-AS73 (i7-7700HQ/16GB/1TB,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1924Windows 10Intel1613.3,Zenbook Flip,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+1922Windows 10Intel1613.3,Portege Z30-C-16P,Intel Core i7 6500U 2.5GHz,512GB SSD,Intel HD Graphics 520
+1912Windows 10Intel815.6,Zbook 15,Intel Core i7 7700HQ 2.8GHz,256GB SSD,Nvidia Quadro M1200
+1902Windows 10Intel815.6,ThinkPad T570,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+1898Windows 10Intel814,Tecra Z40-C-136,Intel Core i7 6600U 2.6GHz,256GB SSD,Intel HD Graphics 520
+1885Windows 10Intel812.5,ThinkPad Yoga,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+1885Windows 7Intel812.5,Latitude E7270,Intel Core i5 6300U 2.4GHz,256GB SSD,Intel HD Graphics 520
+1870Windows 10Intel413.3,EliteBook x360,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1869Windows 10Intel815.6,Yoga 720-15IKB,Intel Core i7 7700HQ 2.8GHz,512GB SSD,Nvidia GeForce GTX 1050M
+1869Windows 10Intel1217.3,Omen 17-an006nv,Intel Core i7 7700HQ 2.8GHz,1TB HDD,Nvidia GeForce GTX 1060
+1869Windows 10Intel1615.6,Notebook Odyssey,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1869Windows 10Intel815,Notebook 9,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1869Windows 10Intel813.3,EliteBook 1030,Intel Core M 6Y54 1.1GHz,256GB SSD,Intel HD Graphics 515
+1865Windows 10AMD817.3,Rog Strix,AMD Ryzen 1600 3.2GHz,256GB SSD +  1TB HDD,AMD Radeon RX 580
+1859Windows 10Intel812.5,Latitude 7280,Intel Core i7 7600U 2.8GHz,256GB SSD,Intel HD Graphics 620
+1859Windows 10Intel813.3,Spectre Pro,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1855Windows 10Intel814,ThinkPad X1,Intel Core i7 6500U 2.5GHz,512GB SSD,Intel HD Graphics 520
+1848Windows 10Intel814,Latitude 7480,Intel Core i7 7600U 2.8GHz,512GB SSD,Intel HD Graphics
+1847Windows 10Intel1615.6,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,512GB SSD,Nvidia GeForce GTX 1050 Ti
+1840Windows 10Intel1214,Thinkpad T460s,Intel Core i7 6600U 2.6GHz,256GB SSD,Intel HD Graphics 520
+1839Windows 10Intel813.3,Portege X30-D-10J,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1837Windows 10Intel812.5,Latitude 5289,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1836Windows 10Intel812.5,EliteBook 820,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1836Windows 10Intel814,ThinkPad Yoga,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+1821Windows 10Intel815.6,ROG Strix,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1815Windows 10Intel814,ThinkPad T470s,Intel Core i5 7300U 2.6GHz,256GB SSD,Intel HD Graphics 620
+1815Windows 10Intel812.5,Thinkpad X270,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1815Windows 10Intel1612.5,ThinkPad Yoga,Intel Core i7 6500U 2.50GHz,512GB SSD,Intel HD Graphics 520
+1814Windows 10Intel813.3,XPS 13,Intel Core i7 8550U 1.8GHz,256GB SSD,Intel UHD Graphics 620
+1814Windows 10Intel815.6,ROG Strix,Intel Core i5 7300HQ 2.5GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1814Windows 10Intel1613.3,Notebook 9,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1814Windows 10Intel1613.3,XPS 13,Intel Core i7 7Y75 1.3GHz,256GB SSD,Intel HD Graphics 615
+1803Windows 10Intel814,Latitude 7480,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1801Windows 10Intel814,ThinkPad X1,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1792Windows 10Intel813.3,XPS 13,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+1792Windows 10Intel813.3,Spectre Pro,Intel Core i5 6300U 2.4GHz,256GB SSD,Intel HD Graphics 520
+1786Windows 10Intel813.3,XPS 13,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1769Windows 10Intel1615.6,Latitude 5590,Intel Core i7 8650U 1.9GHz,512GB SSD +  256GB SSD,Intel UHD Graphics 620
+1760Windows 10Intel1615.6,Rog GL553VE-FY052T,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti
+1759Windows 10Intel813.9,Yoga 920-13IKB,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+1759Windows 10Intel813.3,XPS 13,Intel Core i5 8250U 1.6GHz,128GB SSD,Intel UHD Graphics 620
+1759Windows 10Intel813.3,Notebook 9,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1759Windows 10Intel1617.3,GE72VR 6RF,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti
+1759Windows 10Intel817.3,Rog GL702VM-GC354T,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1759Windows 7Intel412.5,Elitebook 820,Intel Core i5 6200U 2.3GHz,128GB SSD,Intel HD Graphics 520
+1759Windows 10Intel817.3,GS70 Stealth,Intel Core i7 6700HQ 2.6GHz,256GB SSD,Nvidia GeForce GTX 965M
+1758Windows 10Intel1617.3,GE72VR Apache,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1750Windows 10Intel1617.3,Rog GL753VE-GC070T,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti
+1749Windows 10Intel414,Elitebook 840,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1749Windows 10Intel813.3,Portégé Z30-C-16K,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1742Windows 10Intel812.5,Thinkpad X270,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1737Windows 10Intel813.3,XPS 13,Intel Core i7 8550U 1.8GHz,256GB SSD,Intel UHD Graphics 620
+1737Windows 10Intel412.5,EliteBook 820,Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+1737Windows 7Intel815.6,EliteBook 850,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1717Windows 7Intel815.6,ZBook 15,Intel Core i7 6700HQ 2.6GHz,256GB SSD,Nvidia Quadro M1000M
+1715Chrome OSIntel812.3,Pixelbook (Core,Intel Core i5 7Y57 1.2GHz,256GB SSD,Intel HD Graphics 615
+1715Windows 10Intel412.5,Elitebook 820,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1704Windows 10Intel1617.3,Inspiron 7773,Intel Core i7 8550U 1.8GHz,512GB SSD,Nvidia GeForce 150MX
+1704Windows 10AMD1617.3,Rog Strix,AMD Ryzen 1700 3GHz,256GB SSD +  1TB HDD,AMD Radeon RX 580
+1700Windows 10Intel1617.3,GT72S Dominator,Intel Core i7 6820HK 2.7GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 980M
+1693Windows 10Intel412.5,EliteBook 820,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+1691Windows 10Intel1615.6,Latitude 5580,Intel Core i7 7600U 2.8GHz,256GB SSD,Nvidia GeForce 930MX
+1689Windows 10Intel814,Tecra X40-D-10G,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1689Windows 10Intel813.3,Portege Z30-C-16Z,Intel Core i5 6300U 2.4GHz,256GB SSD,Intel HD Graphics 520
+1687Windows 10Intel815.6,ProBook 650,Intel Core i7 7820HQ 2.9GHz,512GB SSD,Intel HD Graphics 620
+1682Windows 10Intel1617.3,FX753VD-GC461T (i7-7700HQ/16GB/1TB,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1682Windows 10Intel815.6,Thinkpad T560,Intel Core i7 6600U 2.6GHz,256GB SSD,Intel HD Graphics 520
+1670macOSIntel813.3,MacBook Pro,Intel Core i5 2.3GHz,256GB SSD,Intel Iris Plus Graphics 640
+1664Windows 7Intel814,EliteBook 1040,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1662Windows 10Intel817.3,GE72 Apache,Intel Core i7 6700HQ 2.6GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M
+1661macOSIntel812,"MacBook 12""",Intel Core i5 1.3GHz,512GB SSD,Intel HD Graphics 615
+1654Windows 10Intel1617.3,FX753VE-GC155T (i7-7700HQ/16GB/1TB,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX1050 Ti
+1650Windows 10Intel814,EliteBook 1040,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+1649Windows 10Intel1615.6,Inspiron 7577,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1649Windows 10Intel813.3,Spectre x360,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+1649Windows 10Intel813,MateBook X,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+1649Windows 10Intel1615.6,Legion Y720-15IKB,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1649Windows 10Intel813.3,ZenBook Flip,Intel Core i7 8550U 1.8GHz,512GB SSD +  512GB SSD,Intel UHD Graphics 620
+1649Windows 10Intel813.3,Yoga 730,Intel Core i7 8550U 1.8GHz,512GB SSD,Intel UHD Graphics 620
+1649Windows 10Intel814,ThinkPad T470s,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1649Windows 10Intel813.3,XPS 13,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1649Windows 10Intel813.3,Notebook 9,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1649Windows 7Intel814,ThinkPad T460,Intel Core i7 6600U 2.6GHz,256GB SSD,Intel HD Graphics 520
+1649Windows 10Intel1613.3,ThinkPad 13,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+1649Windows 10Intel1613.3,Yoga 900-13ISK,Intel Core i7 6500U 2.5GHz,512GB SSD,Intel HD Graphics 520
+1649Windows 10Intel1613.3,Yoga 900-13ISK,Intel Core i7 6500U 2.5GHz,512GB SSD,Intel HD Graphics 520
+1649Windows 10Intel1613.3,Yoga 900-13ISK,Intel Core i7 6500U 2.5GHz,512GB SSD,Intel HD Graphics 520
+1648Windows 10Intel1617.3,Omen 17-AN010nv,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1648Windows 10Intel815.6,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti
+1645Windows 10Intel1614,ZenBook UX430UN,Intel Core i7 8550U 1.8GHz,512GB SSD,Nvidia GeForce MX150
+1645Windows 7Intel815.6,ZBook 15u,Intel Core i7 6500U 2.5GHz,256GB SSD,AMD FirePro W4190M
+1642Windows 10Intel1617.3,GP72M 7REX,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti
+1639Windows 10Intel814,Tecra Z40-C-12Z,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1638Windows 10Intel814,Thinkpad T460,Intel Core i7 6600U 2.6GHz,256GB SSD,Intel HD Graphics 520
+1635Windows 10Intel817.3,GP72VR Leopard,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1631Windows 10Intel812.5,Elitebook 820,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+1628Windows 10Intel814,Thinkpad T470,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1627Windows 10Intel1615.6,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti
+1625Windows 10Intel813.3,XPS 13,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1624Windows 10Intel815.6,GP62MVR 6RF,Intel Core i7 6700HQ 2.6GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1623Windows 10Intel813.3,Portege X30-D-10V,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1621Windows 10Intel814,Thinkpad T470p,Intel Core i5 7300HQ 2.5GHz,256GB SSD,Intel HD Graphics 630
+1619Windows 10Intel812.5,Latitude 7280,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics
+1616Windows 7Intel814,EliteBook 1040,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1615Windows 10Intel1615.6,ZenBook UX530UQ-PRO,Intel Core i7 7500U 2.7GHz,512GB SSD,Nvidia GeForce 940MX
+1615Windows 10Intel814,EliteBook 840,Intel Core i7 6500U 2.5GHz,512GB SSD,Intel HD Graphics 520
+1612Windows 7Intel814,ThinkPad T470,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1606Windows 7Intel813.3,Portege Z30-C-1CW,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1604Windows 10Intel813.3,XPS 13,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1595Windows 10Intel813.3,XPS 13,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+1594Windows 10Intel1615.6,FX503VM-E4007T (i7-7700HQ/16GB/1TB,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1594Windows 10Intel813.3,XPS 13,Intel Core i7 8550U 1.8GHz,256GB SSD,Intel UHD Graphics 620
+1594Windows 7Intel814,EliteBook 1040,Intel Core i7 6600U 2.6GHz,256GB SSD,Intel HD Graphics 520
+1572Windows 10Intel812.5,ThinkPad X270,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1570Windows 10Intel814,Latitude 7480,Intel Core i5 7300U 2.6GHz,256GB SSD,Intel HD Graphics 620
+1570Windows 10Intel815.6,ProBook 650,Intel Core i7 7820HQ 2.9GHz,256GB SSD,Intel HD Graphics 630
+1569Windows 10Intel1615.6,Latitude 5580,Intel Core i5 7300U 2.6GHz,512GB SSD,Intel HD Graphics 620
+1568Windows 10Intel1615.6,Tecra A50-C-218,Intel Core i7 6500U 2.5GHz,256GB SSD,Nvidia GeForce 930M
+1561macOSIntel813.3,MacBook Pro,Intel Core i5 2.0GHz,256GB SSD,Intel Iris Graphics 540
+1554Windows 7Intel812.5,Latitude E5270,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1550Windows 10Intel817.3,GP72MVR 7RFX,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1548Windows 10Intel1617.3,ROG GL703VD-GC028T,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1543Windows 10Intel1615.6,Tecra A50-C-21G,Intel Core i7 6500U 2.5GHz,512GB SSD,Nvidia GeForce 930M
+1540No OSIntel1615.6,Mi Notebook,Intel Core i7 8550U 1.8GHz,256GB SSD,Nvidia GeForce MX150
+1539Windows 10Intel813.3,ThinkPad Yoga,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1539Windows 10Intel813.3,XPS 13,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+1539Windows 10Intel815.6,Legion Y720-15IKB,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1539Windows 10Intel813.3,Spectre X360,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1539Windows 10Intel813.3,XPS 13,Intel Core i7 8550U 1.8GHz,256GB SSD,Intel UHD Graphics 620
+1539Windows 10Intel815.6,Tecra Z50-C-144,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+1539Windows 10Intel1613.3,Envy x360,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1539Windows 10Intel817.3,Omen 17-W006na,Intel Core i5 6300HQ 2.3GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 965M
+1539Windows 10Intel812.5,Yoga 900S-12ISK,Intel Core M 6Y75 1.2GHz,512GB SSD,Intel HD Graphics 515
+1539Windows 10Intel813.3,Spectre x360,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+1538No OSIntel1615.6,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,512GB SSD,Nvidia GeForce GTX 1060
+1536Windows 10Intel1617.3,Inspiron 5770,Intel Core i7 8550U 1.8GHz,256GB SSD +  2TB HDD,AMD Radeon 530
+1529Windows 10Intel815.6,ThinkPad T570,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1528Windows 10Intel815.6,EliteBook 850,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+1528Windows 10Intel812.5,EliteBook 820,Intel Core i5 7300U 2.6GHz,256GB SSD,Intel HD Graphics 620
+1527Windows 10Intel815.6,Tecra A50-D-11D,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1517Windows 10Intel813.3,XPS 13,Intel Core i7 7560U 2.4GHz,256GB SSD,Intel Iris Plus Graphics 640
+1517Windows 10Intel1617.3,Omen 17-W295,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1517Windows 10Intel813.3,XPS 13,Intel Core i7 7560U 2.4GHz,256GB SSD,Intel Iris Plus Graphics 640
+1515Windows 10Intel815.6,Latitude 5580,Intel Core i5 7440HQ 2.8GHz,256GB SSD,Intel HD Graphics 620
+1507Windows 10Intel1217.3,Rog GL753VD-GC082T,Intel Core i5 7300HQ 2.5GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1506Windows 10Intel815.6,Precision 3510,Intel Core i5 6440HQ 2.6GHz,500GB HDD,AMD FirePro W5130M
+1506Windows 10Intel815.6,Latitude 5580,Intel Core i7 7600U 2.8GHz,256GB SSD,Nvidia GeForce 930MX
+1500Windows 10Intel814,Thinkpad T470,Intel Core i5 7200U 2.5GHz,180GB SSD,Intel HD Graphics 620
+1499Windows 10Intel813.3,Portege Z30-C-16L,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+1494Windows 10Intel813.3,ZenBook Flip,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1485macOSIntel813.3,MacBook Pro,Intel Core i5 2.3GHz,128GB SSD,Intel Iris Plus Graphics 640
+1484Windows 10Intel815.6,VivoBook Pro,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1484Windows 10Intel1615.6,Inspiron 7577,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti
+1484Windows 10Intel813,MateBook X,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1484Windows 10Intel817.3,Leopard GP72M,Intel Core i7 7700HQ 2.8GHz,256GB SSD,Nvidia GeForce GTX 1050 Ti
+1484Windows 10Intel813.9,Yoga 910-13IKB,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1484Windows 10Intel815.6,EliteBook 850,Intel Core i5 7300U 2.6GHz,256GB SSD,AMD Radeon R7 M465
+1484Windows 10Intel1615.6,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti
+1484Windows 10Intel815.6,ThinkPad T560,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1484Windows 10Intel813.3,Spectre 13-V111dx,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1483Windows 10Intel812.5,EliteBook 820,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+1480Windows 10Intel817.3,GL72M 7REX,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti
+1474Windows 10Intel814,ThinkPad T470,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1474Windows 10 SIntel813.5,Surface Laptop,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1474Windows 7Intel814,ThinkPad L470,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1473Windows 10Intel815.6,FX502VM-DM560T (i7-7700HQ/8GB/1TB,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX1060
+1473Windows 10Intel1615.6,Rog GL552VW-CN470T,Intel Core i7 6700HQ 2.6GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M
+1469Windows 10Intel812.5,Elitebook 820,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1467Windows 10Intel814,UX510UX-CN269T (i7-7500U/8GB/256GB,Intel Core i7 7500U 2.7GHz,256GB SSD +  1TB HDD,Intel HD Graphics 620
+1462Windows 10Intel1615.6,Alienware 15,Intel Core i7 6700HQ 2.6GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 970M
+1460Windows 10Intel1215.6,Pavilion Power,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1455Windows 10Intel813.3,Envy 13-AB002nv,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+1447Windows 10Intel813.3,ZenBook Flip,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel HD Graphics 620
+1444Windows 10Intel817.3,Rog GL752VW-T4308T,Intel Core i7 6700HQ 2.6GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M
+1436Windows 10Intel1615.6,IdeaPad Y700-15ISK,Intel Core i7 6700HQ 2.6GHz,512GB SSD,Nvidia GeForce GTX 960
+1434Windows 10Intel815.6,Elitebook 850,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1430Mac OS XIntel812,"MacBook 12""",Intel Core M 1.1GHz,256GB Flash Storage,Intel HD Graphics 515
+1429Windows 10AMD817.3,Rog Strix,AMD Ryzen 1700 3GHz,256GB SSD +  1TB HDD,AMD Radeon RX 580
+1429Windows 10Intel1617.3,Inspiron 5770,Intel Core i7 8550U 1.8GHz,256GB SSD +  2TB HDD,AMD Radeon 530
+1429Windows 10Intel1615.6,GP62M 7REX,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti
+1429Windows 10Intel815.6,Legion Y720-15IKB,Intel Core i7 7700HQ 2.8GHz,1TB HDD,Nvidia GeForce GTX 1060
+1429Windows 10Intel1215.6,ZenBook Pro,Intel Core i7 6700HQ 2.6GHz,128GB SSD +  1TB HDD,Intel HD Graphics 530
+1429Windows 10Intel815.6,Zenbook UX510UW-FI095T,Intel Core i7 7500U 2.7GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 960M
+1429Windows 10Intel815.6,Yoga 720-15IKB,Intel Core i7 7700HQ 2.8GHz,256GB SSD,Intel HD Graphics 630
+1429Windows 10Intel1615.6,Aspire VX5-591G,Intel Core i5 7300HQ 2.5GHz,256GB SSD,Nvidia GeForce GTX 1050 Ti
+1429Windows 10Intel811.3,Yoga 700-11ISK,Intel Core M m7-6Y75 1.2GHz,256GB SSD,Intel HD Graphics 515
+1429Windows 10Intel1215.6,Inspiron 7579,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+1429Windows 10Intel1213.3,Inspiron 7378,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1428Windows 10Intel815.6,Latitude 5590,Intel Core i7 8650U 1.9GHz,256GB SSD +  256GB SSD,Intel UHD Graphics 620
+1427Windows 10Intel815.6,EliteBook 850,Intel Core i7 6500U 2.5GHz,256GB SSD,AMD Radeon R7 M365X
+1423Windows 10Intel1615.6,GP62 7RDX,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1421Windows 10Intel814,Elitebook 840,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1414Windows 10Intel413.3,Portege X30-D-10X,Intel Core i5 7200U 2.5GHz,128GB SSD,Intel HD Graphics 620
+1414Windows 10Intel1615.6,Inspiron 5579,Intel Core i7 8550U 1.8GHz,512GB SSD,Intel UHD Graphics 620
+1408Windows 10Intel817.3,ProBook 470,Intel Core i7 7500U 2.7GHz,1TB HDD,Nvidia GeForce 930MX
+1408Windows 10Intel813.3,ZenBook UX310UA-WB71,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+1408Windows 10Intel814,Latitude 5480,Intel Core i5 7300U 2.6GHz,256GB SSD,Intel HD Graphics 620
+1407Windows 10Intel1613.3,Inspiron 5379,Intel Core i7 8550U 1.8GHz,512GB SSD,Intel UHD Graphics 620
+1407Windows 10Intel3217.3,G701VO-IH74K (i7-6820HK/32GB/2x,Intel Core i7 6820HK 2.7GHz,256GB SSD +  256GB SSD,Nvidia GeForce GTX 980M
+1407Mac OS XIntel812,"MacBook 12""",Intel Core M 1.2GHz,512GB Flash Storage,Intel HD Graphics 515
+1403Chrome OSIntel812.3,Pixelbook (Core,Intel Core i5 7Y57 1.2GHz,128GB SSD,Intel HD Graphics 615
+1399Windows 10Intel815.6,IdeaPad Y700-15ISK,Intel Core i7 6700HQ 2.6GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960<U+039C>
+1398Windows 10Intel1617.3,Probook 470,Intel Core i7 8550U 1.8GHz,512GB SSD,Nvidia GeForce 930MX 
+1396Windows 10Intel815.6,ZBook 15u,Intel Core i7 7500U 2.7GHz,1TB HDD,AMD FirePro W4190M 
+1396Windows 10Intel2417.3,Rog G752VL-UH71T,Intel Core i7 6700HQ 2.6GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 965M
+1395Windows 10Intel814,EliteBook 840,Intel Core i5 7300U 2.6GHz,256GB SSD,Intel HD Graphics 620
+1395Windows 10Intel813.3,XPS 13,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+1392Windows 10Intel815.6,GL553VE-FY082T (i7-7700HQ/8GB/1TB,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti
+1392Windows 10Intel414,Probook 640,Intel Core i5 7200U 2.5GHz,128GB SSD,Intel HD Graphics 620
+1389macOSIntel812,"MacBook 12""",Intel Core M m3 1.2GHz,256GB SSD,Intel HD Graphics 615
+1388Windows 10Intel1615.6,VivoBook S15,Intel Core i7 8550U 1.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce MX150
+1388Windows 10Intel815.6,Inspiron 7570,Intel Core i7 8550U 1.8GHz,512GB SSD,Nvidia GeForce 940MX
+1386Windows 10Intel815.6,Nitro 5,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1384Windows 10Intel815.6,Tecra Z50-D-10E,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1374Windows 10Intel1615.6,Inspiron 5577,Intel Core i7 7700HQ 2.8GHz,512GB SSD,Nvidia GeForce GTX 1050
+1374Windows 10Intel1215.6,Omen 15-ce007nv,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1374Windows 10Intel815.6,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti
+1368Windows 10Intel412.5,EliteBook 820,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1353Windows 10Intel815.6,ThinkPad E580,Intel Core i7 8550U 1.8GHz,256GB SSD,AMD Radeon RX 550
+1352Windows 10Intel814,Latitude E7470,Intel Core i5 6300U 2.4GHz,256GB SSD,Intel HD Graphics 520
+1352Windows 10Intel815.6,GE62 Apache,Intel Core i7 6700HQ 2.6GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M
+1352Windows 10Intel815.6,EliteBook 850,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+1346Windows 10Intel815.6,ZenBook UX510UX-CN211T,Intel Core i7 7500U 2.7GHz,256GB SSD +  1TB HDD,Intel HD Graphics 620
+1341Windows 10Intel1615.6,Inspiron 5570,Intel Core i7 8550U 1.8GHz,256GB SSD +  2TB HDD,AMD Radeon 530
+1341Windows 10Intel815.6,EliteBook 850,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1337Windows 10Intel814,ThinkPad E480,Intel Core i7 8550U 1.8GHz,256GB SSD,AMD Radeon RX 550
+1334Windows 10Intel813.3,Portege Z30-C-16J,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1331Windows 10Intel813.3,Portege A30-C-1CZ,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1328Windows 10Intel815.6,Inspiron 7560,Intel Core i7 7500U 2.7GHz,128GB SSD +  1TB HDD,Nvidia GeForce 940MX
+1326Windows 10Intel814,Latitude 5480,Intel Core i5 7440HQ 2.8GHz,256GB SSD,Intel HD Graphics 620
+1326Windows 10Intel414,ProBook 640,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1320Windows 10Intel817.3,ProBook 470,Intel Core i7 7500U 2.7GHz,256GB SSD,Nvidia GeForce 930MX
+1319No OSIntel815.6,Mi Notebook,Intel Core i5 8250U 1.6GHz,256GB SSD,Nvidia GeForce MX150
+1319Windows 10Intel817.3,GL72M 7REX,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti
+1319Windows 10Intel813.3,Yoga 900-13ISK,Intel Core i5 6260U 1.8GHz,256GB SSD,Intel HD Graphics 540
+1319Windows 10Intel815.6,GL62M 7RD,Intel Core i5 7300HQ 2.5GHz,256GB SSD,Nvidia GeForce GTX 1050
+1319Windows 10Intel815.6,GP62M Leopard,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1319Windows 10Intel415.6,ProBook 650,Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+1319Windows 7Intel812.5,EliteBook 820,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1319Windows 7Intel814,ThinkPad T460,Intel Core i5 6200U 2.3GHz,180GB SSD,Intel HD Graphics 520
+1319Windows 10Intel1615.6,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,512GB SSD,Nvidia GeForce GTX 1050 Ti
+1319Windows 10Intel815.6,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,1TB HDD,Nvidia GeForce GTX 1050Ti
+1319Windows 10Intel813.3,Inspiron 7378,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1317Windows 10Intel1613.3,Probook 430,Intel Core i7 8550U 1.8GHz,512GB SSD,Intel UHD Graphics 620
+1316Windows 10Intel815.6,IdeaPad Y700-15ISK,Intel Core i7 6700HQ 2.6GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960
+1315Windows 10Intel815.6,Inspiron 7577,Intel Core i5 7300HQ 2.5GHz,256GB SSD,Nvidia GeForce GTX 1060
+1315Windows 7Intel413.3,Portege Z30-C-1CV,Intel Core i5 6200U 2.3GHz,128GB SSD,Intel HD Graphics 520
+1315Windows 10Intel413.3,Portege Z30-C-16H,Intel Core i5 6200U 2.3GHz,128GB SSD,Intel HD Graphics 520
+1315Windows 7Intel814,Probook 640,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1312Windows 10Intel814,UX430UQ-GV209R (i7-7500U/8GB/256GB/GeForce,Intel Core i7 7500U 2.7GHz,256GB SSD,Nvidia GeForce 940MX
+1311Windows 10Intel815.6,GL62M 7REX,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti
+1311Windows 10Intel817.3,GL72M 7RDX,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1310Windows 10Intel817.3,Omen 17-w212nv,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1310Windows 10Intel814,Thinkpad T460p,Intel Core i5 6300HQ 2.3GHz,256GB SSD,Intel HD Graphics 520
+1308Windows 10Intel815.6,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1308Windows 10Intel813.3,ENVY -,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1308Windows 10Intel414,ProBook 650,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+1306Windows 10Intel817.3,FX753VD-GC071T (i7-7700HQ/8GB/1TB/GeForce,Intel Core i7 7700HQ 2.8GHz,1TB HDD,Nvidia GeForce GTX 1050
+1305Windows 10Intel814,Thinkpad T460,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1304Windows 10Intel814,ProBook 440,Intel Core i7 7500U 2.7GHz,256GB SSD,Nvidia GeForce 930MX
+1299Windows 10Intel1615.6,Inspiron 5567,Intel Core i7 7500U 2.7GHz,256GB SSD,AMD Radeon R7 M445
+1298Windows 10Intel814,Tecra A40-C-1DF,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1297Windows 10Intel1615.6,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti
+1297Windows 10Intel814,Latitude 5480,Intel Core i5 7440HQ 2.8GHz,256GB SSD,Nvidia GeForce 930MX
+1297Windows 10Intel815.6,Latitude 5580,Intel Core i5 7300U 2.6GHz,256GB SSD,Intel HD Graphics 620
+1297Windows 10Intel1615.6,Inspiron 5578,Intel Core i7 7500U 2.7GHz,512GB SSD,Intel HD Graphics 620
+1286No OSIntel815.6,ROG GL553VE-FY022,Intel Core i7 7700HQ 2.8GHz,1TB HDD,Nvidia GeForce GTX 1050 Ti
+1286Windows 10Intel815.6,FX502VM-DM105T (i7-6700HQ/8GB/1TB/GeForce,Intel Core i7 6700HQ 2.6GHz,1TB HDD,Nvidia GeForce GTX 1060
+1286Windows 10Intel815.6,GL62 6QF,Intel Core i7 6700HQ 2.6GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M
+1285Windows 10Intel817.3,FX753VD-GC007T (i7-7700HQ/8GB/1TB,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1284Windows 7Intel412.5,Latitude E5270,Intel Core i3 6100U 2.3GHz,128GB SSD,Intel HD Graphics 520
+1282Mac OS XIntel812,"MacBook 12""",Intel Core M 1.2GHz,512GB Flash Storage,Intel HD Graphics 5300
+1282Windows 10Intel815.6,Probook 650,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1279Mac OS XIntel812,"MacBook 12""",Intel Core M 1.1GHz,256GB Flash Storage,Intel HD Graphics 5300
+1275Windows 10Intel815.6,Inspiron 7577,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti
+1275Chrome OSIntel812.5,Chromebook Flip,Intel Core M M7-6Y75 1.2GHz,64GB Flash Storage,Intel HD Graphics 515
+1275Windows 10Intel1615.6,ProBook 450,Intel Core i7 8550U 1.8GHz,512GB SSD,Intel UHD Graphics 620
+1275macOSIntel813.3,Macbook Air,Intel Core i5 1.8GHz,256GB Flash Storage,Intel HD Graphics 6000
+1269Windows 10Intel815.6,ZBook 15u,Intel Core i5 7200U 2.5GHz,500GB HDD,AMD FirePro W4190M 
+1265Windows 10Intel813.3,ZenBook UX310UA-FB485T,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1264Windows 10Intel814,Latitude 5490,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+1264No OSIntel815.6,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1264Windows 10Intel813.3,Envy 13-AB077cl,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1264Windows 10Intel414,ProBook 640,Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+1264Windows 10Intel813.3,Spectre 13-V100nv,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1264Windows 10Intel814,SP714-51 (i7-7Y75/8GB/256GB/FHD/W10),Intel Core i7 7Y75 1.3GHz,256GB SSD,Intel HD Graphics 615
+1264Windows 10Intel815.6,GL62M 7RDX,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1260Windows 10Intel817.3,VivoBook Pro,Intel Core i7 8550U 1.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce 150MX
+1260Windows 10Intel813.3,Envy 13-AB020nr,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1259Windows 10Intel815.6,ThinkPad E580,Intel Core i5 8250U 1.6GHz,256GB SSD +  1TB HDD,AMD Radeon RX 550
+1258Windows 10Intel815.6,Elitebook 850,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1257Windows 10Intel815.6,GP62M 7RDX,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1257Windows 10Intel815.6,Inspiron 7570,Intel Core i5 8250U 1.6GHz,256GB SSD,Nvidia GeForce 940MX
+1257Windows 10Intel815.6,Inspiron 5570,Intel Core i7 8550U 1.8GHz,256GB SSD +  2TB HDD,AMD Radeon 530
+1256Windows 10Intel817.3,Inspiron 5770,Intel Core i7 8550U 1.8GHz,128GB SSD +  1TB HDD,AMD Radeon 530
+1249Windows 7Intel412.5,Latitude E5270,Intel Core i3 6100U 2.3GHz,500GB HDD,Intel HD Graphics 520
+1249Windows 10Intel1615.6,Inspiron 5570,Intel Core i7 8550U 1.8GHz,256GB SSD +  2TB HDD,AMD Radeon 530
+1249Windows 10Intel814,Zenbook 3,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1243Windows 10Intel815.6,Inspiron 7570,Intel Core i7 8550U 1.8GHz,256GB SSD +  1TB HDD,Nvidia GeForce 940MX
+1242Windows 10Intel1615.6,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,256GB SSD +  2TB HDD,Nvidia GeForce GTX 1050 Ti
+1242Windows 10Intel813.3,Zenbook UX330UA-AH5Q,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1242Windows 10Intel817.3,Omen -,Intel Core i5 6300HQ 2.3GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1239Windows 10Intel814,Latitude 5480,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1236Windows 10Intel814,ProBook 650,Intel Core i5 7300U 2.6GHz,256GB SSD,Intel HD Graphics 620
+1232Windows 10Intel815.6,GL62M 7RD,Intel Core i5 7300HQ 2.5GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1231Windows 10Intel813.3,Envy 13-ad009n,Intel Core i7 7500U 2.7GHz,256GB SSD,Nvidia GeForce MX150
+1231Windows 10Intel815.6,Tecra A50-C-1ZV,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1231Windows 10Intel814,Latitude 5480,Intel Core i5 7200U 2.5GHz,128GB SSD,Intel HD Graphics 620 
+1230Windows 10Intel815.6,VivoBook S15,Intel Core i7 8550U 1.8GHz,256GB SSD,Nvidia GeForce 940MX
+1229Windows 10Intel815.6,Latitude 5580,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1228Windows 10Intel814,ThinkPad E480,Intel Core i5 8250U 1.6GHz,256GB SSD,AMD Radeon RX 550
+1220Windows 10Intel815.6,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050M
+1216Windows 10Intel414,Tecra Z40-C-12X,Intel Core i5 6200U 2.3GHz,128GB SSD,Intel HD Graphics 520
+1213Windows 10Intel813.3,ProBook 430,Intel Core i7 8550U 1.8GHz,512GB SSD,Intel UHD Graphics 620
+1210Windows 10Intel414,EliteBook 840,Intel Core i5 6300U 2.4GHz,256GB SSD,Intel HD Graphics 520
+1210Windows 7Intel414,EliteBook 840,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1209Mac OS XIntel813.3,MacBook Air,Intel Core i5 1.6GHz,128GB Flash Storage,Intel HD Graphics 6000
+1209Windows 10Intel814,ZenBook UX430UA,Intel Core i7 8550U 1.8GHz,256GB SSD,Intel UHD Graphics 620
+1209LinuxIntel817.3,Inspiron 5770,Intel Core i7 8550U 1.8GHz,128GB SSD +  1TB HDD,AMD Radeon 530
+1209Windows 10Intel1215.6,ZenBook Flip,Intel Core i7 7500U 2.7GHz,512GB SSD +  2TB HDD,Nvidia GeForce GT 940MX
+1209Windows 10Intel814,IdeaPad 720S-14IKB,Intel Core i5 7200U 2.5GHz,256GB SSD,Nvidia GeForce 940MX
+1209LinuxIntel814,Latitude 5480,Intel Core i7 7600U 2.8GHz,256GB SSD,Intel HD Graphics 620
+1209Windows 10Intel815.6,Omen 15-AX205na,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1209Windows 10Intel812.5,Thinkpad X260,Intel Core i5 6200U 2.3GHz,180GB SSD,Intel HD Graphics 520
+1209Windows 10Intel815.6,15-cb003na (i5-7300HQ/8GB/1TB,Intel Core i5 7300HQ 2.5GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1209Windows 10Intel1615.6,Inspiron 7559,Intel Core i7 6700HQ 2.6GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M
+1209Windows 10Intel815.6,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,1TB HDD,Nvidia GeForce GTX 1050
+1209Windows 10Intel815.6,Pro P2540UA-XS51,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1209Windows 10Intel1615.6,IdeaPad 500-15ISK,Intel Core i7 6500U 2.5GHz,1.0TB Hybrid,AMD Radeon R7 M360
+1209LinuxIntel813.3,XPS 13,Intel Core i5 6300U 2.4GHz,256GB SSD,Intel HD Graphics 520
+1207Windows 10Intel815.6,Thinkpad T570,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 630
+1206Windows 10Intel815.6,Latitude 5590,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+1206Windows 10Intel414,Thinkpad T460,Intel Core i5 6200U 2.3GHz,180GB SSD,Intel HD Graphics 520
+1205Windows 10Intel817.3,GL72M 7RDX,Intel Core i5 7300HQ 2.5GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1205Windows 10Intel813.3,Portégé Z30-C-188,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1203Windows 10Intel814,ZenBook UX410UA-GV183T,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1203Windows 10Intel815.6,Inspiron 5578,Intel Core i5 7200U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1199Windows 10Intel414,Tecra X40-D-10Z,Intel Core i5 7200U 2.5GHz,128GB SSD,Intel HD Graphics 620
+1199Windows 10Intel813.3,ProBook 430,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1198Windows 10 SIntel413.5,Surface Laptop,Intel Core i5 7200U 2.5GHz,128GB SSD,Intel HD Graphics 620
+1198LinuxIntel814,Latitude 5480,Intel Core i5 7440HQ 2.8GHz,256GB SSD,Nvidia GeForce 930MX
+1198Windows 10Intel815.6,GL62M (i5-7300HQ/8GB/1TB,Intel Core i5 7300HQ 2.5GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1194Windows 10Intel817.3,Inspiron 5770,Intel Core i7 8550U 1.8GHz,128GB SSD +  1TB HDD,AMD Radeon 530
+1194Windows 10Intel817.3,Inspiron 5770,Intel Core i5 8250U 1.6GHz,128GB SSD +  1TB HDD,AMD Radeon 530
+1192Windows 10Intel814,Probook 440,Intel Core i7 8550U 1.8GHz,512GB SSD,Intel UHD Graphics 620
+1190Windows 10Intel414,EliteBook 840,Intel Core i5 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1188Windows 10Intel817.3,Probook 470,Intel Core i5 7200U 2.5GHz,256GB SSD,Nvidia GeForce 930MX
+1187Windows 10Intel1615.6,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,256GB SSD,Nvidia GeForce GTX 1050 Ti
+1187Windows 10Intel813.9,Yoga 910-13IKB,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1179Windows 10Intel814,ThinkPad L460,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1177Windows 10Intel815.6,ProBook 450,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1170Windows 10Intel815.6,Tecra A50-D-11M,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+1169Windows 7Intel815.6,Latitude E5570,Intel Core i5 6300U 2.4GHz,256GB SSD,Intel HD Graphics 520
+1167Windows 10Intel815.6,Inspiron 5577,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1166Windows 10Intel414,ProBook 640,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+1165Windows 10Intel1617.3,Envy 17-U275cl,Intel Core i7 8550U 1.8GHz,1TB HDD,Nvidia GeForce MX150
+1161Windows 10Intel415.6,ThinkPad L570,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+1155Windows 10Intel815.6,VivoBook S15,Intel Core i7 7500U 2.7GHz,256GB SSD,Nvidia GeForce 940MX
+1155Windows 10Intel815.6,Thinkpad L560,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+1154Windows 10Intel814,ProBook 440,Intel Core i5 7200U 2.5GHz,256GB SSD,Nvidia GeForce 930MX
+1154Windows 10Intel814,Zenbook UX430UA,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1154Windows 10Intel815.6,Inspiron 5579,Intel Core i7 8550U 1.8GHz,256GB SSD,Intel UHD Graphics 620
+1154LinuxIntel1615.6,Inspiron 5570,Intel Core i7 8550U 1.8GHz,256GB SSD +  2TB HDD,AMD Radeon 530
+1154Windows 10Intel815.6,Inspiron 7570,Intel Core i5 8250U 1.6GHz,128GB SSD +  1TB HDD,Nvidia GeForce 940MX
+1154Windows 10Intel814,ThinkPad E480,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+1153Windows 10Intel815.6,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1151Windows 10Intel815.6,Latitude E5570,Intel Core i5 6300U 2.4GHz,500GB HDD,Intel HD Graphics 520
+1150Windows 10Intel817.3,Probook 470,Intel Core i7 8550U 1.8GHz,256GB SSD,Nvidia GeForce 930MX 
+1147Windows 10Intel815.6,Satellite Pro,Intel Core i7 6500U 2.5GHz,256GB SSD,Nvidia GeForce 930M
+1143Windows 10Intel817.3,Rog GL753VD-GC042T,Intel Core i7 7700HQ 2.8GHz,1TB HDD,Nvidia GeForce GTX 1050
+1137Windows 10Intel813.3,Yoga 720-13IKB,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1134Windows 10Intel814,Probook 440,Intel Core i7 8550U 1.8GHz,256GB SSD,Nvidia GeForce 930MX
+1134Windows 7Intel414,EliteBook 840,Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+1132Windows 10Intel812.5,Blade Stealth,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+1132Windows 10Intel1615.6,IdeaPad Y700-15ISK,Intel Core i7 6700HQ 2.6GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M
+1131Windows 10Intel815.6,GV62 7RD-1686NL,Intel Core i5 7300HQ 2.5GHz,256GB SSD,Nvidia GeForce GTX 1050
+1129Windows 10Intel813.3,ZenBook UX310UQ-GL026T,Intel Core i5 6200U 2.3GHz,512GB SSD,Nvidia GeForce 940M
+1122Windows 10Intel414,Tecra A40-C-1E5,Intel Core i5 6200U 2.3GHz,128GB SSD,Intel HD Graphics 520
+1121Windows 10Intel815.6,ProBook 450,Intel Core i7 7500U 2.7GHz,256GB SSD,Nvidia GeForce 930MX
+1120Windows 10Intel817.3,Probook 470,Intel Core i7 8550U 1.8GHz,1TB HDD,Nvidia GeForce 930MX 
+1119No OSIntel815.6,Legion Y520-15IKBN,Intel Core i5 7300HQ 2.5GHz,1TB HDD,Nvidia GeForce GTX 1050
+1113Windows 10Intel815.6,Thinkpad E570,Intel Core i5 7200U 2.5GHz,256GB SSD,Nvidia GeForce 940MX
+1112Windows 10Intel814,ProBook 440,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1111Windows 10Intel813.3,Thinkpad 13,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+1111Windows 10Intel815.6,Vostro 5568,Intel Core i7 7500U 2.7GHz,256GB SSD,Nvidia GeForce 940MX
+1110Windows 10Intel1215.6,Aspire F5-573G-510L,Intel Core i5 7200U 2.5GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 950M
+1109Windows 10Intel815.6,Latitude 5580,Intel Core i5 7300U 2.6GHz,500GB HDD,Intel HD Graphics 620
+1102Windows 7Intel414,ThinkPad T460,Intel Core i5 6200U 2.3GHz,508GB Hybrid,Intel HD Graphics 520
+1100Windows 10Intel414,EliteBook 840,Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+1100No OSIntel813.3,Mi Notebook,Intel Core i5 7200U 2.5GHz,256GB SSD,Nvidia GeForce MX150
+1099Windows 10Intel815.6,Legion Y520-15IKBN,Intel Core i5 7300HQ 2.5GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1099Windows 10Intel1217.3,Inspiron 7773,Intel Core i5 8250U 1.6GHz,1TB HDD,Nvidia GeForce 150MX
+1099Windows 10Intel813.3,IdeaPad 720S-13IKB,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1099Windows 10Intel815.6,FX553VD-FY647T (i7-7700HQ/8GB/256GB/GeForce,Intel Core i7 7700HQ 2.8GHz,256GB SSD,Nvidia GeForce GTX 1050
+1099Windows 10Intel815.6,Inspiron 7577,Intel Core i5 7300HQ 2.5GHz,1TB HDD,Nvidia GeForce GTX 1050
+1099Windows 10Intel813.3,Spin 5,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+1099Windows 10Intel814,Flex 5,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1099Windows 10Intel415.6,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,1TB HDD,Nvidia GeForce GTX 1050
+1099Windows 10AMD1615.6,IdeaPad Y700-15ACZ,AMD FX 8800P 2.1GHz,512GB SSD +  1TB HDD,AMD Radeon R9 M385
+1099Windows 10Intel815.6,Inspiron 7579,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1098Mac OS XIntel813.3,MacBook Air,Intel Core i5 1.6GHz,256GB Flash Storage,Intel HD Graphics 6000
+1098No OSIntel1617.3,Rog G752VL-GC088D,Intel Core i7 6700HQ 2.6GHz,1TB HDD,Nvidia GeForce GTX 965M
+1098Windows 10Intel815.6,GV62M 7RD,Intel Core i5 7300HQ 2.5GHz,256GB SSD,Nvidia GeForce GTX 1050
+1089Windows 10Intel414,ThinkPad L470,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+1089Windows 10Intel1615.6,Inspiron 5567,Intel Core i7 7500U 2.7GHz,2TB HDD,AMD Radeon R7 M445
+1088Windows 10Intel813.3,Swift 7,Intel Core i5 7Y54 1.2GHz,256GB SSD,Intel HD Graphics 615
+1088Windows 10 SIntel413.5,Surface Laptop,Intel Core M m3-7Y30 2.2GHz,128GB SSD,Intel HD Graphics 615
+1088No OSIntel815.6,Legion Y520-15IKBN,Intel Core i5 7300HQ 2.5GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060
+1087Windows 10Intel814,Probook 440,Intel Core i7 8550U 1.8GHz,256GB SSD,Intel UHD Graphics 620
+1084Windows 10Intel815.6,Inspiron 5570,Intel Core i7 8550U 1.8GHz,128GB SSD +  2TB HDD,AMD Radeon 530
+1084Windows 10Intel815.6,Inspiron 7567,Intel Core i5 7300HQ 2.5GHz,256GB SSD,Nvidia GeForce GTX 1050
+1078Windows 10Intel814,ProBook 640,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1077Windows 10Intel813.3,XPS 13,Intel Core i5 8250U 1.6GHz,128GB SSD,Intel UHD Graphics 620
+1077Windows 10Intel817.3,Inspiron 5770,Intel Core i5 8250U 1.6GHz,128GB SSD +  1TB HDD,AMD Radeon 530
+1077LinuxIntel815.6,Aspire A715-71G,Intel Core i7 7700HQ 2.8GHz,256GB SSD,Nvidia GeForce GTX 1050 Ti
+1077Windows 10Intel815.6,Inspiron 5570,Intel Core i7 8550U 1.8GHz,128GB SSD +  1TB HDD,AMD Radeon 530
+1077Windows 10Intel815.6,Probook 450,Intel Core i5 7200U 2.70GHz,128GB SSD +  1TB HDD,Nvidia GeForce 930MX
+1077Windows 10Intel815.6,Noteb Pav,Intel Core i7 7500U 2.7GHz,1TB HDD,Nvidia GeForce 940MX
+1077Windows 10Intel415.6,ProBook 450,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1075Windows 10Intel817.3,ProBook 470,Intel Core i5 8250U 1.6GHz,128GB SSD +  1TB HDD,Nvidia GeForce 930MX
+1075Windows 10Intel815.6,VivoBook S15,Intel Core i5 7200U 2.5GHz,256GB SSD,Nvidia GeForce 940MX
+1075Windows 10Intel415.6,Ideapad 700-15ISK,Intel Core i5 6300HQ 2.3GHz,1TB HDD,Nvidia GeForce GTX 950M
+1070Windows 10Intel813.3,Satellite Pro,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1070Windows 10Intel414,ProBook 440,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1068Windows 10Intel815.6,Inspiron 5570,Intel Core i7 8550U 1.8GHz,128GB SSD +  2TB HDD,AMD Radeon 530
+1057Windows 10Intel815.6,Vostro 5568,Intel Core i7 7500U 2.7GHz,1TB HDD,Nvidia GeForce GT 940MX
+1056Windows 10Intel813.3,ThinkPad 13,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1056Windows 10Intel813.3,Probook 430,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1055Windows 10Intel813.3,ProBook 430,Intel Core i5 8250U 1.6GHz,512GB SSD,Intel UHD Graphics 620
+1055Windows 10Intel415.6,Latitude 5580,Intel Core i5 7300U 2.6GHz,500GB HDD,Intel HD Graphics 620
+1055Windows 10Intel815.6,Yoga 510-15IKB,Intel Core i5 7200U 2.5GHz,256GB SSD,AMD Radeon R7 M460
+1055Mac OS XIntel411.6,MacBook Air,Intel Core i5 1.6GHz,256GB Flash Storage,Intel HD Graphics 6000
+1051Windows 10Intel813.3,Inspiron 5370,Intel Core i7 8550U 1.8GHz,256GB SSD,AMD Radeon 530
+1051Windows 10Intel815.6,Latitude 3580,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+1046Windows 10Intel815.6,Aspire A517-51G,Intel Core i7 8550U 1.8GHz,256GB SSD,Nvidia GeForce MX150
+1044LinuxIntel1217.3,FX753VE-GC093 (i7-7700HQ/12GB/1TB/GeForce,Intel Core i7 7700HQ 2.8GHz,1TB HDD,Nvidia GeForce GTX 1050 Ti
+1044Windows 10Intel815.6,FX503VD-E4022T (i7-7700HQ/8GB/1TB/GeForce,Intel Core i7 7700HQ 2.8GHz,1TB HDD,Nvidia GeForce GTX 1050
+1044Windows 10Intel813.3,Vostro 5370,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+1044Windows 10Intel813.3,ThinkPad 13,Intel Core i3 7100U 2.4GHz,256GB SSD,Intel HD Graphics 620
+1044Windows 10Intel813.3,ThinkPad 13,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1044Windows 10Intel617.3,IdeaPad 320-17IKB,Intel Core i7 7500U 2.7GHz,128GB SSD +  1TB HDD,Nvidia GeForce 940MX
+1044Windows 10AMD1215.6,IdeaPad 320-15ABR,AMD A12-Series 9720P 3.6GHz,512GB SSD,AMD Radeon 530
+1044Windows 10Intel815.6,Inspiron 7567,Intel Core i5 7300HQ 2.5GHz,1.0TB Hybrid,Nvidia GeForce GTX 1050
+1040Windows 10Intel814,Zenbook UX410UA-GV027T,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1040Windows 10Intel815.6,Latitude 5580,Intel Core i5 7200U 2.5GHz,128GB SSD,Intel HD Graphics 620
+1037Windows 10Intel815.6,Satellite Pro,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1035Windows 10Intel814,UX410UA-GV350T (i5-8250U/8GB/256GB/FHD/W10),Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+1034Windows 7Intel415.6,Probook 650,Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+1032Windows 10Intel817.3,FX753VD-GC086T (i5-7300HQ/8GB/1TB,Intel Core i5 7300HQ 2.5GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+1032Windows 10Intel814,ThinkPad L470,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1029Windows 10Intel813.3,Mi Notebook,Intel Core i5 6200U 2.3GHz,256GB SSD,Nvidia GeForce 940MX
+1029Windows 10Intel815.6,Latitude 5580,Intel Core i5 7300U 2.6GHz,500GB HDD,Intel HD Graphics 620
+1025Windows 7Intel415.6,EliteBook 850,Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+1025Windows 10Intel813.3,Inspiron 5370,Intel Core i7 8550U 1.8GHz,256GB SSD,AMD Radeon 530
+1022LinuxIntel815.6,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,1TB HDD,Nvidia GeForce GTX 1050Ti
+1021Windows 10Intel817.3,ProBook 470,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+1021Windows 10Intel813.3,ZenBook Flip,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1015Windows 10Intel817.3,ProBook 470,Intel Core i5 8250U 1.6GHz,256GB SSD,Nvidia GeForce 930MX
+1011Windows 10Intel814,Swift 3,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel Graphics 620
+1011Windows 10Intel815.6,Inspiron 5570,Intel Core i7 8550U 1.8GHz,256GB SSD,AMD Radeon 530
+1007Windows 10Intel414,Tecra A40-C-1KF,Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+1005Windows 10Intel817.3,ProBook 470,Intel Core i5 8250U 1.6GHz,1TB HDD,Nvidia GeForce 930MX
+1004Windows 10Intel415.6,Vostro 5568,Intel Core i5 7200U 2.5GHz,128GB SSD +  1TB HDD,Nvidia GeForce 940MX
+1002Windows 10Intel815.6,ThinkPad L570,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+1001Windows 10Intel817.3,ProBook 470,Intel Core i5 7200U 2.5GHz,1TB HDD,Nvidia GeForce 930MX
+1001Windows 10Intel415.6,Probook 450,Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+1000Windows 10Intel815.6,Rog GL552VW-DM201T,Intel Core i7 6700HQ 2.6GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 960M
+997Windows 10Intel815.6,VivoBook Pro,Intel Core i5 7300HQ 2.5GHz,1TB HDD,Nvidia GeForce GTX 1050
+992Windows 10Intel815.6,ProBook 450,Intel Core i7 8550U 1.8GHz,1TB HDD,Intel UHD Graphics 620
+992Windows 10Intel814,TMX349-G2-M-50FS (i5-7200U/8GB/256GB/FHD/W10),Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+990Windows 10Intel815.6,ProBook 450,Intel Core i7 7500U 2.7GHz,1TB HDD,Nvidia GeForce 930MX
+989Windows 10Intel815.6,Inspiron 7567,Intel Core i7 7700HQ 2.8GHz,1.0TB Hybrid,Nvidia GeForce GTX 1050
+989Windows 10Intel814,Yoga 520-14IKB,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+989LinuxIntel1615.6,Inspiron 5567,Intel Core i7 7500U 2.7GHz,256GB SSD,AMD Radeon R7 M445
+989Windows 10AMD1215.6,IdeaPad 320-15ABR,AMD A12-Series 9720P 3.6GHz,2TB HDD,AMD Radeon 530
+989Windows 10Intel815.6,Inspiron 5567,Intel Core i7 7500U 2.7GHz,256GB SSD,AMD Radeon R7 M445
+989Windows 10Intel813.3,XPS 13,Intel Core i5 7200U 2.5GHz,128GB SSD,Intel HD Graphics 620
+989Windows 10Intel815.6,IdeaPad 320-15IKB,Intel Core i7 7500U 2.7GHz,1TB HDD,Nvidia GeForce 920MX
+989Windows 10Intel815.6,Pavilion 15-cb003nv,Intel Core i7 7700HQ 2.8GHz,1TB HDD,Nvidia GeForce GTX 1050
+989Windows 10Intel815.6,IdeaPad Y700-15ISK,Intel Core i7 6700HQ 2.6GHz,1TB HDD,Nvidia GeForce GTX 960M
+989Windows 10Intel815.6,IdeaPad Y700-15ISK,Intel Core i7 6700HQ 2.6GHz,1TB HDD,Nvidia GeForce GTX 960M
+989Windows 10Intel815.6,IdeaPad Y700-15ISK,Intel Core i7 6700HQ 2.6GHz,1TB HDD,Nvidia GeForce GTX 960M
+989macOSIntel813.3,Macbook Air,Intel Core i5 1.8GHz,128GB Flash Storage,Intel HD Graphics 6000
+989Windows 10Intel815.6,Ideapad 520-15IKBR,Intel Core i7 8550U 1.8GHz,256GB SSD,Intel UHD Graphics 620
+986Windows 10Intel817.3,ProBook 470,Intel Core i5 8250U 1.6GHz,1TB HDD,Nvidia GeForce 930MX
+985LinuxIntel815.6,Vostro 5568,Intel Core i7 7500U 2.7GHz,256GB SSD,Nvidia GeForce GT 940MX
+985Windows 7Intel815.6,B51-80 (i7-6500U/8GB/1008GB/Radeon,Intel Core i7 6500U 2.5GHz,1.0TB Hybrid,AMD Radeon R5 M330
+980Windows 10Intel817.3,K756UX-T4340T (i5-7200U/8GB/500GB,Intel Core i5 7200U 2.5GHz,256GB SSD +  500GB HDD,Nvidia GeForce GTX 950M
+978No OSIntel817.3,F756UX-T4201D (i7-7500U/8GB/128GB,Intel Core i7 7500U 2.7GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 950M
+978Windows 10Intel815.6,Probook 450,Intel Core i5 7200U 2.5GHz,256GB SSD,Nvidia GeForce 930MX
+978LinuxIntel817.3,Inspiron 5770,Intel Core i5 8250U 1.6GHz,128GB SSD +  1TB HDD,AMD Radeon 530
+978Windows 10Intel813.3,Inspiron 5378,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+978Windows 10Intel815.6,Inspiron 5567,Intel Core i5 7200U 2.5GHz,256GB SSD,AMD Radeon R7 M445
+972Windows 10Intel814,Swift 3,Intel Core i7 8550U 1.8GHz,256GB SSD,Intel UHD Graphics 620
+969Windows 10Intel413.3,ThinkPad 13,Intel Core i5 7200U 2.5GHz,128GB SSD,Intel HD Graphics 620
+968Windows 10Intel815.6,V330-15IKB (i7-8550U/8GB/256GB/FHD/W10),Intel Core i7 8550U 1.8GHz,256GB SSD,Intel UHD Graphics 620
+967Windows 10Intel1615.6,Inspiron 7559,Intel Core i7 6700HQ 2.6GHz,1TB HDD,Nvidia GeForce GTX 960<U+039C>
+967Windows 10Intel815.6,ProBook 450,Intel Core i5 8250U 1.6GHz,256GB SSD,Nvidia GeForce 930MX 
+967Windows 10Intel814,Vostro 5471,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+967Windows 10Intel815.6,Inspiron 5577,Intel Core i5 7300HQ 2.5GHz,256GB SSD,Nvidia GeForce GTX 1050
+967LinuxIntel815.6,Aspire 7,Intel Core i7 7700HQ 2.8GHz,256GB SSD,Nvidia GeForce GTX 1050
+963Windows 10Intel414,Latitude 5480,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+957Windows 10Intel815.6,Inspiron 5570,Intel Core i7 8550U 1.8GHz,256GB SSD,AMD Radeon 530
+956Windows 10Intel813.3,Inspiron 5379,Intel Core i7 8550U 1.8GHz,256GB SSD,Intel UHD Graphics 620
+956No OSIntel815.6,Legion Y520-15IKBN,Intel Core i7 7700HQ 2.8GHz,256GB SSD,Nvidia GeForce GTX 1050M
+956LinuxIntel415.6,Latitude 5580,Intel Core i5 7300U 2.6GHz,500GB HDD,Intel HD Graphics 620
+954Windows 10Intel415.6,Yoga 500-15ISK,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+952LinuxIntel817.3,Inspiron 5767,Intel Core i7 7500U 2.7GHz,1TB HDD,AMD Radeon R7 M445
+946Windows 10Intel814,ProBook 440,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel HD Graphics 620
+946Windows 10Intel815.6,Satellite Pro,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+945Windows 10Intel1615.6,Inspiron 5567,Intel Core i7 7500U 2.7GHz,1TB HDD,AMD Radeon R7 M445
+945Windows 10Intel814,Vostro 5468,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+945Windows 10Intel617.3,IdeaPad 320-17IKB,Intel Core i7 7500U 2.7GHz,128GB SSD +  1TB HDD,Nvidia GeForce 940MX
+945Windows 10Intel814,Thinkpad E470,Intel Core i7 7500U 2.7GHz,256GB SSD,Nvidia GeForce 940MX
+943Windows 10Intel814,Thinkpad E470,Intel Core i5 7200U 2.5GHz,256GB SSD,Nvidia GeForce 920MX
+941Windows 10Intel815.6,Inspiron 5570,Intel Core i7 8550U 1.8GHz,128GB SSD +  1TB HDD,Intel UHD Graphics 620
+939Windows 10Intel817.3,Aspire A517-51G,Intel Core i5 8250U 1.6GHz,256GB SSD,Nvidia GeForce MX150
+936Windows 10Intel815.6,ThinkPad E570,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+935Windows 10Intel415.6,Pro P2540UA-XO0192R,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+934No OSIntel817.3,IdeaPad 320-17IKBR,Intel Core i7 8550U 1.8GHz,2TB HDD,Nvidia GeForce MX150
+934Windows 10Intel413.3,Latitude 3380,Intel Core i3 6006U 2GHz,500GB HDD,Intel HD Graphics 520
+932Windows 10Intel813.3,Spin 5,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+932Windows 10Intel415.6,Yoga 500-15ISK,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+931Windows 10Intel815.6,ProBook 450,Intel Core i5 7200U 2.50GHz,1TB HDD,Nvidia GeForce 930MX
+931Windows 10Intel815.6,Nitro AN515-51,Intel Core i5 7300HQ 2.5GHz,256GB SSD,Nvidia GeForce GTX 1050
+931LinuxIntel815.6,Aspire 7,Intel Core i7 7700HQ 2.8GHz,1TB HDD,Nvidia GeForce GTX 1050
+928Windows 10Intel815.6,Inspiron 5570,Intel Core i5 8250U 1.6GHz,128GB SSD +  1TB HDD,AMD Radeon 530
+925Windows 10Intel815.6,Aspire A515-51G,Intel Core i7 8550U 1.8GHz,256GB SSD,Nvidia GeForce MX150
+923Windows 10Intel813.3,Inspiron 5379,Intel Core i7 8550U 1.8GHz,1TB HDD,Intel UHD Graphics 620
+923Windows 10Intel815.6,FX553VD-DM627T (i5-7300HQ/8GB/1TB,Intel Core i5 7300HQ 2.5GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+923Windows 10Intel1215.6,Q524UQ-BHI7T15 (i7-7500U/12GB/2TB/GeForce,Intel Core i7 7500U 2.7GHz,2TB HDD,Nvidia GeForce 940MX
+923Windows 10Intel415.6,ProBook 450,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+923Windows 10Intel815.6,PL60 7RD,Intel Core i7 7500U 2.7GHz,1TB HDD,Nvidia GeForce GTX 1050
+920Windows 10Intel813.3,Pavilion X360,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+920Windows 10Intel815.6,Vostro 5568,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+916Windows 10Intel414,Yoga 500-14IBD,Intel Core i5 6200U 2.3GHz,128GB SSD,Intel HD Graphics 520
+915Windows 10Intel815.6,Aspire E5-576G,Intel Core i7 7500U 2.7GHz,256GB SSD,Nvidia GeForce 940MX
+914Windows 10Intel615.6,IdeaPad 310-15IKB,Intel Core i7 7500U 2.7GHz,256GB SSD,Nvidia GeForce 920M
+913Windows 10Intel815.6,Thinkpad E570,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+912Windows 10Intel815.6,Legion Y520-15IKBN,Intel Core i5 7300HQ 2.5GHz,256GB SSD,Nvidia GeForce GTX 1050
+912Windows 10Intel415.6,V330-15IKB (i5-8250U/4GB/256GB/FHD/W10),Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+908Windows 10Intel415.6,Latitude 5580,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+908Windows 7Intel415.6,B51-80 (i7-6500U/4GB/1008GB/FHD/W7),Intel Core i7 6500U 2.5GHz,1.0TB Hybrid,Intel HD Graphics 520
+901Windows 10Intel813.3,Inspiron 5379,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+901Windows 10Intel815.6,Inspiron 5579,Intel Core i7 8550U 1.8GHz,1TB HDD,Intel UHD Graphics 620
+901Windows 10Intel815.6,IdeaPad 320-15IKB,Intel Core i5 7200U 2.5GHz,128GB SSD +  1TB HDD,Nvidia GeForce 940MX
+901Windows 10Intel815.6,Inspiron 5577,Intel Core i5 7300HQ 2.5GHz,1TB HDD,Nvidia GeForce GTX 1050
+901Windows 10Intel815.6,Legion Y520-15IKBN,Intel Core i5 7300HQ 2.5GHz,1TB HDD,Nvidia GeForce GTX 1050
+900Windows 10Intel413.3,Inspiron 5370,Intel Core i5 8250U 1.6GHz,256GB SSD,AMD Radeon 530
+900Windows 10Intel815.6,V310-15ISK (i5-7200U/8GB/1TB,Intel Core i5 7200U 2.5GHz,128GB SSD +  1TB HDD,AMD Radeon R5 M430
+894Windows 10Intel815.6,V310-15IKB (i5-7200U/8GB/1TB,Intel Core i5 7200U 2.5GHz,128GB SSD +  1TB HDD,AMD R17M-M1-70
+893Windows 10Intel814,Probook 440,Intel Core i5 8250U 1.6GHz,1TB HDD,Intel UHD Graphics 620
+893Windows 10Intel815.6,Satellite Pro,Intel Core i7 6500U 2.5GHz,500GB HDD,Nvidia GeForce 930M
+891Windows 10Intel815.6,Latitude 3580,Intel Core i5 7200U 2.5GHz,128GB SSD,Intel HD Graphics 620
+890No OSIntel815.6,Legion Y520-15IKBN,Intel Core i5 7300HQ 2.5GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050
+887Windows 10Intel815.6,Probook 450,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+887LinuxIntel815.6,Inspiron 3567,Intel Core i7 7500U 2.7GHz,1TB HDD,AMD Radeon R5 M430
+887LinuxIntel815.6,Inspiron 3567,Intel Core i7 7500U 2.7GHz,1TB HDD,AMD Radeon R5 M430
+887LinuxIntel815.6,Inspiron 3567,Intel Core i7 7500U 2.7GHz,1TB HDD,AMD Radeon R5 M430
+886Windows 10Intel417.3,Aspire A517-51G,Intel Core i5 8250U 1.6GHz,256GB SSD,Nvidia GeForce MX150
+880Windows 10Intel815.6,Inspiron 5570,Intel Core i5 8250U 1.6GHz,256GB SSD,AMD Radeon 530
+880Windows 10Intel413.3,Probook 430,Intel Core i3 7100U 2.4GHz,500GB HDD,Intel HD Graphics 620
+879Windows 10Intel815.6,Inspiron 5579,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+879No OSIntel814,IdeaPad 510s-14IKB,Intel Core i7 7500U 2.7GHz,512GB SSD,AMD Radeon R7 M460
+879Windows 10Intel415.6,IdeaPad 320-15IKB,Intel Core i7 7500U 2.7GHz,1TB HDD,Nvidia GeForce 920MX
+879Windows 10Intel815.6,LifeBook A557,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+879Windows 10Intel815.6,Aspire F5-573G,Intel Core i5 7200U 2.5GHz,256GB SSD +  1TB HDD,Nvidia GeForce GTX 950M
+879Windows 10Intel615.6,Pavilion 15-BC000nv,Intel Core i7 6700HQ 2.6GHz,1TB HDD,Nvidia GeForce GTX 960M
+878Windows 10Intel813.3,Inspiron 5368,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+878LinuxIntel815.6,Aspire 7,Intel Core i5 7300HQ 2.5GHz,1TB HDD,Nvidia GeForce GTX 1050
+877Windows 10Intel815.6,Inspiron 5570,Intel Core i5 8250U 1.6GHz,256GB SSD,AMD Radeon 530
+876Windows 10Intel415.6,Inspiron 5568,Intel Core i3 6100U 2.3GHz,1TB HDD,Intel HD Graphics 520
+875Windows 10Intel815.6,Vostro 5568,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+873Windows 10Intel815.6,ProBook 450,Intel Core i5 8250U 1.6GHz,1TB HDD,Intel UHD Graphics 620
+872Windows 10Intel815.6,Satellite Pro,Intel Core i5 7200U 2.5GHz,128GB SSD,Intel HD Graphics 620
+869Windows 10Intel815.6,Vostro 3568,Intel Core i5 7200U 2.5GHz,256GB SSD,AMD Radeon R5 M420
+868Windows 10Intel813.3,Aspire R7,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+868Windows 10Intel815.6,IdeaPad Y700-15ISK,Intel Core i5 6300HQ 2.3GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M
+868Windows 10Intel615.6,IdeaPad 510-15IKB,Intel Core i7 7500U 2.7GHz,256GB SSD,Nvidia GeForce 940MX
+867Windows 10Intel815.6,B51-80 (i5-6200U/8GB/1008GB/Radeon,Intel Core i5 6200U 2.3GHz,1.0TB Hybrid,AMD Radeon R5 M330
+866Windows 10Intel815.6,K556UR-DM621T (i7-7500U/8GB/256GB/GeForce,Intel Core i7 7500U 2.7GHz,256GB SSD,Nvidia GeForce GTX 930MX
+864Windows 10Intel414,ThinkPad E470,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+862Windows 10Intel815.6,Inspiron 5567,Intel Core i5 7200U 2.5GHz,1TB HDD,AMD Radeon R7 M445
+858Windows 10Intel415.6,Satellite Pro,Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+857No OSIntel815.6,Legion Y520-15IKBN,Intel Core i5 7300HQ 2.5GHz,256GB SSD,Nvidia GeForce GTX 1050
+857LinuxIntel815.6,Aspire 7,Intel Core i7 7700HQ 2.8GHz,1TB HDD,Nvidia GeForce GTX 1050
+857Windows 10Intel415.6,V310-15IKB (i7-7500U/4GB/1TB/FHD/W10),Intel Core i7 7500U 2.7GHz,1TB HDD,Intel HD Graphics 620
+857Windows 10Intel414,Probook 440,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+857LinuxIntel815.6,Inspiron 5567,Intel Core i7 7500U 2.7GHz,256GB SSD,AMD Radeon R7 M445
+854Windows 10Intel415.6,Inspiron 5570,Intel Core i5 8250U 1.6GHz,1TB HDD,AMD Radeon 530
+853Windows 10Intel411.6,ProBook x360,Intel Pentium Quad Core N4200 1.1GHz,256GB SSD,Intel HD Graphics 505
+847Windows 10Intel814,Swift 3,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+847Windows 10Intel415.6,ProBook 450,Intel Core i3 7100U 2.4GHz,256GB SSD,Intel HD Graphics 620
+846Windows 7Intel415.6,Vostro 3559,Intel Core i5 6200U 2.3GHz,500GB HDD,AMD Radeon R5 M315
+846Windows 10Intel815.6,Vivobook X541UV-DM1217T,Intel Core i5 7200U 2.5GHz,256GB SSD,Nvidia GeForce 920MX 
+846Windows 10Intel414,UX410UA-GV097T (i3-7100U/4GB/256GB/FHD/W10),Intel Core i3 7100U 2.4GHz,256GB SSD,Intel HD Graphics 620
+845Windows 10Intel815.6,Inspiron 3576,Intel Core i7 8550U 1.8GHz,256GB SSD,AMD Radeon 520
+840Windows 10Intel615.6,15-AC110nv (i7-6500U/6GB/1TB/Radeon,Intel Core i7 6500U 2.5GHz,1TB HDD,AMD Radeon R5 M330
+840Windows 10Intel615.6,15-AC110nv (i7-6500U/6GB/1TB/Radeon,Intel Core i7 6500U 2.5GHz,1TB HDD,AMD Radeon R5 M330
+840Windows 10Intel615.6,15-AC110nv (i7-6500U/6GB/1TB/Radeon,Intel Core i7 6500U 2.5GHz,1TB HDD,AMD Radeon R5 M330
+835Windows 10Intel815.6,Inspiron 5570,Intel Core i5 8250U 1.6GHz,2TB HDD,AMD Radeon 530
+831Windows 10Intel414,Latitude 3480,Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+829Windows 10Intel413.3,ProBook 430,Intel Core i5 8250U 1.6GHz,500GB HDD,Intel UHD Graphics 620
+827Windows 10Intel815.6,250 G6,Intel Core i7 7500U 2.7GHz,256GB SSD,Intel HD Graphics 620
+825Windows 10Intel815.6,Vostro 3568,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+824LinuxIntel815.6,Inspiron 3567,Intel Core i7 7500U 2.7GHz,256GB SSD,AMD Radeon R5 M430
+824Windows 10Intel415.6,Inspiron 5570,Intel Core i5 8250U 1.6GHz,256GB SSD,AMD Radeon 530
+824Windows 10Intel815.6,Pro P2540UA-AB51,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+824Windows 10Intel815.6,Inspiron 5567,Intel Core i7 7500U 2.7GHz,1TB HDD,AMD Radeon R7 M445
+820Windows 10Intel815.6,Inspiron 3567,Intel Core i7 7500U 2.7GHz,256GB SSD,AMD Radeon R5 M430
+820Windows 10Intel815.6,Aspire A515-51G,Intel Core i7 8550U 1.8GHz,1TB HDD,Nvidia GeForce MX130
+820Windows 10Intel815.6,15-bs012nv (i7-7500U/8GB/1TB/Radeon,Intel Core i7 7500U 2.7GHz,1TB HDD,AMD Radeon 530
+818Windows 10Intel411.6,Latitude 3180,Intel Pentium Quad Core N4200 1.1GHz,128GB SSD,Intel HD Graphics 505
+816Windows 10Intel815.6,Aspire E5-576G,Intel Core i7 7500U 2.7GHz,1TB HDD,Nvidia GeForce 940MX
+816Windows 10Intel415.6,ProBook 450,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+814Windows 10Intel814,Latitude E5470,Intel Core i3 6100U 2.3GHz,128GB SSD,Intel HD Graphics 520
+813Windows 10Intel815.6,V330-15IKB (i5-8250U/8GB/256GB/FHD/W10),Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+813Windows 10Intel815.6,Lifebook A557,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+813Windows 10Intel815.6,TP501UA-CJ131T (i5-7200U/8GB/1TB/W10),Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 520
+813Windows 10Intel815.6,Vostro 5568,Intel Core i3 6006U 2GHz,256GB SSD,AMD Radeon R5 M420X
+813Windows 10Intel415.6,Vostro 3568,Intel Core i7 7500U 2.7GHz,256GB SSD,AMD Radeon R5 M420
+811Windows 7Intel415.6,Vostro 3559,Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+809Windows 10Intel414,Vostro 5468,Intel Core i3 6006U 2GHz,128GB SSD,Intel HD Graphics 520
+809LinuxIntel815.6,Inspiron 3576,Intel Core i7 8550U 1.8GHz,256GB SSD,AMD Radeon 520
+809Windows 10Intel413.3,Thinkpad 13,Intel Core i3 7100U 2.4GHz,180GB SSD,Intel HD Graphics 620
+803Windows 10Intel415.6,Latitude 3580,Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+802Windows 10Intel813.3,ZenBook UX305CA-UBM1,Intel Core M 6Y30 0.9GHz,512GB SSD,Intel HD Graphics 515
+802Windows 10Intel813.3,ZenBook UX305CA-UBM1,Intel Core M 6Y30 0.9GHz,512GB SSD,Intel HD Graphics 515
+802Windows 10Intel813.3,ZenBook UX305CA-UBM1,Intel Core M 6Y30 0.9GHz,512GB SSD,Intel HD Graphics 515
+801Windows 10Intel815.6,Inspiron 3576,Intel Core i5 8250U 1.6GHz,256GB SSD,AMD Radeon 520
+799Windows 10Intel413.3,ProBook 430,Intel Core i5 8250U 1.6GHz,128GB SSD,Intel UHD Graphics 620
+799LinuxIntel815.6,Vostro 5568,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+794Windows 10Intel414,Probook 440,Intel Core i5 8250U 1.6GHz,500GB HDD,Intel UHD Graphics 620
+794Windows 10Intel415.6,ProBook 450,Intel Core i5 8250U 1.6GHz,500GB HDD,Intel HD Graphics 620
+792Windows 10Intel415.6,X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce,Intel Core i7 6500U 2.5GHz,500GB HDD,Nvidia GeForce 920M
+792Windows 10Intel415.6,X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce,Intel Core i7 6500U 2.5GHz,500GB HDD,Nvidia GeForce 920M
+792Windows 10Intel415.6,X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce,Intel Core i7 6500U 2.5GHz,500GB HDD,Nvidia GeForce 920M
+791Windows 10Intel815.6,15-bs017nv (i7-7500U/8GB/256GB/Radeon,Intel Core i7 7500U 2.7GHz,256GB SSD,AMD Radeon 530
+791Windows 10Intel617.3,IdeaPad 320-17IKB,Intel Core i5 7200U 2.5GHz,128GB SSD +  1TB HDD,Nvidia GeForce GTX 940MX
+791Windows 10Intel413.3,ProBook 430,Intel Core i3 7100U 2.4GHz,128GB SSD,Intel HD Graphics 620
+791Windows 10Intel815.6,Inspiron 5570,Intel Core i5 8250U 1.6GHz,128GB SSD +  1TB HDD,AMD Radeon 530
+788Windows 10Intel815.6,ProBook 450,Intel Core i3 7100U 2.4GHz,1TB HDD,Nvidia GeForce 930MX 
+785Windows 10Intel815.6,Vostro 3568,Intel Core i5 7200U 2.5GHz,128GB SSD,Intel HD Graphics 620
+784Windows 10Intel1215.6,Inspiron 5567,Intel Core i7 7500U 2.7GHz,1TB HDD,Intel HD Graphics 620
+780LinuxIntel815.6,A715-71G-59DH (i5-7300HQ/8GB/1TB/GeForce,Intel Core i5 7300HQ 2.5GHz,1TB HDD,Nvidia GeForce GTX 1050
+780No OSIntel815.6,IdeaPad 510-15IKB,Intel Core i7 7500U 2.7GHz,1TB HDD,Nvidia GeForce 940MX
+779Windows 10Intel415.6,Vostro 3568,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+776Windows 10Intel415.6,ProBook 450,Intel Core i3 7100U 2.4GHz,128GB SSD,Intel HD Graphics 620
+776Windows 10Intel415.6,ProBook 650,Intel Core i3 6100U 2.3GHz,500GB HDD,Intel HD Graphics 520
+772Windows 10Intel417.3,Aspire 5,Intel Core i3 7130U 2.7GHz,256GB SSD,Nvidia GeForce MX130
+769Windows 10Intel815.6,Pavilion 15-CK000nv,Intel Core i7 8550U 1.8GHz,256GB SSD,Nvidia GeForce GTX 940MX
+769Windows 10AMD815.6,FX550IK-DM018T (FX-9830P/8GB/1TB/Radeon,AMD FX 9830P 3GHz,1TB HDD,AMD Radeon RX 560
+769Windows 10Intel413.3,Envy 13-AD007nv,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+769Windows 10Intel617.3,17-bs001nv (i5-7200U/6GB/2TB/Radeon,Intel Core i5 7200U 2.5GHz,2TB HDD,AMD Radeon 520
+769Windows 10Intel414,Pavilion X360,Intel Core i3 7100U 2.4GHz,128GB SSD,Nvidia GeForce 940MX
+769Windows 10Intel417.3,17-bs000nv I3,Intel Core i3 6006U 2GHz,256GB SSD,AMD Radeon R5 520
+769Windows 10Intel414,IdeaPad 520s-14IKB,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+768No OSIntel817.3,IdeaPad 320-17IKBR,Intel Core i5 8250U 1.6GHz,256GB SSD,Nvidia GeForce MX150
+765Windows 10Intel615.6,IdeaPad 310-15IKB,Intel Core i5 7200U 2.5GHz,256GB SSD,Nvidia GeForce 920MX
+763Windows 10Intel1215.6,Aspire 5,Intel Core i5 8250U 1.6GHz,1TB HDD,Nvidia GeForce MX130
+760Windows 10Intel415.6,Aspire E5-576G,Intel Core i5 7200U 2.5GHz,256GB SSD,Nvidia GeForce 940MX
+759Windows 10Intel815.6,250 G6,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+758Windows 10Intel815.6,Aspire 5,Intel Core i7 8550U 1.8GHz,1TB HDD,Nvidia GeForce MX150
+758Windows 10Intel813.3,Aspire R7,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+758Windows 10Intel413.3,Latitude 3380,Intel Core i3 6006U 2GHz,128GB SSD,Intel HD Graphics 520
+758Windows 10Intel415.6,ProBook 440,Intel Core i3 6006U 2GHz,128GB SSD,Intel HD Graphics 520
+758Windows 10Intel415.6,15-bs011nv (i7-7500U/4GB/500GB/Radeon,Intel Core i7 7500U 2.7GHz,500GB HDD,AMD Radeon 530
+754Windows 10Intel415.6,V330-15IKB (i5-8250U/4GB/500GB/FHD/W10),Intel Core i5 8250U 1.6GHz,500GB HDD,Intel HD Graphics 620
+754No OSIntel815.6,IdeaPad 310-15IKB,Intel Core i7 7500U 2.7GHz,1TB HDD,Nvidia GeForce 920MX
+754Windows 10Intel415.6,ProBook 450,Intel Core i3 7100U 2.4GHz,500GB HDD,Intel HD Graphics 620
+753Windows 10Intel415.6,Vostro 3568,Intel Core i5 7200U 2.5GHz,1TB HDD,AMD Radeon R5 M420
+753Windows 10Intel415.6,Pavilion x360,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+752Windows 10Intel414,Probook 440,Intel Core i3 7100U 2.4GHz,500GB HDD,Intel HD Graphics 620
+750Windows 10Intel415.6,Aspire A515-51G,Intel Core i5 8250U 1.6GHz,256GB SSD,Intel UHD Graphics 620
+747Windows 10Intel815.6,250 G5,Intel Core i7 6500U 2.5GHz,256GB SSD,Intel HD Graphics 520
+745LinuxIntel815.6,Inspiron 3576,Intel Core i5 8250U 1.6GHz,256GB SSD,AMD Radeon 520
+743Windows 10Intel413.3,ProBook 430,Intel Core i5 8250U 1.6GHz,500GB HDD,Intel UHD Graphics 620
+743Windows 10Intel815.6,Inspiron 3576,Intel Core i5 8250U 1.6GHz,1TB HDD,AMD Radeon 520
+736Chrome OSIntel412.5,Chromebook Flip,Intel Core M M3-6Y30 0.9GHz,64GB Flash Storage,Intel HD Graphics 515
+736Windows 10Intel415.6,Satellite Pro,Intel Core i3 7100U 2.4GHz,500GB HDD,Intel HD Graphics 620
+736Windows 10Intel815.6,IdeaPad 510-15ISK,Intel Core i7 6500U 2.5GHz,1TB HDD,Nvidia GeForce 940MX
+735Windows 10Intel415.6,ProBook 450,Intel Core i3 7100U 2.4GHz,500GB HDD,Intel HD Graphics 620
+732Windows 10Intel815.6,Vostro 3568,Intel Core i3 6006U 2GHz,256GB SSD,Intel HD Graphics 520
+729Windows 10Intel815.6,Inspiron 5570,Intel Core i5 8250U 1.6GHz,1TB HDD,AMD Radeon 530
+725No OSIntel815.6,IdeaPad 320-15IKB,Intel Core i7 7500U 2.7GHz,1TB HDD,Nvidia GeForce 940MX
+725Windows 10Intel815.6,15-BS101nv (i7-8550U/8GB/256GB/FHD/W10),Intel Core i7 8550U 1.8GHz,256GB SSD,Intel HD Graphics 620
+725Windows 10Intel614,Pavilion 14-BK001nv,Intel Core i5 7200U 2.5GHz,256GB SSD,Nvidia GeForce 940MX
+725Windows 10Intel1215.6,SP315-51 (i7-7500U/12GB/1TB/FHD/W10),Intel Core i7 7500U 2.7GHz,1TB HDD,Intel HD Graphics 620
+725Windows 10AMD815.6,Aspire 5,AMD A12-Series 9720P 2.7GHz,256GB SSD,AMD Radeon RX 540
+725Windows 10Intel813.3,Inspiron 5379,Intel Core i5 8250U 1.6GHz,1TB HDD,Intel UHD Graphics 620
+725Windows 10Intel417.3,Insprion 5767,Intel Core i3 6006U 2.0GHz,1TB HDD,AMD Radeon R7 M445
+725Windows 10Intel817.3,IdeaPad 300-17ISK,Intel Core i5 6200U 2.3GHz,1.0TB HDD,AMD Radeon R5 M330
+723Windows 10Intel415.6,Vostro 3568,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+721Windows 10AMD617.3,17-ak002nv (A10-9620P/6GB/2TB/Radeon,AMD A10-Series 9620P 2.5GHz,2TB HDD,AMD Radeon 530
+721Windows 10Intel417.3,Aspire 5,Intel Core i3 7130U 2.7GHz,1TB HDD,Nvidia GeForce MX130
+721Windows 10Intel413.3,TravelMate P238-M,Intel Core i5 6200U 2.3GHz,128GB SSD,Intel HD Graphics 520
+715Windows 10AMD615.6,15-BW091ND (A9-9420/6GB/1TB,AMD A9-Series A9-9420 3GHz,128GB SSD +  1TB HDD,AMD Radeon 520
+715Windows 10Intel415.6,ProBook 450,Intel Core i3 6100U 2.3GHz,500GB HDD,Intel HD Graphics 520
+714Windows 10Intel617.3,IdeaPad 320-17IKB,Intel Core i5 7200U 2.5GHz,1TB HDD,Nvidia GeForce GTX 940M
+714Windows 10AMD615.6,15-cd005nv (A9-9420/6GB/256GB/Radeon,AMD A9-Series A9-9420 3GHz,256GB SSD,AMD Radeon 530
+714Windows 10Intel413.3,Inspiron 5378,Intel Core i3 7100U 2.4GHz,1TB HDD,Intel HD Graphics 620
+714Windows 10Intel1215.6,Inspiron 3567,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+714Windows 10Intel813.3,Inspiron 5368,Intel Core i5 6200U 2.3GHz,1TB HDD,Intel HD Graphics 520
+714Windows 10Intel415.6,LifeBook A556,Intel Core i5 6200U 2.3GHz,256GB SSD,Intel HD Graphics 520
+712LinuxIntel815.6,Inspiron 3576,Intel Core i5 8250U 1.6GHz,1TB HDD,AMD Radeon 520
+711Windows 10Intel410.1,Yoga Book,Intel Atom x5-Z8550 1.44GHz,64GB Flash Storage,Intel HD Graphics 400
+704Windows 10Intel817.3,17-BS092ND (i3-6006U/8GB/256GB/W10),Intel Core i3 6006U 2GHz,256GB SSD,Intel HD Graphics 520
+703Windows 10Intel613.3,Q304UA-BHI5T11 (i5-7200U/6GB/1TB/FHD/W10),Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+703Windows 10Intel415.6,Inspiron 3567,Intel Core i5 7200U 2.5GHz,256GB SSD,AMD Radeon R5 M430
+703Windows 10Intel815.6,250 G6,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+703Windows 10Intel415.6,Aspire A515-51G,Intel Core i7 7500U 2.7GHz,500GB HDD,Nvidia GeForce 940MX
+703Windows 10Intel815.6,Inspiron 5567,Intel Core i5 7200U 2.5GHz,1TB HDD,AMD Radeon R7 M445
+703Windows 10Intel815.6,Inspiron 5567,Intel Core i5 7200U 2.5GHz,1TB HDD,AMD Radeon R7 M445
+702Windows 10Intel414,Yoga 500-14ISK,Intel Core i7 6500U 2.5GHz,128GB SSD,Intel HD Graphics 520
+702Windows 10Intel414,Yoga 500-14ISK,Intel Core i7 6500U 2.5GHz,128GB SSD,Intel HD Graphics 520
+702Windows 10Intel414,Yoga 500-14ISK,Intel Core i7 6500U 2.5GHz,128GB SSD,Intel HD Graphics 520
+700Windows 10Intel414,Swift 3,Intel Core i3 7100U 2.4GHz,128GB SSD,Intel HD Graphics 620
+693Windows 10Intel415.6,V330-15IKB (i3-7130U/4GB/128GB/FHD/W10),Intel Core i3 7130U 2.7GHz,128GB SSD,Intel HD Graphics 620
+692No OSIntel815.6,IdeaPad 320-15IKBN,Intel Core i5 7200U 2.5GHz,256GB SSD,Nvidia GeForce 940MX
+692Windows 10Intel414,Yoga 520-14IKB,Intel Core i3 7100U 2.4GHz,256GB SSD,Intel HD Graphics 620
+692Windows 10AMD815.6,15-ba043na (A12-9700P/8GB/2TB/W10),AMD A12-Series 9700P 2.5GHz,2TB HDD,AMD Radeon R7 Graphics
+692Windows 10Intel815.6,15-bs078cl (i7-7500U/8GB/2TB/W10),Intel Core i7 7500U 2.7GHz,2TB HDD,Intel HD Graphics 620
+692No OSIntel815.6,IdeaPad 310-15ISK,Intel Core i7 6500U 2.5GHz,500GB HDD,Nvidia GeForce 920MX
+692Windows 10Intel817.3,Aspire E5-774G,Intel Core i3 6006U 2.0GHz,1TB HDD,Nvidia GeForce 940MX
+684Windows 10Intel415.6,V310-15IKB (i5-7200U/4GB/1TB/FHD/W10),Intel Core i5 7200U 2.5GHz,1TB HDD +  1TB HDD,Intel HD Graphics 620
+681Windows 10Intel615.6,15-BS103nv (i5-8250U/6GB/256GB/Radeon,Intel Core i5 8250U 1.6GHz,256GB SSD,AMD Radeon 520
+681Windows 10Intel814,Swift 3,Intel Core i3 7100U 2.4GHz,128GB SSD,Intel HD Graphics 620
+681Windows 10Intel415.6,TravelMate P259-G2,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+681Windows 10Intel815.6,15-BS026nv (i5-7200U/8GB/256GB/Radeon,Intel Core i5 7200U 2.5GHz,256GB SSD,AMD Radeon 520
+680Windows 10Intel415.6,Vostro 3568,Intel Core i3 6006U 2GHz,1TB HDD,AMD Radeon R5 M420
+678Windows 10Intel415.6,Aspire E5-576G,Intel Core i5 7200U 2.5GHz,1TB HDD,Nvidia GeForce 940MX
+677Chrome OSIntel411.6,Chromebook X360,Intel Celeron Dual Core N3350 1.1GHz,32GB Flash Storage,Intel HD Graphics 500
+677Chrome OSIntel413.3,Chromebook 13,Intel Pentium Dual Core 4405Y 1.5GHz,32GB Flash Storage,Intel HD Graphics 515
+675Windows 10Intel415.6,Vostro 3568,Intel Core i3 6006U 2.0GHz,1TB HDD,AMD Radeon R5 M420X
+674Windows 10Intel415.6,Aspire A515-51G-59QF,Intel Core i5 8250U 1.6GHz,1TB HDD,Nvidia GeForce MX150
+674Windows 10Intel415.6,250 G6,Intel Core i5 7200U 2.5GHz,500GB HDD,AMD Radeon 520
+670Windows 10Intel1215.6,Ideapad 320-15IKBR,Intel Core i7 8550U 1.8GHz,1TB HDD,Intel HD Graphics 620
+670Windows 10Intel415.6,IdeaPad 310-15IKB,Intel Core i5 7200U 2.5GHz,1TB HDD,Nvidia GeForce 920M
+663Windows 10Intel411.6,Inspiron 3179,Intel Core M 7Y30 1.0GHz,128GB SSD,Intel HD Graphics 615
+662Windows 10Intel415.6,Satellite Pro,Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+660LinuxIntel815.6,Inspiron 3567,Intel Core i7 7500U 2.7GHz,1TB HDD,AMD Radeon R5 M430
+659No OSIntel814,IdeaPad 520S-14IKB,Intel Core i3 7130U 2.7GHz,256GB SSD,Intel HD Graphics 620
+659Windows 10Intel414,IdeaPad 320s-14IKB,Intel Core i3 7130U 2.7GHz,128GB SSD,Intel HD Graphics 620
+659Windows 10Intel415.6,Aspire 3,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+659Windows 10Intel415.6,Inspiron 3567,Intel Core i5 7200U 2.5GHz,500GB HDD,AMD Radeon R5 M430
+659No OSIntel815.6,B51-80 (i5-6200U/8GB/1TB/Radeon,Intel Core i5 6200U 2.3GHz,1TB HDD,AMD Radeon R5 M330
+659Windows 10Intel815.6,250 G6,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+659LinuxIntel415.6,Inspiron 3567,Intel Core i5 7200U 2.5GHz,256GB SSD,AMD Radeon R5 M430
+658Windows 10Intel815.6,15-BS078nr (i7-7500U/8GB/1TB/W10),Intel Core i7 7500U 2.7GHz,1TB HDD,Intel HD Graphics 620
+658Windows 10Intel417.3,E5 774G,Intel Core i3 6006U 2GHz,1TB HDD,Nvidia GeForce 940MX
+657Windows 10AMD615.6,IdeaPad 320-15ABR,AMD A12-Series 9720P 3.6GHz,256GB SSD,AMD Radeon 530
+657Windows 10Intel815.6,IdeaPad 320-15IKBN,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+657LinuxIntel815.6,X542UQ-DM117 (i3-7100U/8GB/1TB/GeForce,Intel Core i3 7100U 2.4GHz,1TB HDD,Nvidia GeForce 940MX
+649Windows 10Intel815.6,R558UA-DM966T (i5-7200U/8GB/128GB/FHD/W10),Intel Core i5 7200U 2.5GHz,128GB HDD,Intel HD Graphics 620
+648LinuxIntel815.6,Inspiron 5567,Intel Core i5 7200U 2.5GHz,1TB HDD,AMD Radeon R7 M445
+648No OSIntel817.3,IdeaPad 320-17IKB,Intel Core i5 7200U 2.5GHz,1TB HDD,Nvidia GeForce GTX 940MX
+648Windows 10Intel815.6,IdeaPad 320-15ISK,Intel Core i3 6006U 2GHz,128GB SSD,Intel HD Graphics 520
+648Windows 10Intel417.3,IdeaPad 320-17IKB,Intel Core i5 7200U 2.5GHz,1TB HDD,Nvidia GeForce 920MX
+648Windows 10Intel815.6,15-bs024nv (i5-7200U/8GB/128GB/W10),Intel Core i5 7200U 2.5GHz,128GB SSD,Intel HD Graphics 620
+645Windows 10Intel415.6,Vostro 3568,Intel Core i3 7100U 2.4GHz,1TB HDD,Intel HD Graphics 620
+645Windows 10Intel415.6,VivoBook Max,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+644Windows 10Intel415.6,Inspiron 3567,Intel Core i5 7200U 2.5GHz,500GB HDD,AMD Radeon R5 M430
+644Windows 10Intel414,Latitude 3480,Intel Core i3 6006U 2GHz,500GB HDD,Intel HD Graphics 520
+640Windows 10Intel815.6,Vivobook Max,Intel Pentium Dual Core N4200 1.1GHz,128GB SSD,Intel HD Graphics 505
+637Windows 10Intel615.6,Ideapad 320-15IKBN,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+637Windows 10AMD815.6,Aspire 5,AMD A10-Series 9620P 2.5GHz,1TB HDD,AMD Radeon RX 540
+637Windows 10Intel415.6,Ideapad 320-15ISK,Intel Core i3 6006U 2GHz,1TB HDD,Nvidia GeForce 920MX 
+637No OSIntel415.6,X550VX-XX015D (i5-6300HQ/4GB/1TB/GeForce,Intel Core i5 6300HQ 2.3GHz,1TB HDD,Nvidia GeForce GTX 950M
+637Windows 10Intel615.6,15-bs053od (i7-7500U/6GB/1TB/W10),Intel Core i7 7500U 2.7GHz,1TB HDD,Intel HD Graphics 620
+637Windows 10Intel815.6,15-bs025nv (i5-7200U/8GB/256GB/W10),Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+635Windows 10Intel615.6,X541UV-DM1439T (i3-7100U/6GB/256GB/GeForce,Intel Core i3 7100U 2.4GHz,256GB SSD,Nvidia GeForce 920M
+633No OSIntel815.6,250 G6,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+633Windows 10AMD415.6,X555QG-DM242T (A10-9620P/4GB/1TB,AMD A10-Series A10-9620P 2.5GHz,128GB SSD +  1TB HDD,AMD Radeon R5 M430
+630No OSIntel815.6,V510-15IKB (i5-7200U/8GB/256GB/FHD/No,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+629Windows 10Intel415.6,Aspire A515-51G-37JS,Intel Core i3 7130U 2.7GHz,256GB SSD,Nvidia GeForce MX130
+626LinuxIntel415.6,Vostro 3568,Intel Core i5 7200U 2.5GHz,128GB SSD,AMD Radeon R5 M420
+626Windows 10AMD617.3,17-Y002nv (A10-9600P/6GB/2TB/Radeon,AMD A10-Series 9600P 2.4GHz,2TB HDD,AMD Radeon R7 M440
+626Windows 10Intel615.6,IdeaPad 310-15ISK,Intel Core i3 6100U 2.3GHz,128GB SSD,Nvidia GeForce 920MX
+626Windows 10AMD615.6,15-bw007nv (A10-9620P/6GB/128GB/Radeon,AMD A10-Series A10-9620P 2.5GHz,128GB SSD,AMD Radeon 530
+622Windows 10Intel815.6,Inspiron 3567,Intel Core i5 7200U 2.5GHz,1TB HDD,AMD Radeon R5 M430
+622Windows 10Intel415.6,ThinkPad E570,Intel Core i3 6006U 2.0GHz,128GB SSD,Intel HD Graphics 520
+620Windows 10Intel417.3,X705UV-BX074T (i3-6006U/4GB/1TB/GeForce,Intel Core i3 6006U 2GHz,1TB HDD,Nvidia GeForce 920MX
+620Windows 10Intel615.6,IdeaPad 310-15IKB,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+615Windows 10Intel815.6,15-bs015dx (i5-7200U/8GB/1TB/W10),Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+615LinuxIntel415.6,VivoBook Max,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+615Windows 10Intel415.6,Extensa EX2540-58KR,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+615Windows 10Intel415.6,Inspiron 3567,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics
+614Windows 10Intel415.6,Vostro 3568,Intel Core i3 6006U 2.0GHz,1TB HDD,Intel HD Graphics 520
+613Windows 10Intel815.6,Inspiron 3567,Intel Core i5 7200U 2.5GHz,2TB HDD,Intel HD Graphics 620
+608Windows 10Intel411.6,Yoga 11e,Intel Celeron Quad Core N3450 1.1GHz,128GB SSD,Intel HD Graphics 500
+605Windows 10AMD615.6,Pavilion 15-AW003nv,AMD A9-Series 9410 2.9GHz,1.0TB Hybrid,AMD Radeon R7 M440
+605Windows 10AMD615.6,Pavilion 15-AW003nv,AMD A9-Series 9410 2.9GHz,1.0TB Hybrid,AMD Radeon R7 M440
+605Windows 10AMD615.6,Pavilion 15-AW003nv,AMD A9-Series 9410 2.9GHz,1.0TB Hybrid,AMD Radeon R7 M440
+604Windows 10Intel415.6,V310-15ISK (i5-7200U/4GB/1TB/FHD/W10),Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+604No OSIntel815.6,IdeaPad 320-15IKBN,Intel Core i5 7200U 2.5GHz,256GB SSD,Intel HD Graphics 620
+604No OSIntel815.6,IdeaPad 320-15IKBN,Intel Core i5 7200U 2.5GHz,2TB HDD,Nvidia GeForce 940MX
+604Windows 10Intel615.6,Aspire E5-575,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+604Windows 10Intel413.3,Ideapad 510S-13IKB,Intel Core i3 7100U 2.4GHz,128GB SSD,Intel HD Graphics 620
+604Windows 10AMD615.6,IdeaPad 320-15ABR,AMD A12-Series 9720P 3.6GHz,256GB SSD,AMD Radeon 530
+604AndroidIntel410.1,Yoga Book,Intel Atom x5-Z8550 1.44GHz,64GB Flash Storage,Intel HD Graphics 400
+602Windows 10Intel415.6,Vostro 3568,Intel Core i3 7100U 2.4GHz,128GB SSD,Intel HD Graphics 620
+600Windows 10Intel415.6,Inspiron 3567,Intel Core i3 6006U 2GHz,1TB HDD,AMD Radeon R5 M430
+599Windows 10Intel817.3,17-X047na (i3-6006U/8GB/1TB/W10),Intel Core i3 6006U 2GHz,1TB HDD,Intel HD Graphics 520
+598Windows 10Intel415.6,Aspire E5-576G,Intel Core i3 6006U 2GHz,1TB HDD,Nvidia GeForce 940MX
+594Windows 10Intel415.6,V110-15ISK (i5-6200U/4GB/500GB/W10),Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+594Windows 10Intel815.6,Inspiron 3567,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+593Windows 10Intel615.6,15-ay047nv (i3-6006U/6GB/1TB/Radeon,Intel Core i3 6006U 2GHz,1TB HDD,AMD Radeon R5 M430
+593Windows 10Intel815.6,250 G6,Intel Core i3 6006U 2GHz,256GB SSD,Intel HD Graphics 520
+593No OSIntel817.3,IdeaPad 320-17IKB,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+589Windows 10Intel415.6,IdeaPad 320-15ISK,Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+583Windows 10Intel415.6,Aspire A515-51G-32MX,Intel Core i3 7130U 2.7GHz,1TB HDD,Nvidia GeForce MX130
+583Windows 10Intel417.3,X751SV-TY001T (N3710/4GB/1TB/GeForce,Intel Pentium Quad Core N3710 1.6GHz,1TB HDD,Nvidia GeForce 920MX
+582No OSIntel417.3,V320-17ISK (i3-6006U/4GB/500GB/FHD/No,Intel Core i3 6006U 2GHz,500GB HDD,Intel HD Graphics 520
+582Windows 10AMD615.6,15-bw009nv (A12-9720P/6GB/1TB/Radeon,AMD A12-Series 9720P 2.7GHz,1TB HDD,AMD Radeon 530
+576LinuxIntel415.6,Latitude E5570,Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+575LinuxIntel815.6,X542UQ-GO005 (i5-7200U/8GB/1TB/GeForce,Intel Core i5 7200U 2.5GHz,1TB HDD,Nvidia GeForce 940MX
+574LinuxIntel415.6,Vostro 3568,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 520
+574Windows 10Intel415.6,15-bs190od (i5-8250U/4GB/1TB/W10),Intel Core i5 8250U 1.6GHz,1TB HDD,Intel UHD Graphics 620
+573Windows 10AMD817,17-AK091ND (A9-9420/8GB/1TB/W10),AMD A9-Series 9420 3GHz,1TB HDD,AMD Radeon R5
+571No OSIntel815.6,IdeaPad 320-15IKBN,Intel Core i5 7200U 2.5GHz,2TB HDD,Intel HD Graphics 620
+571Windows 10AMD817.3,IdeaPad 320-15AST,AMD A6-Series 9220 2.5GHz,1TB HDD,AMD Radeon R4
+571LinuxIntel415.6,VivoBook Max,Intel Core i5 7200U 2.5GHz,1TB HDD,Nvidia GeForce 920
+560Windows 10Intel414,VivoBook S14,Intel Core i3 7100U 2.4GHz,128GB SSD,Intel HD Graphics 620
+560Windows 10Intel415,Inspiron 5578,Intel Core i3 7100U 2.4GHz,500GB HDD,Intel HD Graphics 620
+550Windows 10Intel415.6,250 G5,Intel Pentium Quad Core N3710 1.6GHz,1TB HDD,Intel HD Graphics 405
+549No OSIntel815.6,IdeaPad 320-15IKB,Intel Core i3 7100U 2.4GHz,1TB HDD,Nvidia GeForce 940MX
+549No OSIntel415.6,IdeaPad 320-15IKBN,Intel Core i5 7200U 2.5GHz,1TB HDD,Nvidia GeForce 920MX
+549Windows 10AMD615.6,IdeaPad 310-15ABR,AMD A10-Series 9600P 2.4GHz,1TB HDD,AMD Radeon R5 430
+549No OSIntel815.6,IdeaPad 320-15ISK,Intel Core i3 6006U 2GHz,256GB SSD,Nvidia GeForce 920MX 
+549Windows 10AMD415.6,15-BW004nv (A9-9420/4GB/256GB/Radeon,AMD A9-Series 9420 3GHz,256GB SSD,AMD Radeon 520
+549Windows 10Intel415.6,IdeaPad 320-15ISK,Intel Core i3 6006U 2GHz,128GB SSD,Intel HD Graphics 520
+549Windows 10Intel414,Satellite Pro,Intel Pentium Dual Core 4405U 2.1GHz,128GB SSD,Intel HD Graphics 510
+549Windows 10Intel415.6,Aspire E5-575,Intel Core i3 7100U 2.4GHz,1TB HDD,Intel HD Graphics 620
+549Windows 10Intel415.6,15-bs005nv (i3-6006U/4GB/1TB,Intel Core i3 6006U 2GHz,128GB SSD +  1TB HDD,AMD Radeon 520
+549No OSIntel415.6,250 G5,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+549Windows 10Intel415.6,Inspiron 5567,Intel Core i3 6006U 2.0GHz,128GB SSD,AMD Radeon R7 M440
+549Windows 10Intel415.6,Inspiron 3567,Intel Core i3 6006U 2GHz,256GB SSD,AMD Radeon R5 M430
+548Windows 10Intel415.6,V110-15IKB (i5-7200U/4GB/128GB/W10),Intel Core i5 7200U 2.5GHz,128GB SSD,Intel HD Graphics 620
+548Windows 10Intel415.6,Satellite Pro,Intel Core i3 6100U 2.1GHz,128GB SSD,Intel HD Graphics 520
+545Chrome OSIntel811.6,Chromebook X360,Intel Celeron Dual Core N3350 1.1GHz,64GB Flash Storage,Intel HD Graphics 500
+542Windows 10Intel415.6,V110-15ISK (i5-6200U/4GB/128GB/W10),Intel Core i5 6200U 2.3GHz,128GB SSD,Intel HD Graphics 520
+539Windows 10Intel415.6,Vostro 3568,Intel Core i3 6006U 2GHz,500GB HDD,Intel HD Graphics 520
+539No OSIntel415.6,V310-15IKB (i5-7200U/4GB/1TB/No,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+539Windows 10Intel415.6,V110-15ISK (i3-6006U/4GB/500GB/W10),Intel Core i3 6006U 2GHz,500GB HDD,Intel HD Graphics 520
+538Windows 10Intel415.6,Satellite Pro,Intel Core i3 7100U 2.4GHz,500GB HDD,Intel HD Graphics 620
+538Windows 10Intel417.3,IdeaPad 320-17ISK,Intel Core i3 6006U 2GHz,1TB HDD,Intel HD Graphics 520
+538Windows 10Intel817.3,17-BS037cl (i3-6006U/8GB/1TB/W10),Intel Core i3 6006U 2GHz,1TB HDD,Intel HD Graphics 520
+538Windows 10AMD417.3,IdeaPad 110-17ACL,AMD A8-Series 7410 2.2GHz,128GB SSD,AMD Radeon R5
+538Windows 10AMD415.6,15-BW037na (A9-9420/4GB/1TB/Radeon,AMD A9-Series 9420 3GHz,1TB HDD,AMD Radeon 520
+538Windows 10AMD415.6,15-bw003nv (A9-Series-9420/4GB/256GB/FHD/W10),AMD A9-Series 9420 3GHz,256GB SSD,AMD Radeon R5
+538Windows 10Intel415.6,250 G6,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+534LinuxIntel415.6,Inspiron 3567,Intel Core i3 6006U 2GHz,256GB SSD,AMD Radeon R5 M430
+534Windows 10Intel411.6,TravelMate B,Intel Pentium Quad Core N3710 1.6GHz,128GB Flash Storage,Intel HD Graphics 405
+534Windows 10Intel415.6,250 G6,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+530Windows 10Intel415.6,Latitude 3570,Intel Core i3 6100U 2.3GHz,500GB HDD,Intel HD Graphics 520
+527Windows 10Intel615.6,Spin 3,Intel Core i3 7100U 2.4GHz,1TB HDD,Intel HD Graphics 620
+527Windows 10Intel411.6,Inspiron 3168,Intel Pentium Quad Core N3710 1.6GHz,500GB HDD,Intel HD Graphics 405
+527No OSIntel415.6,IdeaPad 110-15ISK,Intel Core i3 6006U 2GHz,1TB HDD,AMD Radeon R5 M430
+527Windows 10Intel410.1,Yoga Book,Intel Atom x5-Z8550 1.44GHz,64GB Flash Storage,Intel HD Graphics 400
+527Windows 10AMD415.6,15-bw002nv (A6-9220/4GB/256GB/Radeon,AMD A6-Series A6-9220 2.5GHz,256GB SSD,AMD Radeon 520
+526Windows 10Intel415.6,15-bs023nv (i3-6006U/4GB/1TB/FHD/W10),Intel Core i3 6006U 2GHz,1TB HDD,Intel HD Graphics 520
+525No OSIntel415.6,250 G4,Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+523Windows 10Intel411.6,N23 (N3060/4GB/128GB/W10),Intel Celeron Dual Core N3060 1.6GHz,128GB SSD,Intel HD Graphics 400
+517Windows 10Intel417.3,X751NV-TY001 (N4200/4GB/1TB/GeForce,Intel Pentium Quad Core N4200 1.1GHz,1TB HDD,Nvidia GeForce 920MX
+516Windows 10Intel815.6,Inspiron 3567,Intel Core i3 7100U 2.4GHz,1TB HDD,Intel HD Graphics 620
+516Windows 10AMD415.6,X505BP-BR019T (A9-9420/4GB/1TB/Radeon,AMD A9-Series 9420 3GHz,1TB HDD,AMD Radeon R5 M420
+516Windows 10Intel415.6,250 G6,Intel Core i3 6006U 2GHz,1TB HDD,Intel HD Graphics 520
+516Windows 10AMD815.6,ES1-523-84K7 (A8-7410/8GB/256GB/FHD/W10),AMD A8-Series 7410 2.2GHz,256GB SSD,AMD Radeon R5
+516Windows 10Intel415.6,15-BS028nv (i3-6006U/4GB/1TB/Radeon,Intel Core i3 6006U 2GHz,1TB HDD,AMD Radeon 520
+516Windows 10Intel415.6,Aspire 5,Intel Core i3 6006U 2GHz,500GB HDD,Nvidia GeForce GTX 940MX
+516No OSIntel415.6,IdeaPad 110-15ISK,Intel Core i3 6006U 2.0GHz,1TB HDD,Intel HD Graphics 520
+515No OSIntel415.6,IdeaPad 320-15IKBN,Intel Core i5 7200U 2.5GHz,128GB SSD,Intel HD Graphics 620
+515Windows 10Intel415.6,320-15ISK (i3-6006U/4GB/1TB/GeForce,Intel Core i3 6006U 2GHz,1TB HDD,Nvidia GeForce 920MX 
+514No OSIntel415.6,IdeaPad 320-15IKBN,Intel Core i5 7200U 2.5GHz,1TB HDD,Intel HD Graphics 620
+513Windows 10Intel417.3,X751NV-TY001T (N4200/4GB/1TB/GeForce,Intel Pentium Quad Core N4200 1.1GHz,1TB HDD,Nvidia GeForce 920MX
+512LinuxIntel415.6,Inspiron 3567,Intel Core i3 6006U 2.0GHz,1TB HDD,AMD Radeon R5 M430
+512LinuxIntel415.6,Vostro 3568,Intel Core i3 6006U 2GHz,1TB HDD,AMD Radeon R5 M420
+509No OSIntel415.6,V310-15ISK (i5-6200U/4GB/1TB/FHD/No,Intel Core i5 6200U 2.3GHz,1TB HDD,Intel HD Graphics 520
+506Chrome OSIntel413.3,ThinkPad 13,Intel Celeron Dual Core 3855U 1.6GHz,16GB Flash Storage,Intel HD Graphics 510
+505Windows 10Intel815.6,Inspiron 3567,Intel Core i3 7100U 2.4GHz,1TB HDD,Intel HD Graphics 620
+505No OSIntel815.6,IdeaPad 320-15ISK,Intel Core i3 6006U 2GHz,2TB HDD,Nvidia GeForce 920MX 
+505Windows 10Intel815.6,IdeaPad 110-15ISK,Intel Core i3 6100U 2.3GHz,1TB HDD,Intel HD Graphics 520
+505Windows 10Intel815.6,IdeaPad 310-15ISK,Intel Core i3 6006U 2.0GHz,1TB HDD,Intel HD Graphics 520
+505Windows 10Intel615.6,Inspiron 3567,Intel Core i3 7100U 2.4GHz,1TB HDD,Intel HD Graphics 620
+505Windows 10Intel615.6,Inspiron 3567,Intel Core i3 7100U 2.4GHz,1TB HDD,Intel HD Graphics 620
+505Windows 10Intel615.6,Inspiron 3567,Intel Core i3 7100U 2.4GHz,1TB HDD,Intel HD Graphics 620
+501LinuxIntel415.6,Vostro 3568,Intel Core i3 6006U 2.0GHz,1TB HDD,AMD Radeon R5 M420X
+496Windows 10AMD415.6,Aspire 3,AMD A9-Series 9420 3GHz,256GB SSD,AMD Radeon R5
+495Windows 10Intel415.6,Extensa EX2540,Intel Core i3 6006U 2GHz,500GB HDD,Intel HD Graphics 520
+495No OSIntel415.6,V310-15ISK (i3-6006U/4GB/500GB/No,Intel Core i3 6006U 2GHz,500GB HDD,Intel HD Graphics 520
+494Windows 10Intel415.6,Inspiron 3567,Intel Core i3 6006U 2GHz,1TB HDD,AMD Radeon R5 M430
+494Windows 10Intel415.6,Aspire A315-51,Intel Core i3 6006U 2GHz,128GB SSD,Intel HD Graphics 520
+494Windows 10Intel415.6,V310-15ISK (i3-6006U/4GB/1TB/FHD/W10),Intel Core i3 6006U 2GHz,1TB HDD,Intel HD Graphics 520
+494Windows 10Intel612.3,LapBook 12.3,Intel Celeron Quad Core N3450 1.1GHz,64GB Flash Storage,Intel HD Graphics 500
+494Windows 10Intel415.6,X541NA (N4200/4GB/1TB/W10),Intel Pentium Quad Core N4200 1.1GHz,1TB HDD,Intel HD Graphics 505
+494Windows 10AMD815.6,Aspire ES1-523,AMD A8-Series 7410 2.2GHz,1TB HDD,AMD Radeon R5
+492Windows 10Intel415.6,Aspire A315-51,Intel Core i3 6006U 2GHz,1TB HDD,Intel HD Graphics 520
+492Windows 10Intel415.6,Satellite Pro,Intel Core i3 6006U 2.2GHz,500GB HDD,Intel HD Graphics 520
+490Windows 10AMD815.6,15-BW094nd (A6-9220/8GB/128GB/W10),AMD A6-Series A6-9220 2.5GHz,128GB SSD,AMD Radeon R4 Graphics
+488No OSIntel415.6,IdeaPad 320-15ISK,Intel Core i3 6006U 2GHz,256GB SSD,Intel HD Graphics 520
+488Windows 10Intel415.6,Inspiron 3552,Intel Pentium Quad Core N3700 1.6GHz,500GB HDD,Intel HD Graphics
+488LinuxIntel415.6,Vostro 3568,Intel Core i3 6006U 2.0GHz,1TB HDD,Intel HD Graphics 520
+486LinuxIntel415.6,Aspire ES1-572,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+483Windows 10AMD417.3,17-ak001nv (A6-9220/4GB/500GB/Radeon,AMD A6-Series 9220 2.5GHz,500GB HDD,AMD Radeon 530
+483Windows 10Intel415.6,15-bs002nv (i3-6006U/4GB/128GB/FHD/W10),Intel Core i3 6006U 2GHz,128GB SSD,Intel HD Graphics 520
+483Windows 10Intel615.6,Inspiron 3567,Intel Core i3 7100U 2.4GHz,1TB HDD,Intel HD Graphics 620
+483Windows 10Intel415.6,250 G6,Intel Core i3 6006U 2GHz,500GB HDD,Intel HD Graphics 520
+483Windows 10Intel415.6,250 G6,Intel Core i3 6006U 2GHz,500GB HDD,AMD Radeon 520
+479Windows 10Intel411.6,TravelMate B,Intel Celeron Dual Core N3060 1.6GHz,128GB SSD,Intel HD Graphics 400
+479Windows 10Intel415.6,VivoBook Max,Intel Core i3 7100U 2.4GHz,1TB HDD,Intel HD Graphics 620
+472Windows 10AMD815.6,IdeaPad 320-15ABR,AMD A12-Series 9720P 3.6GHz,1TB HDD,AMD Radeon R7
+472Windows 10Intel415.6,V110-15ISK (i3-6006U/4GB/128GB/W10),Intel Core i3 6006U 2.0GHz,128GB SSD,Intel HD Graphics 520
+471LinuxIntel415.6,Inspiron 3567,Intel Core i3 6006U 2.0GHz,1TB HDD,AMD Radeon R5 M430
+469Windows 10AMD415.6,Aspire 3,AMD A9-Series 9420 3GHz,128GB SSD,AMD Radeon R5
+461Windows 10Intel415.6,Ideapad 320-15IAP,Intel Celeron Dual Core N3350 1.1GHz,500GB HDD,Intel HD Graphics 500
+461Windows 10Intel415.6,L502NA-GO052T (N3350/4GB/128GB/W10),Intel Celeron Dual Core N3350 1.1GHz,128GB SSD,Intel HD Graphics 500
+461Windows 10Intel415.6,Inspiron 3567,Intel Core i3 6006U 2GHz,1TB HDD,Intel HD Graphics 520
+457LinuxIntel415.6,X541UA-DM1897 (i3-6006U/4GB/256GB/FHD/Linux),Intel Core i3 6006U 2GHz,256GB SSD,Intel HD Graphics 520
+456Windows 10Intel415.6,Ideapad 310-15ISK,Intel Core i3 6006U 2GHz,1TB HDD,Intel HD Graphics 520
+453LinuxIntel415.6,Aspire 3,Intel Core i3 6006U 2GHz,128GB SSD,Intel HD Graphics 520
+452Windows 10Intel415.6,Aspire ES1-572,Intel Core i3 6006U 2GHz,500GB HDD,Intel HD Graphics 520
+450Windows 10Intel415.6,IdeaPad 320-15ISK,Intel Core i3 6006U 2GHz,500GB HDD,Intel HD Graphics 520
+450Windows 10AMD615.6,Aspire 3,AMD A9-Series 9420 3GHz,1TB HDD,AMD Radeon R5
+444No OSIntel415.6,V310-15ISK (i3-6006U/4GB/128GB/FHD/No,Intel Core i3 6006U 2GHz,128GB SSD,Intel HD Graphics 520
+443Windows 10AMD415.6,X555BP-XX180T (A9-9420/4GB/1TB/Radeon,AMD A9-Series 9420 3GHz,1TB HDD,AMD Radeon R5 M420
+440Windows 10AMD415.6,Aspire 3,AMD A9-Series 9420 3GHz,500GB HDD,AMD Radeon R5
+439Windows 10AMD415.6,IdeaPad 320-15AST,AMD A6-Series 9220 2.5GHz,128GB SSD,AMD R4 Graphics
+439Windows 10Intel815.6,X541NA-GO414T (N3350/8GB/1TB/W10),Intel Celeron Dual Core N3350 1.1GHz,1TB HDD,Intel HD Graphics 500
+439Windows 10AMD415.6,IdeaPad 320-15AST,AMD A9-Series 9420 2.9GHz,256GB SSD,AMD Radeon 530
+439Windows 10AMD415.6,255 G6,AMD A6-Series 9220 2.5GHz,500GB HDD,AMD Radeon R4 Graphics
+439Windows 10Intel415.6,Pro P2540UA-XO0198T,Intel Core i3 7100U 2.4GHz,1TB HDD,Intel HD Graphics 620
+439Windows 10Intel415.6,250 G6,Intel Pentium Quad Core N3710 1.6GHz,256GB SSD,Intel HD Graphics 405
+439LinuxIntel415.6,X541NA-GO121 (N4200/4GB/1TB/Linux),Intel Pentium Quad Core N4200 1.1GHz,1TB HDD,Intel HD Graphics 505
+438Windows 10AMD415.6,255 G6,AMD A6-Series 9220 2.5GHz,256GB SSD,AMD Radeon R4 Graphics
+438Windows 10AMD415.6,15-bw011nv (A6-9220/4GB/1TB/FHD/W10),AMD A6-Series 9220 2.5GHz,1TB HDD,AMD Radeon R4
+438No OSIntel415.6,V110-15ISK (i5-6200U/4GB/500GB/No,Intel Core i5 6200U 2.3GHz,500GB HDD,Intel HD Graphics 520
+437Windows 10Intel415.6,250 G6,Intel Core i3 6006U 2GHz,500GB HDD,Intel HD Graphics 520
+435Windows 10AMD415.6,Aspire 3,AMD A9-Series 9420 3GHz,1TB HDD,AMD Radeon R5
+433No OSIntel415.6,250 G6,Intel Core i5 7200U 2.5GHz,500GB HDD,Intel HD Graphics 620
+433LinuxIntel415.6,Inspiron 3552,Intel Pentium Quad Core N3700 1.6GHz,500GB HDD,Intel HD Graphics
+429LinuxIntel415.6,Aspire A315-51,Intel Core i3 6006U 2GHz,1TB HDD,Intel HD Graphics 520
+428LinuxIntel415.6,X540UA-DM186 (i3-6006U/4GB/1TB/FHD/Linux),Intel Core i3 6006U 2GHz,1TB HDD,Intel HD Graphics 620
+428Windows 10Intel814,Aspire E5-475,Intel Core i3 6006U 2GHz,1TB HDD,Intel HD Graphics 520
+428Windows 10Intel815.6,15-AY023na (N3710/8GB/2TB/W10),Intel Pentium Quad Core N3710 1.6GHz,2TB HDD,Intel HD Graphics 405
+428Windows 10Intel814,14-am079na (N3710/8GB/2TB/W10),Intel Pentium Quad Core N3710 1.6GHz,2TB HDD,Intel HD Graphics 405
+428Windows 10Intel414,SmartBook Edge,Intel Celeron Quad Core N3450 1.1GHz,32GB SSD,Intel HD Graphics 500
+428Chrome OSIntel411.6,Chromebook C738T-C2EJ,Intel Celeron Dual Core N3060 1.6GHz,32GB Flash Storage,Intel HD Graphics 400
+426Windows 10AMD415.6,Aspire ES1-523,AMD A8-Series 7410 2.2GHz,500GB HDD,AMD Radeon R5
+424Chrome OSIntel411.6,Chromebook 11,Intel Celeron Dual Core N3060 1.6GHz,16GB Flash Storage,Intel HD Graphics 400
+422Windows 10Intel415.6,Aspire 3,Intel Core i3 7100U 2.4GHz,1TB HDD,Intel HD Graphics 620
+418Windows 10Intel415.6,Aspire ES1-533,Intel Pentium Quad Core N4200 1.1GHz,500GB HDD,Intel HD Graphics 505
+417Chrome OSIntel411.6,CB5-132T-C9KK (N3160/4GB/32GB/Chrome,Intel Celeron Quad Core N3160 1.6GHz,32GB Flash Storage,Intel HD Graphics 400
+417Windows 10AMD417.3,IdeaPad 110-17ACL,AMD A4-Series 7210 2.2GHz,500GB HDD,AMD Radeon R3
+417Windows 10Intel215.6,Inspiron 3552,Intel Celeron Dual Core N3050 1.6GHz,500GB HDD,Intel HD Graphics
+417Windows 10Intel215.6,Inspiron 3552,Intel Celeron Dual Core N3050 1.6GHz,500GB HDD,Intel HD Graphics
+417Windows 10Intel215.6,Inspiron 3552,Intel Celeron Dual Core N3050 1.6GHz,500GB HDD,Intel HD Graphics
+413Windows 10Intel411.6,VivoBook Flip,Intel Celeron Dual Core N3350 1.1GHz,32GB Flash Storage,Intel HD Graphics 500
+413Chrome OSIntel414,Chromebook 14,Intel Celeron Dual Core 3855U 1.6GHz,32GB Flash Storage,Intel HD Graphics 510
+406No OSIntel415.6,IdeaPad 320-15ISK,Intel Core i3 6006U 2GHz,128GB SSD,Intel HD Graphics 520
+406Windows 10AMD415.6,255 G6,AMD A6-Series 9220 2.5GHz,256GB SSD,AMD Radeon R4 Graphics
+406Windows 10Intel413.3,SmartBook Edge,Intel Celeron Quad Core N3450 1.1GHz,32GB SSD,Intel HD Graphics 500
+406Windows 10Intel415.6,Inspiron 3552,Intel Pentium Quad Core N3710 1.6GHz,500GB HDD,Intel HD Graphics
+406Windows 10Intel415.6,X553SA-XX021T (N3050/4GB/500GB/W10),Intel Celeron Dual Core N3050 1.6GHz,500GB HDD,Intel HD Graphics
+406Windows 10Intel415.6,X553SA-XX031T (N3050/4GB/500GB/W10),Intel Celeron Dual Core N3050 1.6GHz,500GB HDD,Intel HD Graphics
+406Windows 10Intel415.6,X553SA-XX031T (N3050/4GB/500GB/W10),Intel Celeron Dual Core N3050 1.6GHz,500GB HDD,Intel HD Graphics
+406Windows 10Intel415.6,X553SA-XX031T (N3050/4GB/500GB/W10),Intel Celeron Dual Core N3050 1.6GHz,500GB HDD,Intel HD Graphics
+405No OSIntel415.6,V110-15ISK (i3-6006U/4GB/1TB/Radeon,Intel Core i3 6006U 2GHz,1TB HDD,AMD Radeon R5 M430
+404LinuxIntel415.6,Aspire 3,Intel Core i3 7130U 2.7GHz,1TB HDD,Intel HD Graphics 620
+401No OSIntel415.6,250 G6,Intel Core i3 6006U 2GHz,500GB HDD,Intel HD Graphics 520
+400Windows 10Intel415.6,Aspire 3,Intel Pentium Quad Core N4200 1.1GHz,1TB HDD,Intel HD Graphics 505
+398LinuxIntel415.6,Aspire ES1-572,Intel Core i3 6006U 2.0GHz,500GB HDD,Intel HD Graphics 520
+396No OSIntel415.6,IdeaPad 320-15IAP,Intel Pentium Quad Core N4200 1.1GHz,1TB HDD,Intel HD Graphics 505
+395LinuxIntel415.6,Inspiron 3567,Intel Core i3 6006U 2.0GHz,1TB HDD,Intel HD Graphics 520
+395Chrome OSIntel415.6,Chromebook CB5-571-C1DZ,Intel Celeron Dual Core 3205U 1.5GHz,16GB Flash Storage,Intel HD Graphics
+391Chrome OSIntel411.6,Chromebook 11,Intel Celeron Dual Core N3060 1.6GHz,32GB Flash Storage,Intel HD Graphics 400
+384Windows 10AMD415.6,15-bw000nv (E2-9000e/4GB/500GB/Radeon,AMD E-Series E2-9000e 1.5GHz,500GB HDD,AMD Radeon R2
+384No OSIntel415.6,15-bs018nq (i3-6006U/4GB/500GB/FHD/No,Intel Core i3 6006U 2GHz,500GB HDD,Intel HD Graphics 520
+384Windows 10Intel415.6,IdeaPad 320-15IAP,Intel Pentium Quad Core N4200 1.1GHz,128GB SSD,Intel HD Graphics 505
+384Windows 10AMD415.6,VivoBook X540YA-XX519T,AMD E-Series 7110 1.8GHz,500GB HDD,AMD Radeon R2 Graphics
+384Windows 10Intel411.6,Spin SP111-31,Intel Celeron Dual Core N3350 2.0GHz,32GB Flash Storage,Intel HD Graphics 500
+384Windows 10Intel414,Swift SF114-31-P5HY,Intel Pentium Quad Core N3710 1.6GHz,128GB Flash Storage,Intel HD Graphics 405
+384Windows 10AMD415.6,IdeaPad 320-15AST,AMD E-Series E2-9000 2.2GHz,128GB SSD,AMD Radeon R2 Graphics
+384Chrome OSIntel414,Chromebook 14,Intel Celeron Dual Core N3060 1.6GHz,32GB Flash Storage,Intel HD Graphics 400
+383Windows 10Intel415.6,Aspire A315-31,Intel Celeron Dual Core N3350 1.1GHz,1TB HDD,Intel HD Graphics 500
+383Windows 10Intel414.1,VivoBook L402NA,Intel Celeron Dual Core N3350 1.1GHz,32GB Flash Storage,Intel HD Graphics 500
+382Windows 10Intel415.6,15-ra044nv (N3060/4GB/500GB/W10),Intel Celeron Dual Core N3060 1.6GHz,500GB HDD,Intel HD Graphics 400
+381No OSIntel415.6,250 G6,Intel Core i3 6006U 2GHz,1TB HDD,Intel HD Graphics 520
+379No OSIntel415.6,250 G6,Intel Core i3 6006U 2GHz,500GB HDD,Intel HD Graphics 520
+378Windows 10Intel415.6,X541NA (N3350/4GB/1TB/FHD/W10),Intel Celeron Dual Core N3350 1.1GHz,1TB HDD,Intel HD Graphics 500
+378Windows 10Intel415.6,IdeaPad 320-15IAP,Intel Pentium Quad Core N4200 1.1GHz,500GB HDD,Intel HD Graphics 505
+374Windows 10 SIntel411.6,VivoBook E201NA,Intel Celeron Dual Core N3350 1.1GHz,64GB Flash Storage,Intel HD Graphics 500
+373No OSIntel415.6,V110-15ISK (i3-6006U/4GB/1TB/No,Intel Core i3 6006U 2.0GHz,1TB HDD,Intel HD Graphics 520
+373Windows 10Intel415.6,X541NA-GO020T (N3350/4GB/1TB/W10),Intel Celeron Dual Core N3350 1.1GHz,1TB HDD,Intel HD Graphics 500
+366Windows 10Intel415.6,Aspire 3,Intel Celeron Dual Core N3350 2GHz,500GB HDD,Intel HD Graphics 500
+363Windows 10AMD415.6,15-rb013nv (E2-9000e/4GB/500GB/W10),AMD E-Series 9000e 1.5GHz,500GB HDD,AMD Radeon R2
+363Chrome OSIntel214,Chromebook 14,Intel Celeron Dual Core N3060 1.6GHz,32GB Flash Storage,Intel HD Graphics 400
+362Windows 10Intel414,Aspire 1,Intel Celeron Quad Core N3450 1.1GHz,32GB Flash Storage,Intel HD Graphics 500
+362No OSIntel815.6,IdeaPad 110-15IBR,Intel Celeron Quad Core N3710 1.6GHz,1TB HDD,Intel HD Graphics 405
+358Chrome OSIntel414,N42-20 Chromebook,Intel Celeron Quad Core N3160 1.6GHz,16GB Flash Storage,Intel HD Graphics 400
+356LinuxIntel415.6,Inspiron 3552,Intel Pentium Quad Core N3710 1.6GHz,500GB HDD,Intel HD Graphics
+354No OSIntel415.6,IdeaPad 320-15IAP,Intel Celeron Dual Core N3350 1.1GHz,1TB HDD,Intel HD Graphics 500
+351AndroidIntel410.1,Yoga Book,Intel Atom x5-Z8550 1.44GHz,64GB Flash Storage,Intel HD Graphics 400
+350Windows 10Intel415.6,V110-15ISK (3855U/4GB/500GB/W10),Intel Celeron Dual Core 3855U 1.6GHz,500GB HDD,Intel HD Graphics 510
+340No OSAMD415.6,IdeaPad 320-15AST,AMD A6-Series 9220 2.9GHz,500GB HDD,AMD Radeon R4 Graphics
+340Windows 10Intel415.6,Inspiron 3552,Intel Celeron Dual Core N3060 1.60GHz,500GB HDD,Intel HD Graphics 400
+340Windows 10Intel415.6,IdeaPad 320-15IAP,Intel Pentium Quad Core N4200 1.1GHz,1TB HDD,Intel HD Graphics 505
+340Windows 10Intel415.6,X540SA-RBPDN09 (N3710/4GB/1TB/W10),Intel Pentium Quad Core N3710 1.6GHz,1TB HDD,Intel HD Graphics 405
+337Windows 10Intel415.6,IdeaPad 320-15IAP,Intel Celeron Dual Core N3350 1.1GHz,1TB HDD,Intel HD Graphics 500
+335Windows 10Intel211.6,Lenovo IdeaPad,Intel Celeron Dual Core N3350 1.1GHz,32GB Flash Storage,Intel HD Graphics 500
+334Windows 10Intel415.6,X541NA-PD1003Y (N4200/4GB/500GB/W10),Intel Pentium Quad Core N4200 1.1GHz,500GB HDD,Intel HD Graphics 500
+329Windows 10Intel411.6,FlexBook Edge,Intel Celeron Dual Core N3350 1.1GHz,32GB SSD,Intel HD Graphics 500
+329Windows 10Intel414,IdeaPad 320-14IAP,Intel Celeron Dual Core N3350 1.1GHz,500GB HDD,Intel HD Graphics 500
+329Windows 10Intel414,R417NA-RS01 (N3350/4GB/32GB/W10),Intel Celeron Dual Core N3350 1.1GHz,32GB Flash Storage,Intel HD Graphics 500
+329No OSIntel415.6,250 G6,Intel Celeron Dual Core N3060 1.6GHz,128GB SSD,Intel HD Graphics 400
+329Windows 10AMD415.6,IdeaPad 320-15AST,AMD E-Series 9000 2.2GHz,500GB HDD,AMD Radeon R2 Graphics
+328Windows 10Intel414,VivoBook E403NA,Intel Celeron Dual Core N3350 1.1GHz,32GB Flash Storage,Intel HD Graphics 500
+328Windows 10AMD415.6,110-15ACL (A6-7310/4GB/500GB/W10),AMD A6-Series 7310 2GHz,500GB HDD,AMD Radeon R4
+328LinuxIntel415.6,Aspire A315-31,Intel Pentium Quad Core N4200 1.1GHz,1TB HDD,Intel HD Graphics 505
+327Chrome OSIntel411.6,Chromebook C731-C78G,Intel Celeron Dual Core N3060 1.6GHz,32GB Flash Storage,Intel HD Graphics 400
+327Windows 10AMD415.6,15-BA015wm (E2-7110/4GB/500GB/W10),AMD E-Series 7110 1.8GHz,500GB HDD,AMD Radeon R2 Graphics
+325Chrome OSIntel411.6,Chromebook 11,Intel Celeron Dual Core N3060 1.6GHz,16GB Flash Storage,Intel HD Graphics 400
+321Windows 10Intel414,IdeaPad 120S-14IAP,Intel Celeron Dual Core N3350 1.1GHz,32GB Flash Storage,Intel HD Graphics 500
+318LinuxIntel415.6,Aspire ES1-531,Intel Celeron Dual Core N3060 1.6GHz,500GB HDD,Intel HD Graphics 400
+318LinuxIntel415.6,Aspire ES1-531,Intel Celeron Dual Core N3060 1.6GHz,500GB HDD,Intel HD Graphics 400
+318LinuxIntel415.6,Aspire ES1-531,Intel Celeron Dual Core N3060 1.6GHz,500GB HDD,Intel HD Graphics 400
+318No OSIntel415.6,250 G6,Intel Celeron Dual Core N3060 1.6GHz,1TB HDD,Intel HD Graphics 400
+317Chrome OSIntel411.6,Chromebook C202SA,Intel Celeron Dual Core N3060 1.6GHz,16GB Flash Storage,Intel HD Graphics 400
+315Windows 10Intel414,VivoBook E403NA,Intel Celeron Dual Core N3350 1.1GHz,32GB Flash Storage,Intel HD Graphics 500
+307Windows 10Intel214,Stream 14-AX001nv,Intel Celeron Dual Core N3060 1.6GHz,32GB Flash Storage,Intel HD Graphics 400
+306Windows 10Intel414,L403NA-GA013TS (N3350/4GB/32GB/W10),Intel Celeron Dual Core N3350 1.1GHz,32GB Flash Storage,Intel HD Graphics 500
+306Windows 10 SAMD414,E402WA-GA007T (E2-6110/4GB/64GB/W10,AMD E-Series 6110 1.5GHz,64GB SSD,AMD Radeon R2
+303Windows 10Intel211.6,VivoBook Flip,Intel Celeron Dual Core N3350 1.1GHz,32GB Flash Storage,Intel HD Graphics 500
+302LinuxIntel415.6,X541NA (N3350/4GB/1TB/Linux),Intel Celeron Dual Core N3350 1.1GHz,1TB HDD,Intel HD Graphics 500
+302LinuxIntel415.6,Inspiron 3552,Intel Celeron Dual Core N3060 1.6GHz,500GB HDD,Intel HD Graphics
+301Windows 10Intel414,IdeaPad 100S-14IBR,Intel Celeron Dual Core N3060 1.6GHz,32GB Flash Storage,Intel HD Graphics
+299LinuxIntel415.6,Aspire 3,Intel Celeron Dual Core N3350 2GHz,1TB HDD,Intel HD Graphics 500
+298No OSIntel415.6,V110-15IAP (N3350/4GB/128GB/No,Intel Celeron Dual Core N3350 1.1GHz,128GB SSD,Intel HD Graphics 500
+296Chrome OSIntel411.6,Chromebook 3,Intel Celeron Dual Core N3060 1.6GHz,16GB Flash Storage,Intel HD Graphics 400
+296Windows 10Intel411.6,TravelMate B117-M,Intel Celeron Dual Core N3050 1.6GHz,32GB Flash Storage,Intel HD Graphics
+292Chrome OSIntel411.6,Chromebook N23,Intel Celeron Dual Core N3060 1.6GHz,16GB SSD,Intel HD Graphics 400
+292Windows 10Intel414,Smartbook 142,Intel Atom Z8350 1.92GHz,32GB HDD,Intel HD Graphics 400
+286Windows 10Intel414,K147 (N3350/4GB/32GB/FHD/W10),Intel Celeron Dual Core N3350 1.1GHz,32GB Flash Storage,Intel HD Graphics 500
+285No OSIntel415.6,250 G6,Intel Celeron Dual Core N3060 1.6GHz,500GB HDD,Intel HD Graphics 400
+284No OSAMD415.6,255 G6,AMD E-Series E2-9000e 1.5GHz,500GB HDD,AMD Radeon R2
+281Windows 10Intel413.3,SmartBook 130,Intel Atom x5-Z8350 1.44GHz,32GB Flash Storage,Intel HD Graphics
+278No OSIntel415.6,V110-15IAP (N3350/4GB/1TB/No,Intel Celeron Dual Core N3350 1.1GHz,1TB HDD,Intel HD Graphics 500
+274Windows 10Intel414,IdeaPad 120S-14IAP,Intel Celeron Dual Core N3350 1.1GHz,64GB Flash Storage,Intel HD Graphics 500
+274Windows 10Intel414,SmartBook 141,Intel Atom x5-Z8350 1.44GHz,32GB SSD,Intel HD Graphics
+274Windows 10Intel214,IdeaPad 100S-14IBR,Intel Celeron Dual Core N3060 1.6GHz,32GB Flash Storage,Intel HD Graphics 400
+274Windows 10Intel214,Stream 14-AX000nv,Intel Celeron Dual Core N3060 1.6GHz,32GB Flash Storage,Intel HD Graphics 400
+274Windows 10Intel415.6,"Lapbook 15,6",Intel Atom x5-Z8350 1.44GHz,64GB Flash Storage,Intel HD Graphics
+270Windows 10Intel211.6,VivoBook E12,Intel Celeron Dual Core N3350 1.1GHz,32GB Flash Storage,Intel HD Graphics 500
+269Windows 10Intel415.6,"LapBook 15.6""",Intel Atom x5-Z8300 1.44GHz,64GB Flash Storage,Intel HD Graphics
+263Windows 10Intel214,SmartBook 140,Intel Atom x5-Z8350 1.44GHz,32GB Flash Storage,Intel HD Graphics
+252Windows 10Intel414,Stream 14-AX040wm,Intel Celeron Dual Core N3060 1.6GHz,32GB SSD,Intel HD Graphics 400
+252Windows 10Intel214,IdeaPad 100S-14IBR,Intel Celeron Dual Core N3050 1.6GHz,64GB Flash Storage,Intel HD Graphics
+252Windows 10Intel214,IdeaPad 100S-14IBR,Intel Celeron Dual Core N3050 1.6GHz,64GB Flash Storage,Intel HD Graphics
+252Windows 10Intel214,IdeaPad 100S-14IBR,Intel Celeron Dual Core N3050 1.6GHz,64GB Flash Storage,Intel HD Graphics
+246LinuxIntel415.6,A541NA-GO342 (N3350/4GB/500GB/Linux),Intel Celeron Dual Core N3350 1.1GHz,500GB HDD,Intel HD Graphics 500
+232Windows 10Intel214,V142 (X5-Z8350/2GB/32GB/W10),Intel Atom X5-Z8350 1.44GHz,32GB Flash Storage,Intel HD Graphics 400
+230Chrome OSIntel415.6,Chromebook 15,Intel Celeron Dual Core 3205U 1.5GHz,16GB SSD,Intel HD Graphics
+230Windows 10Intel211.6,Stream 11-Y000na,Intel Celeron Dual Core N3060 1.6GHz,32GB Flash Storage,Intel HD Graphics 400
+230Windows 10Intel211.6,Stream 11-Y000na,Intel Celeron Dual Core N3060 1.6GHz,32GB Flash Storage,Intel HD Graphics 400
+230Windows 10Intel211.6,Stream 11-Y000na,Intel Celeron Dual Core N3060 1.6GHz,32GB Flash Storage,Intel HD Graphics 400
+223Windows 10Intel414,K146 (N3350/4GB/32GB/W10),Intel Celeron Dual Core N3350 1.1GHz,32GB Flash Storage,Intel HD Graphics 500
+219Windows 10AMD214,E402WA-GA010T (E2-6110/2GB/32GB/W10),AMD E-Series E2-6110 1.5GHz,32GB Flash Storage,AMD Radeon R2
+219Chrome OSIntel215.6,Chromebook C910-C2ST,Intel Celeron Dual Core 3205U 1.5GHz,16GB SSD,Intel HD Graphics
+216Windows 10Intel413.3,V131 (X5-Z8350/4GB/32GB/FHD/W10),Intel Atom X5-Z8350 1.44GHz,32GB Flash Storage,Intel HD Graphics 400
+211Windows 10Intel211.6,Vivobook E200HA,Intel Atom x5-Z8350 1.44GHz,32GB Flash Storage,Intel HD Graphics 400
+191Chrome OSIntel211.6,C740-C9QX (3205U/2GB/32GB/Chrome,Intel Celeron Dual Core 3205U 1.5GHz,32GB SSD,Intel HD Graphics
