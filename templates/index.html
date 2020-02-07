@@ -36,7 +36,16 @@
     <div>
       <button type="button" class="btn btn-secondary">Load a New Computer</button>
     </div>
-    <h3 id="computerSpecs"> The computer specs would go here, maybe as a table??? </h3>
+
+      <table id="ufo-table" class="table table-striped">
+        <thead>
+          <tr>
+            <th class="table-head">Laptop Attribute</th>
+            <th class="table-head">Spec</th>
+          </tr>
+        </thead>
+        <tbody id='computerSpecs'></tbody>
+      </table>
   </div>
   
   <div class="col-lg-2">
@@ -74,7 +83,8 @@
 </div>
 
 </body>
-
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+<script src="../Data/combined_results_names.js"></script>
+<script src="../static/js/random_laptop.js"></script>
 </html>
 
