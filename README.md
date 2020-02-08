@@ -1,5 +1,5 @@
 ﻿﻿﻿﻿﻿﻿﻿
-### <a href="http://housing-markets.herokuapp.com/" target="_blank">Click here to view the Heroku app</a>
+### <a href="https://nu-datacamp.github.io/Laptop_Prices/" target="_blank">Click here to play!</a>
 
 
 # Project Overview
