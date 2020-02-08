@@ -13,9 +13,34 @@
   <!-- Adam Note: I could not get the created CSS file to link up so did CSS styling here, will want to move over.  also maybe it sucks. -->
   <style>
     .jumbotron {
-      background-color: #131313;
+      background-color: #db350d;
       color: white;
-      font-family: 'Pricedown';
+      padding-top: 7px;
+      padding-bottom: 7px;
+    }
+  </style>
+
+  <style>
+    img {
+      display: block; 
+      margin-left: auto;
+      margin-right: auto;
+    }
+    </style>
+    
+    <style>
+    .moveimage {
+    position: relative;
+    top: 20px;
+    }
+    </style>
+
+    <style>
+    #wrapper {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
   </style>
 
@@ -24,17 +49,40 @@
 <body>
 
 <div class="container-fluid">
-  <div class="jumbotron text-center" >
-    <h1><strong>The Price is <s>Right</s> Fine</strong></h1>
-    <p>Guess a laptop price against four machine learning trained data models and see who is closest... good luck.</p>
+  <div class="jumbotron jumbotron-fluid" >
+    <h1 style="text-align:center;font-family:Impact"><strong>The Price is <s>Right</s> Fine</strong></h1>
+    <p style="text-align:center;font-size:18px">Guess a laptop price against four machine learning trained data models and see who is closest... good luck.</p>
 </div>
-
-
 
 <div class="row-fluid justify-content-center">
   <div class="col-lg-3">
-    <div>
-      <button type="button" class="btn btn-secondary" id="new_laptop_button">Load a New Computer</button>
+    <img class="moveimage" src="../images/1_Contestant.png"  width="50%" height="50%">
+    <h3 id="userDisplay" style="background-color:#FD5026;text-align:center;"> <b>User Price</b> </h3>
+  </div>
+  <div class="col-lg-3">
+    <img class="moveimage" src="../images/4_RF.png"  width="50%" height="50%">
+    <h3 id="rfDisplay" style="background-color:#6160D4;text-align:center;"> <b>RF Price </b></h3>
+  </div>
+  <div class="col-lg-3">
+    <img class="moveimage" src="../images/2_LR.png"  width="50%" height="50%">
+    <h3 id="lrDisplay" style="background-color:#EED14F;text-align:center;"> <b>LR Price</b> </h3>
+  </div>
+  <div class="col-lg-3">
+    <img class="moveimage" src="../images/3_NN.png"  width="50%" height="50%">
+    <h3 id="nnDisplay" style="background-color:#00C74F;text-align:center;"> <b>NN Price</b> </h3>
+  </div>
+  </div>
+
+  <br>
+  <div class="row-fluid justify-content-center"></div>
+  
+
+
+<div class="row-fluid justify-content-center">
+  <div class="col-lg-3"></div>
+  <div class="col-lg-3">
+    <div id="wrapper">
+      <button type="button" class="btn btn-secondary" id="new_laptop_button" style="border: 2px solid rgb(189, 189, 189);background-color: #e7e7e7; color: black;">Load a New Computer</button>
     </div>
 
       <table id="ufo-table" class="table table-striped">
@@ -48,37 +96,29 @@
       </table>
   </div>
   
-  <div class="col-lg-2">
+  <div class="col-lg-3">
   <!-- User Selection -->
     <aside class="filters">
         <li class="filter list-group-item">
           <label for="userPrice">Guess a Price</label>
-          <input class="form-control" id="userPriceSelector" type="number" placeholder="0000">
+          <input class="form-control" id="userPriceSelector" type="number" placeholder="$">
         </li>
     </aside>
     <div>
       <br>
-      <button type="button" class="btn btn-secondary" id='results_button'>Run Results</button>
+      <button type="button" class="btn btn-secondary" id='results_button' style="border: 2px solid rgb(189, 189, 189);background-color: #e7e7e7; color: black;">Run Results</button>
+      <button type="button" class="btn btn-secondary" id='winner_button' style="border: 2px solid rgb(189, 189, 189);background-color: #e7e7e7; color: black;">Reveal Winner</button>
     </div>
+    <br>
     <div>
-      <button type="button" class="btn btn-secondary" id='winner_button'>Reveal Winner</button>
-      <h2 id=actualRetailPrice>Actual retail price displays here maybe bob barker tells us what it is</h2>
-      <h2 id=actualRetailWinner>Display the winner</h2>
+
+      <h2 id=actualRetailPrice></h2>
+      <h2 id=actualRetailWinner></h2>
     </div>
+    <div class="col-lg-3"></div>
   </div>
   
-  <div class="col-lg-3">
-    <h3 id="userDisplay"> User Price </h3>
-    <img src="../images/user_entered.png" alt="User Guess">
-    <h3 id="rfDisplay"> RF Price </h3>
-    <img src="../images/random_forest.png" alt="User Guess">
-  </div>
-  <div class="col-lg-3">
-    <h3 id="lrDisplay"> LR Price </h3>
-    <img src="../images/linear_regression.png" alt="User Guess">
-    <h3 id="nnDisplay"> NN Price </h3>
-    <img src="../images/neural_network.png" alt="User Guess">
-  </div>
+
 
 
 </div>
