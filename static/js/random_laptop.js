@@ -1,5 +1,11 @@
 var rand_num;
 
+var losingHorn = new Audio();
+losingHorn.src = "Price-is-right-losing-horn.mp3" ;
+
+var winningTheme = new Audio();
+winningTheme.src = "price-is-right-trimmed.mp3" ;
+
 function new_laptop() {
 
     var lp_max = laptops.length;
@@ -101,6 +107,13 @@ rslt_button.on('click', function() {
       d3.select(`#${first_border}`).classed('first_place', true)
       d3.select(`#${second_border}`).classed('second_place', true)
       d3.select(`#${third_border}`).classed('third_place', true)
+
+      if ((winners_ordered[0][0]) !== "User"){
+          losingHorn.play()
+      }
+      else{
+          winningTheme.play()
+      }
 });
 
 var winners_ordered;
