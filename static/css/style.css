@@ -40,19 +40,20 @@ img {
   }
 
 
-  @font-face {
-    font-family: 'pricedownblack';
-    src: url('pricedown_bl-webfont.woff2') format('woff2'),
-         url('pricedown_bl-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-  }
+@font-face {
+  font-family: 'pricedownblack';
+  src: url('pricedown_bl-webfont.woff2') format('woff2'),
+        url('pricedown_bl-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 
 .contestant_ {
   height: 7vh;
   line-height: 7vh;
   text-align:center;
   vertical-align: middle;
+  color: white;
 }
 
 .second_container {
