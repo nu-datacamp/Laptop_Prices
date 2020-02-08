@@ -93,7 +93,7 @@ rslt_button.on('click', function() {
       
       // Create a new array with only the first 5 items
       console.log(winners_ordered.slice(0, 4));
-      d3.select('#actualRetailWinner').html(`<b>First Place:</b><br>${winners_ordered[0][0]}<br><br><b>Difference of:</b><br>$${winners_ordered[0][1]}`)
+      d3.select('#actualRetailWinner').html(`<b>Winner:</b><br>${winners_ordered[0][0]}<br><br><b>Difference:</b><br>$${winners_ordered[0][1]}`)
       console.log(winners_ordered[0][0])
       first_border = (winners_ordered[0][0]).replace(' ','_')
       second_border = (winners_ordered[1][0]).replace(' ','_')
