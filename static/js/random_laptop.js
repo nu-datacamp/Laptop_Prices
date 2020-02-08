@@ -55,11 +55,21 @@ new_laptop();
 var nl_button = d3.select('#new_laptop_button');
 nl_button.on('click', function() {
     new_laptop();
+    d3.select('#actualRetailPrice').html('');
+    d3.select('#actualRetailWinner').html('');
+    d3.select(`#${first_border}`).classed('first_place', false)
+    d3.select(`#${second_border}`).classed('second_place', false)
+    d3.select(`#${third_border}`).classed('third_place', false)
+
 });
 
 var user_guess = d3.select('#userPriceSelector');
 var rslt_button = d3.select('#results_button');
 var uGuess;
+var winners_ordered;
+var first_border;
+var second_border;
+var third_border;
 rslt_button.on('click', function() {
     console.log(user_guess.property("value"));
     uGuess = user_guess.property("value");
@@ -67,17 +77,12 @@ rslt_button.on('click', function() {
     d3.select('#rfDisplay').html(`$${laptops[rand_num]['Predicted_RF']}`);
     d3.select('#lrDisplay').html(`$${laptops[rand_num]['Predicted_LR']}`);
     d3.select('#nnDisplay').html(`$${laptops[rand_num]['Predicted_NN']}`);
-    d3.select('#actualRetailPrice').html('');
-    d3.select('#actualRetailWinner').html('');
-});
-
-var winners_ordered;
-var wnr_button = d3.select('#winner_button');
-wnr_button.on('click', function() {
-    d3.select('#actualRetailPrice').html(`Actual Price: <br> $${laptops[rand_num]['Price_dollars']}`);
+    // d3.select('#actualRetailPrice').html('');
+    // d3.select('#actualRetailWinner').html('');
+    d3.select('#actualRetailPrice').html(`<b>Actual Price:</b><br>$${laptops[rand_num]['Price_dollars']}`);
     var ugabs = Math.abs(laptops[rand_num]['Price_dollars'] - uGuess);
     var results_dict = {"User": ugabs, "Random Forest": Math.abs(laptops[rand_num]['Diff_RF']), "Neural Network": Math.abs(laptops[rand_num]['Diff_NN']), "Linear Regression": Math.abs(laptops[rand_num]['Diff_LR'])}
-    var winners_ordered = Object.keys(results_dict).map(function(key) {
+    winners_ordered = Object.keys(results_dict).map(function(key) {
         return [key, results_dict[key]];
       });
       
@@ -88,7 +93,35 @@ wnr_button.on('click', function() {
       
       // Create a new array with only the first 5 items
       console.log(winners_ordered.slice(0, 4));
-      d3.select('#actualRetailWinner').html(`First Place: ${winners_ordered[0][0]}`)
-      console.log(winners_ordered)
+      d3.select('#actualRetailWinner').html(`<b>First Place:</b><br>${winners_ordered[0][0]}<br><br><b>Difference of:</b><br>$${winners_ordered[0][1]}`)
+      console.log(winners_ordered[0][0])
+      first_border = (winners_ordered[0][0]).replace(' ','_')
+      second_border = (winners_ordered[1][0]).replace(' ','_')
+      third_border = (winners_ordered[2][0]).replace(' ','_')
+      d3.select(`#${first_border}`).classed('first_place', true)
+      d3.select(`#${second_border}`).classed('second_place', true)
+      d3.select(`#${third_border}`).classed('third_place', true)
+});
 
-    });
+var winners_ordered;
+// var wnr_button = d3.select('#winner_button');
+// wnr_button.on('click', function() {
+//     d3.select('#bbarker').html('<img src="../images/0_BP.png"  width="100%">')
+//     d3.select('#actualRetailPrice').html(`Actual Price: <br> $${laptops[rand_num]['Price_dollars']}`);
+//     var ugabs = Math.abs(laptops[rand_num]['Price_dollars'] - uGuess);
+//     var results_dict = {"User": ugabs, "Random Forest": Math.abs(laptops[rand_num]['Diff_RF']), "Neural Network": Math.abs(laptops[rand_num]['Diff_NN']), "Linear Regression": Math.abs(laptops[rand_num]['Diff_LR'])}
+//     var winners_ordered = Object.keys(results_dict).map(function(key) {
+//         return [key, results_dict[key]];
+//       });
+      
+//       // Sort the array based on the second element
+//       winners_ordered.sort(function(first, second) {
+//         return first[1] - second[1];
+//       });
+      
+//       // Create a new array with only the first 5 items
+//       console.log(winners_ordered.slice(0, 4));
+//       d3.select('#actualRetailWinner').html(`First Place: ${winners_ordered[0][0]}`)
+//       console.log(winners_ordered)
+
+//     });
