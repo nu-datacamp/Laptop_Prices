@@ -78,6 +78,8 @@ var first_border;
 var second_border;
 var third_border;
 var fourth_border;
+
+var winners_ordered;
 rslt_button.on('click', function() {
     console.log(user_guess.property("value"));
     uGuess = user_guess.property("value");
