@@ -67,10 +67,10 @@ nl_button.on('click', function() {
     d3.select(`#${second_border}`).classed('second_place', false);
     d3.select(`#${third_border}`).classed('third_place', false);
     d3.select(`#${fourth_border}`).classed('fourth_place', false);
-    d3.select('#userDisplay').html('User');
-    d3.select('#rfDisplay').html('Random Forest');
-    d3.select('#lrDisplay').html('Linear Regression');
-    d3.select('#nnDisplay').html('Nueral Network');
+    d3.select('#userDisplay').html('User Price');
+    d3.select('#rfDisplay').html('RF Price');
+    d3.select('#lrDisplay').html('LR Price');
+    d3.select('#nnDisplay').html('NN Price');
 });
 
 var user_guess = d3.select('#userPriceSelector');
