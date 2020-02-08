@@ -22,69 +22,84 @@
     <p style="text-align:center;font-size:18px">Guess a laptop price against four machine learning trained data models and see who is closest... good luck.</p>
 </div>
 
-<div class="row-fluid justify-content-center">
-  <div class="col-lg-3">
-    <img class="moveimage" src="../images/1_Contestant.png"  width="50%" height="50%">
-    <h3 id="userDisplay" style="background-color:#FD5026;text-align:center;"> <b><br>User Price</b></h3>
+<div class="row-fluid" width="100%">
+  <div class="col-6 col-md-4">
+    <img src="../images/0_BP.png"  width="100%">
   </div>
-  <div class="col-lg-3">
-    <img class="moveimage" src="../images/4_RF.png"  width="50%" height="50%">
-    <h3 id="rfDisplay" style="background-color:#6160D4;text-align:center;"> <b>RF Price </b></h3>
+  <!-- <div class="col-6 col-md-2">
+  </div> -->
+  <div class="col-6 col-md-2">
+    <div id='User'>
+    <img class="moveimage" src="../images/1_Contestant.png"  width="90%" height="90%">
+    <h3 class='contestant_' id="userDisplay" style="background-color:#FD5026"><b>User Price</b></h3>
+    </div>
   </div>
-  <div class="col-lg-3">
-    <img class="moveimage" src="../images/2_LR.png"  width="50%" height="50%">
-    <h3 id="lrDisplay" style="background-color:#EED14F;text-align:center;"> <b>LR Price</b> </h3>
+  <div class="col-6 col-md-2">
+    <div id='Random_Forest'>
+    <img class="moveimage" src="../images/4_RF.png"  width="90%" height="90%">
+    <h3 class='contestant_' id="rfDisplay" style="background-color:#6160D4"><b>RF Price</b></h3>
+    </div>
   </div>
-  <div class="col-lg-3">
-    <img class="moveimage" src="../images/3_NN.png"  width="50%" height="50%">
-    <h3 id="nnDisplay" style="background-color:#00C74F;text-align:center;"> <b>NN Price</b> </h3>
+  <div class="col-6 col-md-2">
+    <div id='Linear_Regression'>
+    <img class="moveimage" src="../images/2_LR.png"  width="90%" height="90%">
+    <h3 class='contestant_'id="lrDisplay" style="background-color:#EED14F"><b>LR Price</b></h3>
+    </div>
   </div>
+  <div class="col-6 col-md-2">
+    <div id='Neural_Network'>
+    <img class="moveimage" src="../images/3_NN.png"  width="90%" height="90%">
+    <h3 class='contestant_' id="nnDisplay" style="background-color:#00C74F"><b>NN Price</b></h3>
+    </div>
   </div>
+</div>
+</div>
 
-  <br>
-  <div class="row-fluid justify-content-center"></div>
   
 
-
+<div class="container-fluid second_container">
 <div class="row-fluid justify-content-center">
-  <div class="col-lg-3"></div>
-  <div class="col-lg-3">
+  <div class="col-lg-4">
+    <table id="ufo-table" class="table table-striped">
+      <thead>
+        <tr>
+          <th class="table-head">Laptop Attribute</th>
+          <th class="table-head">Spec</th>
+        </tr>
+      </thead>
+      <tbody id='computerSpecs'></tbody>
+    </table>
+  </div>
+  
+  
+  <div class="col-lg-2">
+  <!-- User Selection -->
     <div id="wrapper">
       <button type="button" class="btn btn-secondary" id="new_laptop_button" style="border: 2px solid rgb(189, 189, 189);background-color: #e7e7e7; color: black;">Load a New Computer</button>
     </div>
-
-      <table id="ufo-table" class="table table-striped">
-        <thead>
-          <tr>
-            <th class="table-head">Laptop Attribute</th>
-            <th class="table-head">Spec</th>
-          </tr>
-        </thead>
-        <tbody id='computerSpecs'></tbody>
-      </table>
-  </div>
-  
-  <div class="col-lg-3">
-  <!-- User Selection -->
-    <aside class="filters">
+    <aside class="filters second_container">
         <li class="filter list-group-item">
           <label for="userPrice">Guess a Price</label>
           <input class="form-control" id="userPriceSelector" type="number" placeholder="$">
         </li>
     </aside>
-    <div>
       <br>
-      <button type="button" class="btn btn-secondary" id='results_button' style="border: 2px solid rgb(189, 189, 189);background-color: #e7e7e7; color: black;">Run Results</button>
-      <button type="button" class="btn btn-secondary" id='winner_button' style="border: 2px solid rgb(189, 189, 189);background-color: #e7e7e7; color: black;">Reveal Winner</button>
+      <div id="wrapper">
+      <button type="button" class="btn btn-secondary" id='results_button' style="border: 2px solid rgb(189, 189, 189);background-color: #e7e7e7; color: black;">Reveal Winner</button>
     </div>
-    <br>
+    </div>
+  </div>
+  <div class="col-lg-2">
     <div>
-
       <h2 id=actualRetailPrice></h2>
+    </div>
+  </div>
+  <div class="col-lg-4">
+    <div>
       <h2 id=actualRetailWinner></h2>
     </div>
-    <div class="col-lg-3"></div>
   </div>
+</div>
   
 
 
