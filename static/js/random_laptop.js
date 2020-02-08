@@ -63,11 +63,14 @@ nl_button.on('click', function() {
     new_laptop();
     d3.select('#actualRetailPrice').html('');
     d3.select('#actualRetailWinner').html('');
-    d3.select(`#${first_border}`).classed('first_place', false)
-    d3.select(`#${second_border}`).classed('second_place', false)
-    d3.select(`#${third_border}`).classed('third_place', false)
-    d3.select(`#${fourth_border}`).classed('fourth_place', false)
-
+    d3.select(`#${first_border}`).classed('first_place', false);
+    d3.select(`#${second_border}`).classed('second_place', false);
+    d3.select(`#${third_border}`).classed('third_place', false);
+    d3.select(`#${fourth_border}`).classed('fourth_place', false);
+    d3.select('#userDisplay').html('User');
+    d3.select('#rfDisplay').html('Random Forest');
+    d3.select('#lrDisplay').html('Linear Regression');
+    d3.select('#nnDisplay').html('Nueral Network');
 });
 
 var user_guess = d3.select('#userPriceSelector');
