@@ -3,10 +3,34 @@ body {
   margin: 0;
 }
 
-
-
 .jumbotron {
-  background-color: #e60000;
+  background-color: #db350d;
   color: white;
-  font-family: 'Pricedown'
+  padding-top: 4px;
+  padding-bottom: 4px;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+img {
+  display: block; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.moveimage {
+  position: relative;
+  top: 20px;
+  }
+
+  #wrapper {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

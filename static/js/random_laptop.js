@@ -12,13 +12,22 @@ function new_laptop() {
 
     var compspecs =  d3.select("#computerSpecs");
     compspecs.html('');
+
     var row = compspecs.append('tr');
     row.append('td').text('Company')
     row.append('td').text(`${laptops[rand_num]['Company']}`)
 
     var row = compspecs.append('tr');
-    row.append('td').text('Memory Structure')
-    row.append('td').text(`${laptops[rand_num]['Memory_Structure_Categories']}`)
+    row.append('td').text('Product')
+    row.append('td').text(`${laptops[rand_num]['Product']}`)
+
+    var row = compspecs.append('tr');
+    row.append('td').text('CPU')
+    row.append('td').text(`${laptops[rand_num]['Cpu_Full']}`)
+
+    var row = compspecs.append('tr');
+    row.append('td').text('Memory/RAM')
+    row.append('td').text(`${laptops[rand_num]['Memory_Full']}`)
 
     var row = compspecs.append('tr');
     row.append('td').text('GPU')
@@ -31,10 +40,6 @@ function new_laptop() {
     var row = compspecs.append('tr');
     row.append('td').text('RAM')
     row.append('td').text(`${laptops[rand_num]['Ram_Numeric']} GB`)
-
-    var row = compspecs.append('tr');
-    row.append('td').text('Hard Drive')
-    row.append('td').text(`${laptops[rand_num]['Size_Numeric']} GB`)
 
     var row = compspecs.append('tr');
     row.append('td').text('Screen Size')
@@ -58,10 +63,10 @@ var uGuess;
 rslt_button.on('click', function() {
     console.log(user_guess.property("value"));
     uGuess = user_guess.property("value");
-    d3.select('#userDisplay').html(`User Guess: <br> $${uGuess}`);
-    d3.select('#rfDisplay').html(`Random Forest Guess: <br> $${laptops[rand_num]['Predicted_RF']}`);
-    d3.select('#lrDisplay').html(`Linear Regression Guess: <br> $${laptops[rand_num]['Predicted_LR']}`);
-    d3.select('#nnDisplay').html(`Neural Network Guess: <br> $${laptops[rand_num]['Predicted_NN']}`);
+    d3.select('#userDisplay').html(`$${uGuess}`);
+    d3.select('#rfDisplay').html(`$${laptops[rand_num]['Predicted_RF']}`);
+    d3.select('#lrDisplay').html(`$${laptops[rand_num]['Predicted_LR']}`);
+    d3.select('#nnDisplay').html(`$${laptops[rand_num]['Predicted_NN']}`);
     d3.select('#actualRetailPrice').html('');
     d3.select('#actualRetailWinner').html('');
 });
