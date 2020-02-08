@@ -3,11 +3,15 @@ body {
   margin: 0;
 }
 
+#centeredtext {
+  text-align:center;
+}
+
 .jumbotron {
   background-color: #db350d;
   color: white;
-  padding-top: 4px;
-  padding-bottom: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
 }
 
 .center {
@@ -62,13 +66,19 @@ img {
 }
 
 .second_place {
-  border: 6px solid silver;
+  border: 8px solid #ffffff;
   padding: 5px;
   border-radius: 25px;
 }
 
 .third_place {
-  border: 4px solid #cd7f32;
+  border: 8px solid #ffffff;
+  padding: 5px;
+  border-radius: 25px;
+}
+
+.fourth_place {
+  border: 8px solid #ffffff;
   padding: 5px;
   border-radius: 25px;
 }
