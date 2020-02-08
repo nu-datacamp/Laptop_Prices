@@ -60,6 +60,7 @@ nl_button.on('click', function() {
     d3.select(`#${first_border}`).classed('first_place', false)
     d3.select(`#${second_border}`).classed('second_place', false)
     d3.select(`#${third_border}`).classed('third_place', false)
+    d3.select(`#${fourth_border}`).classed('fourth_place', false)
 
 });
 
@@ -70,6 +71,7 @@ var winners_ordered;
 var first_border;
 var second_border;
 var third_border;
+var fourth_border;
 rslt_button.on('click', function() {
     console.log(user_guess.property("value"));
     uGuess = user_guess.property("value");
@@ -98,9 +100,11 @@ rslt_button.on('click', function() {
       first_border = (winners_ordered[0][0]).replace(' ','_')
       second_border = (winners_ordered[1][0]).replace(' ','_')
       third_border = (winners_ordered[2][0]).replace(' ','_')
+      fourth_border = (winners_ordered[3][0]).replace(' ','_')
       d3.select(`#${first_border}`).classed('first_place', true)
       d3.select(`#${second_border}`).classed('second_place', true)
       d3.select(`#${third_border}`).classed('third_place', true)
+      d3.select(`#${fourth_border}`).classed('fourth_place', true)
 });
 
 var winners_ordered;
