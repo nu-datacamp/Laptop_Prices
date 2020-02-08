@@ -34,3 +34,12 @@ img {
     align-items: center;
     justify-content: center;
   }
+
+  @font-face {
+    font-family: 'pricedownblack';
+    src: url('pricedown_bl-webfont.woff2') format('woff2'),
+         url('pricedown_bl-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
