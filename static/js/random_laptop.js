@@ -56,6 +56,11 @@ function new_laptop() {
     row.append('td').text(`${laptops[rand_num]['Weight_Numeric']} kg`)
 };
 
+var first_border;
+var second_border;
+var third_border;
+var fourth_border;
+
 new_laptop();
 
 var nl_button = d3.select('#new_laptop_button');
@@ -64,9 +69,13 @@ nl_button.on('click', function() {
     d3.select('#actualRetailPrice').html('');
     d3.select('#actualRetailWinner').html('');
     d3.select(`#${first_border}`).classed('first_place', false);
+    d3.select(`#${first_border}`).classed('second_place', false);
+    d3.select(`#${second_border}`).classed('first_place', false);
     d3.select(`#${second_border}`).classed('second_place', false);
-    d3.select(`#${third_border}`).classed('third_place', false);
-    d3.select(`#${fourth_border}`).classed('fourth_place', false);
+    d3.select(`#${third_border}`).classed('first_place', false);
+    d3.select(`#${third_border}`).classed('second_place', false);
+    d3.select(`#${fourth_border}`).classed('first_place', false);
+    d3.select(`#${fourth_border}`).classed('second_place', false);
     d3.select('#userDisplay').html('<b>User Price</b>');
     d3.select('#rfDisplay').html('<b>RF Price</b>');
     d3.select('#lrDisplay').html('<b>LR Price</b>');
@@ -77,10 +86,6 @@ var user_guess = d3.select('#userPriceSelector');
 var rslt_button = d3.select('#results_button');
 var uGuess;
 var winners_ordered;
-var first_border;
-var second_border;
-var third_border;
-var fourth_border;
 
 var winners_ordered;
 rslt_button.on('click', function() {
@@ -103,30 +108,28 @@ rslt_button.on('click', function() {
       winners_ordered.sort(function(first, second) {
         return first[1] - second[1];
       });
-      
       // Create a new array with only the first 5 items
       console.log(winners_ordered.slice(0, 4));
       d3.select('#actualRetailWinner').html(`<b>Winner:</b><br>${winners_ordered[0][0]}<br><br><b>Difference:</b><br>$${winners_ordered[0][1]}`)
-      console.log(winners_ordered[0][0])
-      first_border = (winners_ordered[0][0]).replace(' ','_')
-      second_border = (winners_ordered[1][0]).replace(' ','_')
-      third_border = (winners_ordered[2][0]).replace(' ','_')
-      fourth_border = (winners_ordered[3][0]).replace(' ','_')
-      d3.select(`#${first_border}`).classed('first_place', true)
-      d3.select(`#${second_border}`).classed('second_place', true)
-      d3.select(`#${third_border}`).classed('third_place', true)
-      d3.select(`#${fourth_border}`).classed('fourth_place', true)
+      console.log(winners_ordered[0][0]);
+      first_border = (winners_ordered[0][0]).replace(' ','_');
+      second_border = (winners_ordered[1][0]).replace(' ','_');
+      third_border = (winners_ordered[2][0]).replace(' ','_');
+      fourth_border = (winners_ordered[3][0]).replace(' ','_');
+      console.log(first_border);
+      d3.select(`#${first_border}`).classed('first_place', true);
+      d3.select(`#${first_border}`).classed('second_place', false);
+      d3.select(`#${second_border}`).classed('second_place', true);
+      d3.select(`#${third_border}`).classed('second_place', true);
+      d3.select(`#${fourth_border}`).classed('second_place', true);
 
-      
       if ((winners_ordered[0][0]) !== "User"){
         losingHorn.play()
       }
       else{
-          winningTheme.play()
+          winningTheme.play() 
       }
 });
-
-var winners_ordered;
 // var wnr_button = d3.select('#winner_button');
 // wnr_button.on('click', function() {
 //     d3.select('#bbarker').html('<img src="../images/0_BP.png"  width="100%">')
